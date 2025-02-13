@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 13808,
+        "Bounced": 8338,
+        "Delivered": 5470,
+        "Opens": 2773,
+        "UniqueOpens": 919,
+        "Clicks": 1685,
+        "UniqueClicks": 1530,
+        "Clickers": 219,
+        "Complaints": 0,
+        "Unsubscribes": 6,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80719",
+  "account_name": "[FR] clubdesbonsplans.fr"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 72972,
+        "Bounced": 592,
+        "Delivered": 72380,
+        "Opens": 7068,
+        "UniqueOpens": 5766,
+        "Clicks": 109,
+        "UniqueClicks": 98,
+        "Clickers": 88,
+        "Complaints": 22,
+        "Unsubscribes": 32,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80012",
+  "account_name": "[FR] avisdebonplan.com"
+}

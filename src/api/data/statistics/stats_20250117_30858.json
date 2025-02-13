@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 44308,
+        "Bounced": 1092,
+        "Delivered": 43216,
+        "Opens": 7746,
+        "UniqueOpens": 6531,
+        "Clicks": 108,
+        "UniqueClicks": 94,
+        "Clickers": 89,
+        "Complaints": 3,
+        "Unsubscribes": 11,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30858",
+  "account_name": "[IT] unoccasione.com"
+}

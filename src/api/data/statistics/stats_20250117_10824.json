@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 144972,
+        "Bounced": 2708,
+        "Delivered": 142264,
+        "Opens": 47561,
+        "UniqueOpens": 38341,
+        "Clicks": 1141,
+        "UniqueClicks": 1004,
+        "Clickers": 857,
+        "Complaints": 65,
+        "Unsubscribes": 170,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10824",
+  "account_name": "[FR] madestine.com"
+}

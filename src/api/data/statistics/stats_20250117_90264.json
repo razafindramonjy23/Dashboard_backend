@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 16454,
+        "Bounced": 1468,
+        "Delivered": 14986,
+        "Opens": 11573,
+        "UniqueOpens": 7902,
+        "Clicks": 811,
+        "UniqueClicks": 671,
+        "Clickers": 324,
+        "Complaints": 0,
+        "Unsubscribes": 59,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "90264",
+  "account_name": "[BENL] voordeelpakketten.com"
+}

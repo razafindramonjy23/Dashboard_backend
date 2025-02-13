@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 4448,
+        "Bounced": 22,
+        "Delivered": 4426,
+        "Opens": 2611,
+        "UniqueOpens": 1462,
+        "Clicks": 567,
+        "UniqueClicks": 543,
+        "Clickers": 177,
+        "Complaints": 0,
+        "Unsubscribes": 13,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "70098",
+  "account_name": "[BEFR] debonnesaffaires.com"
+}

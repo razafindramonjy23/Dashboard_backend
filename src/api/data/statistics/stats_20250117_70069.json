@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 70453,
+        "Bounced": 1282,
+        "Delivered": 69171,
+        "Opens": 15514,
+        "UniqueOpens": 12552,
+        "Clicks": 499,
+        "UniqueClicks": 458,
+        "Clickers": 220,
+        "Complaints": 15,
+        "Unsubscribes": 36,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "70069",
+  "account_name": "[FR] lamaisonindigoo.com"
+}

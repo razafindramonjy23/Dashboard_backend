@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 0,
+        "Bounced": 0,
+        "Delivered": 0,
+        "Opens": 12,
+        "UniqueOpens": 11,
+        "Clicks": 0,
+        "UniqueClicks": 0,
+        "Clickers": 0,
+        "Complaints": 0,
+        "Unsubscribes": 1,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10910",
+  "account_name": "[AU] daily-promo.net"
+}

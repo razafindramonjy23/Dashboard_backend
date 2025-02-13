@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 228422,
+        "Bounced": 3462,
+        "Delivered": 224960,
+        "Opens": 64839,
+        "UniqueOpens": 55198,
+        "Clicks": 1700,
+        "UniqueClicks": 1307,
+        "Clickers": 702,
+        "Complaints": 54,
+        "Unsubscribes": 187,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "11008",
+  "account_name": "[FR] cornerpromo.com"
+}

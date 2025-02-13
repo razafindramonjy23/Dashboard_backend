@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 6376,
+        "Bounced": 486,
+        "Delivered": 5890,
+        "Opens": 376,
+        "UniqueOpens": 337,
+        "Clicks": 9,
+        "UniqueClicks": 9,
+        "Clickers": 4,
+        "Complaints": 0,
+        "Unsubscribes": 3,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80660",
+  "account_name": "[FR] jesuisproprietaire.com"
+}

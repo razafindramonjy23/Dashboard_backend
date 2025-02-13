@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 3885,
+        "Bounced": 474,
+        "Delivered": 3411,
+        "Opens": 9586,
+        "UniqueOpens": 5791,
+        "Clicks": 323,
+        "UniqueClicks": 294,
+        "Clickers": 269,
+        "Complaints": 34,
+        "Unsubscribes": 21,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10894",
+  "account_name": "[FR] lapepitedunet.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 7477,
+        "Bounced": 2,
+        "Delivered": 7475,
+        "Opens": 142,
+        "UniqueOpens": 106,
+        "Clicks": 0,
+        "UniqueClicks": 0,
+        "Clickers": 0,
+        "Complaints": 0,
+        "Unsubscribes": 0,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "90261",
+  "account_name": "[AU] aussiegoodplans.com"
+}

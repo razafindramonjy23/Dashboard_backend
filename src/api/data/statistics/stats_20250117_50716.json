@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 0,
+        "Bounced": 0,
+        "Delivered": 0,
+        "Opens": 0,
+        "UniqueOpens": 0,
+        "Clicks": 0,
+        "UniqueClicks": 0,
+        "Clickers": 0,
+        "Complaints": 0,
+        "Unsubscribes": 0,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "50716",
+  "account_name": "[BE] voordeelpakkers.be"
+}

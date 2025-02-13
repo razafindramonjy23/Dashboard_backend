@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 44731,
+        "Bounced": 1047,
+        "Delivered": 43684,
+        "Opens": 6344,
+        "UniqueOpens": 4759,
+        "Clicks": 26,
+        "UniqueClicks": 26,
+        "Clickers": 22,
+        "Complaints": 2,
+        "Unsubscribes": 38,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "90181",
+  "account_name": "[AU] aussiedailytip.com"
+}

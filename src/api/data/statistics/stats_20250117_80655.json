@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 5208,
+        "Bounced": 412,
+        "Delivered": 4796,
+        "Opens": 293,
+        "UniqueOpens": 236,
+        "Clicks": 23,
+        "UniqueClicks": 23,
+        "Clickers": 5,
+        "Complaints": 0,
+        "Unsubscribes": 3,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80655",
+  "account_name": "[FR] je-conduis.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 156007,
+        "Bounced": 9776,
+        "Delivered": 146231,
+        "Opens": 34260,
+        "UniqueOpens": 26873,
+        "Clicks": 739,
+        "UniqueClicks": 687,
+        "Clickers": 278,
+        "Complaints": 26,
+        "Unsubscribes": 67,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "70091",
+  "account_name": "[FR] matendanceshopping.com"
+}

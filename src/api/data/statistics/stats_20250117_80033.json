@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 114002,
+        "Bounced": 30,
+        "Delivered": 113972,
+        "Opens": 17264,
+        "UniqueOpens": 13592,
+        "Clicks": 777,
+        "UniqueClicks": 707,
+        "Clickers": 633,
+        "Complaints": 20,
+        "Unsubscribes": 41,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80033",
+  "account_name": "[FR] alertebonsplans.com"
+}

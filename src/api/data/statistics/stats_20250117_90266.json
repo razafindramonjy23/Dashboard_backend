@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 21448,
+        "Bounced": 122,
+        "Delivered": 21326,
+        "Opens": 1831,
+        "UniqueOpens": 1368,
+        "Clicks": 27,
+        "UniqueClicks": 27,
+        "Clickers": 25,
+        "Complaints": 0,
+        "Unsubscribes": 44,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "90266",
+  "account_name": "[DE] tippshopping.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 4578,
+        "Bounced": 176,
+        "Delivered": 4402,
+        "Opens": 224,
+        "UniqueOpens": 170,
+        "Clicks": 13,
+        "UniqueClicks": 13,
+        "Clickers": 13,
+        "Complaints": 1,
+        "Unsubscribes": 0,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80656",
+  "account_name": "[FR] lebasdelaine.com"
+}

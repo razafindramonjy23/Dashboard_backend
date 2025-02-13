@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 159019,
+        "Bounced": 3309,
+        "Delivered": 155710,
+        "Opens": 31856,
+        "UniqueOpens": 24962,
+        "Clicks": 882,
+        "UniqueClicks": 811,
+        "Clickers": 747,
+        "Complaints": 111,
+        "Unsubscribes": 110,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10823",
+  "account_name": "[FR] enviedbonsplans.com"
+}

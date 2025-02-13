@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 0,
+        "Bounced": 0,
+        "Delivered": 0,
+        "Opens": 9,
+        "UniqueOpens": 1,
+        "Clicks": 0,
+        "UniqueClicks": 0,
+        "Clickers": 0,
+        "Complaints": 0,
+        "Unsubscribes": 0,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30554",
+  "account_name": "[FR] reducsweekend.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 0,
+        "Bounced": 0,
+        "Delivered": 0,
+        "Opens": 18,
+        "UniqueOpens": 7,
+        "Clicks": 1,
+        "UniqueClicks": 0,
+        "Clickers": 0,
+        "Complaints": 0,
+        "Unsubscribes": 0,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "90184",
+  "account_name": "[BE NL] koopjesplek.com"
+}

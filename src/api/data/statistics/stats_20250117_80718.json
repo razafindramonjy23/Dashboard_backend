@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 13048,
+        "Bounced": 4736,
+        "Delivered": 8312,
+        "Opens": 1581,
+        "UniqueOpens": 493,
+        "Clicks": 1070,
+        "UniqueClicks": 1017,
+        "Clickers": 136,
+        "Complaints": 0,
+        "Unsubscribes": 13,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80718",
+  "account_name": "[FR] ideedujour.com"
+}

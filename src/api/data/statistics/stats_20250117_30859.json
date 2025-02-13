@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 6750,
+        "Bounced": 176,
+        "Delivered": 6574,
+        "Opens": 3439,
+        "UniqueOpens": 2922,
+        "Clicks": 37,
+        "UniqueClicks": 30,
+        "Clickers": 24,
+        "Complaints": 1,
+        "Unsubscribes": 24,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30859",
+  "account_name": "[ES] propuestadeldia.com"
+}

@@ -1,0 +1,35 @@
+import tldextract
+import logging
+
+logger = logging.getLogger(__name__)
+
+def get_domain_family(base_name):
+    """
+    Extrait la famille de domaine à partir du nom de base
+    """
+    # Extraction du domaine à partir du nom de base (ex: "[DE] privilegienkauf.com" -> "privilegienkauf.com")
+    domain = base_name.split(']')[-1].strip() if ']' in base_name else base_name
+    
+    # Utilisation de tldextract pour obtenir le domaine de base
+    extracted = tldextract.extract(domain)
+    domain_base = extracted.domain.lower()
+    
+    # Mapping des domaines connus
+    domain_mapping = {
+        'gmail': ['google', 'gmail', 'googlemail'],
+        'yahoo': ['yahoo', 'ymail'],
+        'hotmail': ['hotmail', 'outlook', 'live', 'msn'],
+        'orange': ['orange'],
+        'free': ['free'],
+        'sfr': ['sfr'],
+        'laposte': ['laposte'],
+        'aol': ['aol'],
+    }
+    
+    # Vérification dans le mapping
+    for family, patterns in domain_mapping.items():
+        if domain_base in patterns:
+            return family
+            
+    return domain_base if domain_base else 'other'
+

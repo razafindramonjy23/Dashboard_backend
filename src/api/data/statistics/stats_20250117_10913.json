@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 163961,
+        "Bounced": 5433,
+        "Delivered": 158528,
+        "Opens": 71238,
+        "UniqueOpens": 55941,
+        "Clicks": 995,
+        "UniqueClicks": 893,
+        "Clickers": 772,
+        "Complaints": 221,
+        "Unsubscribes": 265,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10913",
+  "account_name": "[FR] lesdenicheursdunet.com"
+}

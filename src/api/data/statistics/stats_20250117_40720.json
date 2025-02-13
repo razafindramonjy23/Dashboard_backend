@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 64718,
+        "Bounced": 2528,
+        "Delivered": 62190,
+        "Opens": 11264,
+        "UniqueOpens": 8770,
+        "Clicks": 396,
+        "UniqueClicks": 359,
+        "Clickers": 291,
+        "Complaints": 25,
+        "Unsubscribes": 50,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "40720",
+  "account_name": "[FR] conso-club.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 96,
+        "Bounced": 30,
+        "Delivered": 66,
+        "Opens": 32,
+        "UniqueOpens": 16,
+        "Clicks": 1,
+        "UniqueClicks": 1,
+        "Clickers": 1,
+        "Complaints": 0,
+        "Unsubscribes": 0,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30794",
+  "account_name": "[FR] jeuxgagne.fr"
+}

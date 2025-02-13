@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 393,
+        "Bounced": 6,
+        "Delivered": 387,
+        "Opens": 21,
+        "UniqueOpens": 18,
+        "Clicks": 2,
+        "UniqueClicks": 2,
+        "Clickers": 1,
+        "Complaints": 0,
+        "Unsubscribes": 2,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "50578",
+  "account_name": "[FR] laselectiondegedeon.com"
+}

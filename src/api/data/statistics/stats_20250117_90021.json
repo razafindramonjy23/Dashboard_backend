@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 4119,
+        "Bounced": 1062,
+        "Delivered": 3057,
+        "Opens": 1486,
+        "UniqueOpens": 996,
+        "Clicks": 195,
+        "UniqueClicks": 171,
+        "Clickers": 37,
+        "Complaints": 0,
+        "Unsubscribes": 4,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "90021",
+  "account_name": "[FR] bonplansurmesure.com"
+}

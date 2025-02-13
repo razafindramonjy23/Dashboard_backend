@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 52887,
+        "Bounced": 35,
+        "Delivered": 52852,
+        "Opens": 5696,
+        "UniqueOpens": 4410,
+        "Clicks": 62,
+        "UniqueClicks": 60,
+        "Clickers": 51,
+        "Complaints": 13,
+        "Unsubscribes": 35,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80020",
+  "account_name": "[FR] francebonsplans.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 35513,
+        "Bounced": 11631,
+        "Delivered": 23882,
+        "Opens": 7723,
+        "UniqueOpens": 5146,
+        "Clicks": 961,
+        "UniqueClicks": 889,
+        "Clickers": 183,
+        "Complaints": 2,
+        "Unsubscribes": 14,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "11056",
+  "account_name": "[FR] votrentreprise.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 38887,
+        "Bounced": 3039,
+        "Delivered": 35848,
+        "Opens": 7020,
+        "UniqueOpens": 5103,
+        "Clicks": 584,
+        "UniqueClicks": 510,
+        "Clickers": 121,
+        "Complaints": 0,
+        "Unsubscribes": 176,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30806",
+  "account_name": "[FR] unepepiteparjour.com"
+}

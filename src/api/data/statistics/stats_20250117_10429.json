@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 138722,
+        "Bounced": 3159,
+        "Delivered": 135563,
+        "Opens": 34482,
+        "UniqueOpens": 28609,
+        "Clicks": 338,
+        "UniqueClicks": 312,
+        "Clickers": 290,
+        "Complaints": 42,
+        "Unsubscribes": 196,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10429",
+  "account_name": "[FR] promoenexclu.com"
+}

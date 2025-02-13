@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 77194,
+        "Bounced": 46,
+        "Delivered": 77148,
+        "Opens": 14726,
+        "UniqueOpens": 11762,
+        "Clicks": 250,
+        "UniqueClicks": 218,
+        "Clickers": 191,
+        "Complaints": 13,
+        "Unsubscribes": 67,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80054",
+  "account_name": "[FR] pandaguideconso.com"
+}

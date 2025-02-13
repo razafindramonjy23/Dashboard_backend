@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 169593,
+        "Bounced": 3502,
+        "Delivered": 166091,
+        "Opens": 59822,
+        "UniqueOpens": 48064,
+        "Clicks": 1441,
+        "UniqueClicks": 1377,
+        "Clickers": 1252,
+        "Complaints": 55,
+        "Unsubscribes": 38,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10319",
+  "account_name": "[FR] tempsprivilege.com"
+}

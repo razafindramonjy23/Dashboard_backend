@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 72744,
+        "Bounced": 1578,
+        "Delivered": 71166,
+        "Opens": 11147,
+        "UniqueOpens": 9118,
+        "Clicks": 169,
+        "UniqueClicks": 131,
+        "Clickers": 60,
+        "Complaints": 53,
+        "Unsubscribes": 108,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "40006",
+  "account_name": "[FR] supermalin.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 127628,
+        "Bounced": 2766,
+        "Delivered": 124862,
+        "Opens": 57092,
+        "UniqueOpens": 42534,
+        "Clicks": 803,
+        "UniqueClicks": 565,
+        "Clickers": 261,
+        "Complaints": 53,
+        "Unsubscribes": 101,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "40018",
+  "account_name": "[FR] lagendadesventesprivees.com"
+}

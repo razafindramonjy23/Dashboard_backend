@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 3052,
+        "Bounced": 331,
+        "Delivered": 2721,
+        "Opens": 732,
+        "UniqueOpens": 563,
+        "Clicks": 48,
+        "UniqueClicks": 42,
+        "Clickers": 30,
+        "Complaints": 0,
+        "Unsubscribes": 54,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "80704",
+  "account_name": "[DE] sparfinde.de"
+}

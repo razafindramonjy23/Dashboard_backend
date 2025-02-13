@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 344,
+        "Bounced": 1,
+        "Delivered": 343,
+        "Opens": 12,
+        "UniqueOpens": 8,
+        "Clicks": 0,
+        "UniqueClicks": 0,
+        "Clickers": 0,
+        "Complaints": 0,
+        "Unsubscribes": 0,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30428",
+  "account_name": "[FR] selectiondastuce.com"
+}

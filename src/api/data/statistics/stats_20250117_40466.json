@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 51676,
+        "Bounced": 507,
+        "Delivered": 51169,
+        "Opens": 16908,
+        "UniqueOpens": 13292,
+        "Clicks": 626,
+        "UniqueClicks": 590,
+        "Clickers": 492,
+        "Complaints": 20,
+        "Unsubscribes": 92,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "40466",
+  "account_name": "[FR] mestrucsetastuces.com"
+}

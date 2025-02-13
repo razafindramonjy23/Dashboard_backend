@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 354,
+        "Bounced": 55,
+        "Delivered": 299,
+        "Opens": 31,
+        "UniqueOpens": 23,
+        "Clicks": 8,
+        "UniqueClicks": 8,
+        "Clickers": 2,
+        "Complaints": 0,
+        "Unsubscribes": 0,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "70271",
+  "account_name": "[FR] lastucedujour.com"
+}

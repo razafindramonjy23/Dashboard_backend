@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 12683,
+        "Bounced": 4076,
+        "Delivered": 8607,
+        "Opens": 753,
+        "UniqueOpens": 615,
+        "Clicks": 21,
+        "UniqueClicks": 19,
+        "Clickers": 13,
+        "Complaints": 0,
+        "Unsubscribes": 59,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10822",
+  "account_name": "[FR] clubdesreducs.com"
+}

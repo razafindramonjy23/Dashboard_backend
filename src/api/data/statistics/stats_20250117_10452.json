@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 147993,
+        "Bounced": 42,
+        "Delivered": 147951,
+        "Opens": 90712,
+        "UniqueOpens": 73376,
+        "Clicks": 388,
+        "UniqueClicks": 345,
+        "Clickers": 307,
+        "Complaints": 22,
+        "Unsubscribes": 134,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10452",
+  "account_name": "[FR] consommermoinscher.com"
+}

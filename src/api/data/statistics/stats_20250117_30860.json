@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 20000,
+        "Bounced": 123,
+        "Delivered": 19877,
+        "Opens": 11882,
+        "UniqueOpens": 8589,
+        "Clicks": 38,
+        "UniqueClicks": 36,
+        "Clickers": 34,
+        "Complaints": 0,
+        "Unsubscribes": 28,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30860",
+  "account_name": "[AU] bestoztips.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 2664,
+        "Bounced": 310,
+        "Delivered": 2354,
+        "Opens": 743,
+        "UniqueOpens": 455,
+        "Clicks": 59,
+        "UniqueClicks": 22,
+        "Clickers": 8,
+        "Complaints": 4,
+        "Unsubscribes": 2,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "90039",
+  "account_name": "[AU] oznewdeals.com"
+}

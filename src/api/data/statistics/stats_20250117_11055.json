@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 53344,
+        "Bounced": 796,
+        "Delivered": 52548,
+        "Opens": 8839,
+        "UniqueOpens": 7205,
+        "Clicks": 134,
+        "UniqueClicks": 126,
+        "Clickers": 101,
+        "Complaints": 12,
+        "Unsubscribes": 27,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "11055",
+  "account_name": "[FR] fandebonsplans.com"
+}

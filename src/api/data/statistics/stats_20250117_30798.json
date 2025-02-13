@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 75128,
+        "Bounced": 728,
+        "Delivered": 74400,
+        "Opens": 15855,
+        "UniqueOpens": 12665,
+        "Clicks": 710,
+        "UniqueClicks": 661,
+        "Clickers": 602,
+        "Complaints": 15,
+        "Unsubscribes": 58,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30798",
+  "account_name": "[FR] vivelesreducs.com"
+}

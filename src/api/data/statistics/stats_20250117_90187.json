@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 4274,
+        "Bounced": 1736,
+        "Delivered": 2538,
+        "Opens": 1103,
+        "UniqueOpens": 589,
+        "Clicks": 293,
+        "UniqueClicks": 241,
+        "Clickers": 134,
+        "Complaints": 0,
+        "Unsubscribes": 3,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "90187",
+  "account_name": "[ES] aficionadochollo.com"
+}

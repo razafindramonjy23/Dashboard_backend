@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 20272,
+        "Bounced": 8199,
+        "Delivered": 12073,
+        "Opens": 5998,
+        "UniqueOpens": 4617,
+        "Clicks": 144,
+        "UniqueClicks": 90,
+        "Clickers": 35,
+        "Complaints": 1,
+        "Unsubscribes": 12,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10911",
+  "account_name": "[AU] ozripperdeal.com"
+}

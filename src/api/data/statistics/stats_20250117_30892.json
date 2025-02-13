@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 75025,
+        "Bounced": 2831,
+        "Delivered": 72194,
+        "Opens": 33595,
+        "UniqueOpens": 17634,
+        "Clicks": 10304,
+        "UniqueClicks": 8624,
+        "Clickers": 453,
+        "Complaints": 26,
+        "Unsubscribes": 102,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30892",
+  "account_name": "[FR] lecourrierdesentrepreneurs.com"
+}

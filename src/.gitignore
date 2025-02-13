@@ -1,0 +1,4 @@
+#Backend aloh ny ray 
+backend/src/api/config/api_config.json
+backend/src/api/config/domain_mapping.json
+*/.env

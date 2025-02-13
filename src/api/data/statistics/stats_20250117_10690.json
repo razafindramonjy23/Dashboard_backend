@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 60193,
+        "Bounced": 44,
+        "Delivered": 60149,
+        "Opens": 11753,
+        "UniqueOpens": 9006,
+        "Clicks": 414,
+        "UniqueClicks": 361,
+        "Clickers": 153,
+        "Complaints": 45,
+        "Unsubscribes": 32,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10690",
+  "account_name": "[FR] comptoirdesreducs.com"
+}

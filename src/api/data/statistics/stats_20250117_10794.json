@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 92559,
+        "Bounced": 4214,
+        "Delivered": 88345,
+        "Opens": 10689,
+        "UniqueOpens": 8284,
+        "Clicks": 60,
+        "UniqueClicks": 59,
+        "Clickers": 53,
+        "Complaints": 0,
+        "Unsubscribes": 956,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10794",
+  "account_name": "[FR] lesprivileges.net"
+}

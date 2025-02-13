@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 38928,
+        "Bounced": 6422,
+        "Delivered": 32506,
+        "Opens": 2442,
+        "UniqueOpens": 1945,
+        "Clicks": 132,
+        "UniqueClicks": 126,
+        "Clickers": 47,
+        "Complaints": 0,
+        "Unsubscribes": 5,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "70070",
+  "account_name": "[FR] vosreductions.com"
+}

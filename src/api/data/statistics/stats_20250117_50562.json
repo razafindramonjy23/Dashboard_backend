@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 61923,
+        "Bounced": 281,
+        "Delivered": 61642,
+        "Opens": 8697,
+        "UniqueOpens": 6659,
+        "Clicks": 204,
+        "UniqueClicks": 145,
+        "Clickers": 105,
+        "Complaints": 13,
+        "Unsubscribes": 39,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "50562",
+  "account_name": "[FR] shoptapromo.com"
+}

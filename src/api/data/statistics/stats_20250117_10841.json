@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 2442,
+        "Bounced": 431,
+        "Delivered": 2011,
+        "Opens": 190,
+        "UniqueOpens": 145,
+        "Clicks": 37,
+        "UniqueClicks": 37,
+        "Clickers": 12,
+        "Complaints": 0,
+        "Unsubscribes": 11,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10841",
+  "account_name": "[FR] desirsbrulant.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 66606,
+        "Bounced": 5159,
+        "Delivered": 61447,
+        "Opens": 10646,
+        "UniqueOpens": 7913,
+        "Clicks": 1087,
+        "UniqueClicks": 1016,
+        "Clickers": 137,
+        "Complaints": 4,
+        "Unsubscribes": 15,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "70142",
+  "account_name": "[FR] lalettredesentrepreneurs.com"
+}

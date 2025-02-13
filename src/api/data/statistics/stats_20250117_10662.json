@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 70699,
+        "Bounced": 461,
+        "Delivered": 70238,
+        "Opens": 13376,
+        "UniqueOpens": 10728,
+        "Clicks": 295,
+        "UniqueClicks": 269,
+        "Clickers": 241,
+        "Complaints": 56,
+        "Unsubscribes": 105,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "10662",
+  "account_name": "[FR] lastucieux.com"
+}

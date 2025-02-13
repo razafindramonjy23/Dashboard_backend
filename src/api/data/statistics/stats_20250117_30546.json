@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 68373,
+        "Bounced": 2644,
+        "Delivered": 65729,
+        "Opens": 13396,
+        "UniqueOpens": 9762,
+        "Clicks": 1075,
+        "UniqueClicks": 1059,
+        "Clickers": 121,
+        "Complaints": 76,
+        "Unsubscribes": 10,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "30546",
+  "account_name": "[FR] lafoireauxaffaires.com"
+}

@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "SummaryStatistics": [
+      {
+        "IsSummaryRow": true,
+        "Sent": 214314,
+        "Bounced": 417,
+        "Delivered": 213897,
+        "Opens": 59464,
+        "UniqueOpens": 44873,
+        "Clicks": 2051,
+        "UniqueClicks": 1736,
+        "Clickers": 893,
+        "Complaints": 66,
+        "Unsubscribes": 97,
+        "Goals": 0,
+        "GoalsValue": 0
+      }
+    ]
+  },
+  "account_id": "50360",
+  "account_name": "[FR] uneproposition.com"
+}
