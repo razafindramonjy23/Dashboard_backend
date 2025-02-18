@@ -1,3 +1,4 @@
+# api/views/metrics.py
 from rest_framework import viewsets, status
 from rest_framework.decorators import action
 from rest_framework.response import Response
@@ -11,8 +12,10 @@ from datetime import datetime
 from django.db.models import Min, Max, Count
 from django.db.models.functions import TruncYear
 
+
 def parse_date(date_str):
     return datetime.strptime(date_str, '%Y-%m-%d').date()
+
 
 class CustomPagination(PageNumberPagination):
     """
@@ -22,14 +25,16 @@ class CustomPagination(PageNumberPagination):
     page_size_query_param = 'page_size'
     max_page_size = 100
 
+
 class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
     """
     Fournit des endpoints pour accéder et analyser les données de campagne.
     """
+
     queryset = CampaignMetrics.objects.select_related('database').all()
     serializer_class = CampaignMetricsSerializer
     pagination_class = CustomPagination
-    
+
     filterset_fields = {
         'date': ['gte', 'lte', 'exact', 'year', 'month'],
         'database': ['exact'],
@@ -45,6 +50,12 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
         'delivered': Sum('delivered'),
         'bounced': Sum('bounced'),
         'revenue': Sum('revenue'),
+        'unique_opens': Sum('unique_opens'),
+        'clickers': Sum('clickers'),
+        'complaints': Sum('complaints'),
+        'unsubscribes': Sum('unsubscribes'),
+        'goals': Sum('goals'),
+        'goals_value': Sum('goals_value'),
         'open_rate': Case(
             When(delivered__gt=0, then=(Sum('opens') * 100.0 / Sum('delivered'))),
             default=Value(0.0),
@@ -70,10 +81,10 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
         if page is not None:
             return self.get_paginated_response(page)
         return Response(queryset)
-    
+
     def get_queryset(self):
         queryset = super().get_queryset()
-    
+
         queryset = queryset.annotate(
             domain_family_display=Case(
                 When(domain_family='', then=Value('Unknown')),
@@ -84,8 +95,8 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
         )
 
         geo = self.request.query_params.get('geo_location')
-        
-        if geo: 
+
+        if geo:
             queryset = queryset.filter(geo_location__icontains=geo)
         return queryset
 
@@ -162,10 +173,10 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
             summary = queryset.annotate(
                 period=date_trunc
             ).values('period').annotate(
-                total_sent=Sum('sent', default=0),
-                total_revenue=Sum('revenue', default=0),
-                total_delivered=Sum('delivered', default=0),
-                total_opens=Sum('opens', default=0),
+                total_sent=Sum('sent'),
+                total_revenue=Sum('revenue'),
+                total_delivered=Sum('delivered'),
+                total_opens=Sum('opens'),
                 open_rate=Case(
                     When(delivered__gt=0, then=(Sum('opens') * 100.0 / Sum('delivered'))),
                     default=Value(0.0),
@@ -193,7 +204,7 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
         """
         try:
             queryset = self.filter_queryset(self.get_queryset())
-            
+
             summary = queryset.values(
                 'domain_family_display'
             ).annotate(
@@ -267,26 +278,55 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
             )
 
     @action(detail=False, methods=['GET'])
-    def group_by(self, request):
+    def pivot_table(self, request):
         """
-        Permet de grouper les métriques selon différents critères.
+        Endpoint flexible pour créer des tableaux croisés dynamiques.
+        Permet de grouper, agréger et trier les données selon les paramètres de la requête.
         """
-        try:           
+        try:
             group_by = request.query_params.getlist('group_by') or ['domain_family_display']
-            metrics = request.query_params.getlist('metrics') or ['sent', 'revenue', 'opens']           
-            queryset = self.filter_queryset(self.get_queryset())           
-            
-            aggregation = {
-                f'total_{metric}': self.metrics_mapping[metric]
-                for metric in metrics if metric in self.metrics_mapping
-            }
+            metrics = request.query_params.getlist('metrics') or ['sent', 'revenue', 'opens']
+            order_by = request.query_params.get('order_by', None)
+            queryset = self.filter_queryset(self.get_queryset())
 
-            result = queryset.values(*group_by).annotate(**aggregation).order_by(*group_by)
-            
+            aggregation = {}
+            for metric in metrics:
+                if metric in self.metrics_mapping:
+                    aggregation[f'total_{metric}'] = self.metrics_mapping[metric]
+                else:
+                    return Response(
+                        {"error": f"Invalid metric: {metric}"},
+                        status=status.HTTP_400_BAD_REQUEST
+                    )
+
+            result = queryset.values(*group_by).annotate(**aggregation)
+
+            # Trier les résultats
+            if order_by:
+                if order_by.startswith('-'):
+                    order_by_field = order_by[1:]
+                    if f'total_{order_by_field}' in aggregation:
+                        result = result.order_by(order_by)
+                    else:
+                        return Response(
+                            {"error": f"Cannot sort by {order_by_field}.  It's not a valid metric."},
+                            status=status.HTTP_400_BAD_REQUEST
+                        )
+                else:
+                    if f'total_{order_by}' in aggregation:
+                        result = result.order_by(order_by)
+                    else:
+                        return Response(
+                            {"error": f"Cannot sort by {order_by}. It's not a valid metric."},
+                            status=status.HTTP_400_BAD_REQUEST
+                        )
+            else:
+                result = result.order_by(*group_by)
+
             return self._handle_pagination(result)
-            
+
         except Exception as e:
             return Response(
-                {"error": f"Grouping error: {str(e)}"},
+                {"error": f"Pivot table error: {str(e)}"},
                 status=status.HTTP_500_INTERNAL_SERVER_ERROR
             )
