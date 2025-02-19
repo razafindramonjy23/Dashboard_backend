@@ -1,16 +1,9 @@
 from pathlib import Path
 
-# Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
-
-# SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-#8b4juk#l2f2r-5mrc0i=&ctw9h6glople-4qox@q=8rop9qzc'
 
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = []
@@ -44,6 +37,7 @@ REST_FRAMEWORK = {
 }
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -51,8 +45,6 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-
-    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
 ]
 
@@ -90,7 +82,7 @@ WSGI_APPLICATION = 'Dashboard.wsgi.application'
 DATABASES = {
     "default" : {
         "ENGINE" : "django.db.backends.postgresql",
-        "NAME" : "ExpertSender",
+        "NAME" : "Dashboard_RD",
         "USER" : "postgres",
         "PASSWORD" : "postgres",
         "HOST" : "localhost",
@@ -158,7 +150,15 @@ CORS_ALLOW_METHODS = [
     "OPTIONS",
 ]
 
-CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_HEADERS = [
+    "authorization",
+    "content-type",
+    "x-csrftoken",
+]
+
+
+# CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
 ]
@@ -187,8 +187,8 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'razafindramonjytahina@gmail.com'
-EMAIL_HOST_PASSWORD = 'Kontikiservice2022!3008!'
-FRONTEND_URL = 'http://localhost:3000'
+EMAIL_HOST_PASSWORD = 'ReDRaBBiT200600*'
+FRONTEND_URL = 'http://localhost:5173'
 
 
 

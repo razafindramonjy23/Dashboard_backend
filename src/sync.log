@@ -105705,3 +105705,2218 @@ Métrique 465 mise à jour:  -> ES
 Métrique 466 mise à jour:  -> ES
 Métrique 467 mise à jour:  -> ES
 Métrique 468 mise à jour:  -> ES
+Looking for config file at: F:\JOB\RD\Dashboard_RD\backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (2)
+Failed to save statistics for [FR] cornerpromo.com (2): ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Failed to process account 2: ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+Processing account [FR] mesemplettesvip-k.com (90280)
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Métrique 1481 mise à jour:  -> FR
+Métrique 1480 mise à jour:  -> FR
+Métrique 1479 mise à jour:  -> FR
+Métrique 1478 mise à jour:  -> FR
+Métrique 1477 mise à jour:  -> FR
+Métrique 1476 mise à jour:  -> FR
+Métrique 1475 mise à jour:  -> FR
+Métrique 1474 mise à jour:  -> FR
+Métrique 1496 mise à jour:  -> FR
+Métrique 1458 mise à jour:  -> FR
+Métrique 1457 mise à jour:  -> FR
+Métrique 1456 mise à jour:  -> FR
+Métrique 1455 mise à jour:  -> FR
+Métrique 1454 mise à jour:  -> FR
+Métrique 1453 mise à jour:  -> FR
+Métrique 1452 mise à jour:  -> FR
+Métrique 1473 mise à jour:  -> FR
+Métrique 1472 mise à jour:  -> FR
+Métrique 1471 mise à jour:  -> FR
+Métrique 1470 mise à jour:  -> FR
+Métrique 1469 mise à jour:  -> FR
+Métrique 1468 mise à jour:  -> FR
+Métrique 1505 mise à jour:  -> FR
+Métrique 1504 mise à jour:  -> FR
+Métrique 1503 mise à jour:  -> FR
+Métrique 1502 mise à jour:  -> FR
+Métrique 1501 mise à jour:  -> FR
+Métrique 1428 mise à jour:  -> FR
+Métrique 1427 mise à jour:  -> FR
+Métrique 1426 mise à jour:  -> FR
+Métrique 1425 mise à jour:  -> FR
+Métrique 1424 mise à jour:  -> FR
+Métrique 1423 mise à jour:  -> FR
+Métrique 1422 mise à jour:  -> FR
+Métrique 1421 mise à jour:  -> FR
+Métrique 1500 mise à jour:  -> FR
+Métrique 1499 mise à jour:  -> FR
+Métrique 1498 mise à jour:  -> FR
+Métrique 1497 mise à jour:  -> FR
+Métrique 1494 mise à jour:  -> FR
+Métrique 1493 mise à jour:  -> FR
+Métrique 1492 mise à jour:  -> FR
+Métrique 1491 mise à jour:  -> FR
+Métrique 1490 mise à jour:  -> FR
+Métrique 1489 mise à jour:  -> FR
+Métrique 1403 mise à jour:  -> FR
+Métrique 1404 mise à jour:  -> FR
+Métrique 1405 mise à jour:  -> FR
+Métrique 1406 mise à jour:  -> FR
+Métrique 1407 mise à jour:  -> FR
+Métrique 1408 mise à jour:  -> FR
+Métrique 1409 mise à jour:  -> FR
+Métrique 1410 mise à jour:  -> FR
+Métrique 1434 mise à jour:  -> FR
+Métrique 1433 mise à jour:  -> FR
+Métrique 1432 mise à jour:  -> FR
+Métrique 1431 mise à jour:  -> FR
+Métrique 1430 mise à jour:  -> FR
+Métrique 1429 mise à jour:  -> FR
+Métrique 1517 mise à jour:  -> IT
+Métrique 1516 mise à jour:  -> IT
+Métrique 1515 mise à jour:  -> IT
+Métrique 1514 mise à jour:  -> IT
+Métrique 1513 mise à jour:  -> IT
+Métrique 1512 mise à jour:  -> IT
+Métrique 1373 mise à jour:  -> DE
+Métrique 1374 mise à jour:  -> DE
+Métrique 1375 mise à jour:  -> DE
+Métrique 1376 mise à jour:  -> DE
+Métrique 1377 mise à jour:  -> DE
+Métrique 1378 mise à jour:  -> DE
+Métrique 1362 mise à jour:  -> BENL
+Métrique 1363 mise à jour:  -> BENL
+Métrique 1364 mise à jour:  -> BENL
+Métrique 1365 mise à jour:  -> BENL
+Métrique 1366 mise à jour:  -> BENL
+Métrique 1367 mise à jour:  -> BENL
+Métrique 1368 mise à jour:  -> BENL
+Métrique 1369 mise à jour:  -> BENL
+Métrique 1348 mise à jour:  -> AU
+Métrique 1349 mise à jour:  -> AU
+Métrique 1350 mise à jour:  -> AU
+Métrique 1351 mise à jour:  -> AU
+Métrique 1466 mise à jour:  -> FR
+Métrique 1465 mise à jour:  -> FR
+Métrique 1464 mise à jour:  -> FR
+Métrique 1463 mise à jour:  -> FR
+Métrique 1462 mise à jour:  -> FR
+Métrique 1461 mise à jour:  -> FR
+Métrique 1460 mise à jour:  -> FR
+Métrique 1511 mise à jour:  -> IT
+Métrique 1510 mise à jour:  -> IT
+Métrique 1509 mise à jour:  -> IT
+Métrique 1508 mise à jour:  -> IT
+Métrique 1507 mise à jour:  -> IT
+Métrique 1506 mise à jour:  -> IT
+Métrique 1540 mise à jour:  -> UK
+Métrique 1539 mise à jour:  -> UK
+Métrique 1538 mise à jour:  -> UK
+Métrique 1537 mise à jour:  -> UK
+Métrique 1531 mise à jour:  -> NL
+Métrique 1530 mise à jour:  -> NL
+Métrique 1529 mise à jour:  -> NL
+Métrique 1528 mise à jour:  -> NL
+Métrique 1527 mise à jour:  -> NL
+Métrique 1526 mise à jour:  -> NL
+Métrique 1381 mise à jour:  -> ES
+Métrique 1382 mise à jour:  -> ES
+Métrique 1383 mise à jour:  -> ES
+Métrique 1384 mise à jour:  -> ES
+Métrique 1385 mise à jour:  -> ES
+Métrique 1488 mise à jour:  -> FR
+Métrique 1487 mise à jour:  -> FR
+Métrique 1486 mise à jour:  -> FR
+Métrique 1485 mise à jour:  -> FR
+Métrique 1484 mise à jour:  -> FR
+Métrique 1483 mise à jour:  -> FR
+Métrique 1482 mise à jour:  -> FR
+Métrique 1370 mise à jour:  -> BE NL
+Métrique 1371 mise à jour:  -> BE NL
+Métrique 1372 mise à jour:  -> BE NL
+Métrique 1357 mise à jour:  -> CA EN
+Métrique 1358 mise à jour:  -> CA EN
+Métrique 1359 mise à jour:  -> CA EN
+Métrique 1360 mise à jour:  -> CA EN
+Métrique 1361 mise à jour:  -> CA EN
+Métrique 1379 mise à jour:  -> CA FR
+Métrique 1380 mise à jour:  -> CA FR
+Métrique 1343 mise à jour:  -> AU
+Métrique 1344 mise à jour:  -> AU
+Métrique 1345 mise à jour:  -> AU
+Métrique 1346 mise à jour:  -> AU
+Métrique 1347 mise à jour:  -> AU
+Métrique 1459 mise à jour:  -> FR
+Métrique 1467 mise à jour:  -> FR
+Métrique 1536 mise à jour:  -> UK
+Métrique 1535 mise à jour:  -> UK
+Métrique 1534 mise à jour:  -> UK
+Métrique 1533 mise à jour:  -> UK
+Métrique 1532 mise à jour:  -> UK
+Métrique 1411 mise à jour:  -> FR
+Métrique 1443 mise à jour:  -> FR
+Métrique 1442 mise à jour:  -> FR
+Métrique 1441 mise à jour:  -> FR
+Métrique 1440 mise à jour:  -> FR
+Métrique 1439 mise à jour:  -> FR
+Métrique 1438 mise à jour:  -> FR
+Métrique 1437 mise à jour:  -> FR
+Métrique 1436 mise à jour:  -> FR
+Métrique 1435 mise à jour:  -> FR
+Métrique 1525 mise à jour:  -> NL
+Métrique 1524 mise à jour:  -> NL
+Métrique 1523 mise à jour:  -> NL
+Métrique 1522 mise à jour:  -> NL
+Métrique 1521 mise à jour:  -> NL
+Métrique 1520 mise à jour:  -> NL
+Métrique 1519 mise à jour:  -> NL
+Métrique 1518 mise à jour:  -> NL
+Métrique 1352 mise à jour:  -> AU
+Métrique 1353 mise à jour:  -> AU
+Métrique 1354 mise à jour:  -> AU
+Métrique 1355 mise à jour:  -> AU
+Métrique 1356 mise à jour:  -> AU
+Métrique 1395 mise à jour:  -> ES
+Métrique 1396 mise à jour:  -> ES
+Métrique 1397 mise à jour:  -> ES
+Métrique 1398 mise à jour:  -> ES
+Métrique 1399 mise à jour:  -> ES
+Métrique 1400 mise à jour:  -> ES
+Métrique 1401 mise à jour:  -> ES
+Métrique 1420 mise à jour:  -> FR
+Métrique 1419 mise à jour:  -> FR
+Métrique 1418 mise à jour:  -> FR
+Métrique 1417 mise à jour:  -> FR
+Métrique 1416 mise à jour:  -> FR
+Métrique 1415 mise à jour:  -> FR
+Métrique 1413 mise à jour:  -> FR
+Métrique 1414 mise à jour:  -> FR
+Métrique 1386 mise à jour:  -> FR
+Métrique 1387 mise à jour:  -> FR
+Métrique 1388 mise à jour:  -> FR
+Métrique 1389 mise à jour:  -> FR
+Métrique 1390 mise à jour:  -> FR
+Métrique 1391 mise à jour:  -> FR
+Métrique 1392 mise à jour:  -> FR
+Métrique 1393 mise à jour:  -> FR
+Métrique 1394 mise à jour:  -> FR
+Métrique 1495 mise à jour:  -> FR
+Métrique 1447 mise à jour:  -> FR
+Métrique 1446 mise à jour:  -> FR
+Métrique 1445 mise à jour:  -> FR
+Métrique 1444 mise à jour:  -> FR
+Métrique 1451 mise à jour:  -> FR
+Métrique 1450 mise à jour:  -> FR
+Métrique 1449 mise à jour:  -> FR
+Métrique 1448 mise à jour:  -> FR
+Métrique 1412 mise à jour:  -> FR
+Métrique 1402 mise à jour:  -> FR
+Métrique 1237 mise à jour:  -> FR
+Métrique 1150 mise à jour:  -> FR
+Métrique 1149 mise à jour:  -> FR
+Métrique 1230 mise à jour:  -> FR
+Métrique 1231 mise à jour:  -> FR
+Métrique 1232 mise à jour:  -> FR
+Métrique 1233 mise à jour:  -> FR
+Métrique 1234 mise à jour:  -> FR
+Métrique 1235 mise à jour:  -> FR
+Métrique 1236 mise à jour:  -> FR
+Métrique 1141 mise à jour:  -> DE
+Métrique 1142 mise à jour:  -> DE
+Métrique 1143 mise à jour:  -> DE
+Métrique 1144 mise à jour:  -> DE
+Métrique 1145 mise à jour:  -> DE
+Métrique 1146 mise à jour:  -> DE
+Métrique 1147 mise à jour:  -> DE
+Métrique 1148 mise à jour:  -> DE
+Métrique 1341 mise à jour:  -> US
+Métrique 1342 mise à jour:  -> US
+Métrique 1179 mise à jour:  -> FR
+Métrique 1180 mise à jour:  -> FR
+Métrique 1181 mise à jour:  -> FR
+Métrique 1182 mise à jour:  -> FR
+Métrique 1183 mise à jour:  -> FR
+Métrique 1184 mise à jour:  -> FR
+Métrique 1185 mise à jour:  -> FR
+Métrique 1186 mise à jour:  -> FR
+Métrique 1187 mise à jour:  -> FR
+Métrique 1188 mise à jour:  -> FR
+Métrique 1189 mise à jour:  -> FR
+Métrique 1190 mise à jour:  -> FR
+Métrique 1191 mise à jour:  -> FR
+Métrique 1192 mise à jour:  -> FR
+Métrique 1193 mise à jour:  -> FR
+Métrique 1194 mise à jour:  -> FR
+Métrique 1195 mise à jour:  -> FR
+Métrique 1172 mise à jour:  -> FR
+Métrique 1173 mise à jour:  -> FR
+Métrique 1174 mise à jour:  -> FR
+Métrique 1175 mise à jour:  -> FR
+Métrique 1176 mise à jour:  -> FR
+Métrique 1177 mise à jour:  -> FR
+Métrique 1178 mise à jour:  -> FR
+Métrique 1320 mise à jour:  -> IT
+Métrique 1321 mise à jour:  -> IT
+Métrique 1322 mise à jour:  -> IT
+Métrique 1323 mise à jour:  -> IT
+Métrique 1324 mise à jour:  -> IT
+Métrique 1325 mise à jour:  -> IT
+Métrique 1313 mise à jour:  -> IT
+Métrique 1314 mise à jour:  -> IT
+Métrique 1315 mise à jour:  -> IT
+Métrique 1316 mise à jour:  -> IT
+Métrique 1317 mise à jour:  -> IT
+Métrique 1318 mise à jour:  -> IT
+Métrique 1319 mise à jour:  -> IT
+Métrique 1245 mise à jour:  -> IT
+Métrique 1246 mise à jour:  -> IT
+Métrique 1247 mise à jour:  -> IT
+Métrique 1248 mise à jour:  -> IT
+Métrique 1249 mise à jour:  -> IT
+Métrique 1250 mise à jour:  -> IT
+Métrique 1251 mise à jour:  -> IT
+Métrique 1238 mise à jour:  -> IT
+Métrique 1239 mise à jour:  -> IT
+Métrique 1240 mise à jour:  -> IT
+Métrique 1241 mise à jour:  -> IT
+Métrique 1242 mise à jour:  -> IT
+Métrique 1243 mise à jour:  -> IT
+Métrique 1244 mise à jour:  -> IT
+Métrique 1297 mise à jour:  -> IT
+Métrique 1298 mise à jour:  -> IT
+Métrique 1299 mise à jour:  -> IT
+Métrique 1300 mise à jour:  -> IT
+Métrique 1301 mise à jour:  -> IT
+Métrique 1302 mise à jour:  -> IT
+Métrique 1303 mise à jour:  -> IT
+Métrique 1304 mise à jour:  -> IT
+Métrique 1326 mise à jour:  -> IT
+Métrique 1327 mise à jour:  -> IT
+Métrique 1328 mise à jour:  -> IT
+Métrique 1329 mise à jour:  -> IT
+Métrique 1330 mise à jour:  -> IT
+Métrique 1331 mise à jour:  -> IT
+Métrique 1332 mise à jour:  -> IT
+Métrique 1333 mise à jour:  -> IT
+Métrique 1305 mise à jour:  -> IT
+Métrique 1306 mise à jour:  -> IT
+Métrique 1307 mise à jour:  -> IT
+Métrique 1308 mise à jour:  -> IT
+Métrique 1309 mise à jour:  -> IT
+Métrique 1310 mise à jour:  -> IT
+Métrique 1311 mise à jour:  -> IT
+Métrique 1312 mise à jour:  -> IT
+Métrique 1202 mise à jour:  -> FR
+Métrique 1280 mise à jour:  -> IT
+Métrique 1281 mise à jour:  -> IT
+Métrique 1282 mise à jour:  -> IT
+Métrique 1283 mise à jour:  -> IT
+Métrique 1284 mise à jour:  -> IT
+Métrique 1285 mise à jour:  -> IT
+Métrique 1286 mise à jour:  -> IT
+Métrique 1287 mise à jour:  -> IT
+Métrique 1288 mise à jour:  -> IT
+Métrique 1272 mise à jour:  -> IT
+Métrique 1273 mise à jour:  -> IT
+Métrique 1274 mise à jour:  -> IT
+Métrique 1275 mise à jour:  -> IT
+Métrique 1276 mise à jour:  -> IT
+Métrique 1277 mise à jour:  -> IT
+Métrique 1278 mise à jour:  -> IT
+Métrique 1279 mise à jour:  -> IT
+Métrique 1259 mise à jour:  -> IT
+Métrique 1260 mise à jour:  -> IT
+Métrique 1261 mise à jour:  -> IT
+Métrique 1262 mise à jour:  -> IT
+Métrique 1263 mise à jour:  -> IT
+Métrique 1264 mise à jour:  -> IT
+Métrique 1265 mise à jour:  -> IT
+Métrique 1266 mise à jour:  -> IT
+Métrique 1267 mise à jour:  -> IT
+Métrique 1268 mise à jour:  -> IT
+Métrique 1269 mise à jour:  -> IT
+Métrique 1270 mise à jour:  -> IT
+Métrique 1271 mise à jour:  -> IT
+Métrique 1252 mise à jour:  -> IT
+Métrique 1253 mise à jour:  -> IT
+Métrique 1254 mise à jour:  -> IT
+Métrique 1255 mise à jour:  -> IT
+Métrique 1256 mise à jour:  -> IT
+Métrique 1257 mise à jour:  -> IT
+Métrique 1258 mise à jour:  -> IT
+Métrique 1334 mise à jour:  -> UK
+Métrique 1335 mise à jour:  -> UK
+Métrique 1336 mise à jour:  -> UK
+Métrique 1337 mise à jour:  -> UK
+Métrique 1338 mise à jour:  -> UK
+Métrique 1339 mise à jour:  -> UK
+Métrique 1340 mise à jour:  -> UK
+Métrique 1289 mise à jour:  -> IT
+Métrique 1290 mise à jour:  -> IT
+Métrique 1291 mise à jour:  -> IT
+Métrique 1292 mise à jour:  -> IT
+Métrique 1293 mise à jour:  -> IT
+Métrique 1294 mise à jour:  -> IT
+Métrique 1295 mise à jour:  -> IT
+Métrique 1296 mise à jour:  -> IT
+Métrique 1196 mise à jour:  -> FR
+Métrique 1197 mise à jour:  -> FR
+Métrique 1198 mise à jour:  -> FR
+Métrique 1199 mise à jour:  -> FR
+Métrique 1200 mise à jour:  -> FR
+Métrique 1201 mise à jour:  -> FR
+Métrique 1151 mise à jour:  -> FR
+Métrique 1152 mise à jour:  -> FR
+Métrique 1153 mise à jour:  -> FR
+Métrique 1154 mise à jour:  -> FR
+Métrique 1155 mise à jour:  -> FR
+Métrique 1156 mise à jour:  -> FR
+Métrique 1165 mise à jour:  -> FR
+Métrique 1166 mise à jour:  -> FR
+Métrique 1167 mise à jour:  -> FR
+Métrique 1168 mise à jour:  -> FR
+Métrique 1169 mise à jour:  -> FR
+Métrique 1170 mise à jour:  -> FR
+Métrique 1171 mise à jour:  -> FR
+Métrique 1157 mise à jour:  -> FR
+Métrique 1158 mise à jour:  -> FR
+Métrique 1159 mise à jour:  -> FR
+Métrique 1160 mise à jour:  -> FR
+Métrique 1161 mise à jour:  -> FR
+Métrique 1162 mise à jour:  -> FR
+Métrique 1163 mise à jour:  -> FR
+Métrique 1164 mise à jour:  -> FR
+Métrique 1127 mise à jour:  -> FR
+Métrique 1128 mise à jour:  -> FR
+Métrique 1129 mise à jour:  -> FR
+Métrique 1130 mise à jour:  -> FR
+Métrique 1131 mise à jour:  -> FR
+Métrique 1119 mise à jour:  -> FR
+Métrique 1120 mise à jour:  -> FR
+Métrique 1121 mise à jour:  -> FR
+Métrique 1122 mise à jour:  -> FR
+Métrique 1123 mise à jour:  -> FR
+Métrique 1124 mise à jour:  -> FR
+Métrique 1125 mise à jour:  -> FR
+Métrique 1112 mise à jour:  -> BEFR
+Métrique 1113 mise à jour:  -> BEFR
+Métrique 1114 mise à jour:  -> BEFR
+Métrique 1115 mise à jour:  -> BEFR
+Métrique 1116 mise à jour:  -> BEFR
+Métrique 1117 mise à jour:  -> BEFR
+Métrique 1118 mise à jour:  -> BEFR
+Métrique 1096 mise à jour:  -> FR
+Métrique 1097 mise à jour:  -> FR
+Métrique 1098 mise à jour:  -> FR
+Métrique 1099 mise à jour:  -> FR
+Métrique 1100 mise à jour:  -> FR
+Métrique 1101 mise à jour:  -> FR
+Métrique 1102 mise à jour:  -> FR
+Métrique 1103 mise à jour:  -> FR
+Métrique 1126 mise à jour:  -> FR
+Métrique 1104 mise à jour:  -> FR
+Métrique 1105 mise à jour:  -> FR
+Métrique 1106 mise à jour:  -> FR
+Métrique 1107 mise à jour:  -> FR
+Métrique 1108 mise à jour:  -> FR
+Métrique 1109 mise à jour:  -> FR
+Métrique 1110 mise à jour:  -> FR
+Métrique 1111 mise à jour:  -> FR
+Métrique 1132 mise à jour:  -> FR
+Métrique 1133 mise à jour:  -> FR
+Métrique 1134 mise à jour:  -> FR
+Métrique 1135 mise à jour:  -> FR
+Métrique 1136 mise à jour:  -> FR
+Métrique 1137 mise à jour:  -> FR
+Métrique 1138 mise à jour:  -> FR
+Métrique 1139 mise à jour:  -> FR
+Métrique 1140 mise à jour:  -> FR
+Métrique 1063 mise à jour:  -> FR
+Métrique 1064 mise à jour:  -> FR
+Métrique 1065 mise à jour:  -> FR
+Métrique 1066 mise à jour:  -> FR
+Métrique 1067 mise à jour:  -> FR
+Métrique 1068 mise à jour:  -> FR
+Métrique 1079 mise à jour:  -> FR
+Métrique 1080 mise à jour:  -> FR
+Métrique 1081 mise à jour:  -> FR
+Métrique 1082 mise à jour:  -> FR
+Métrique 1083 mise à jour:  -> FR
+Métrique 1084 mise à jour:  -> FR
+Métrique 1085 mise à jour:  -> FR
+Métrique 1086 mise à jour:  -> FR
+Métrique 1087 mise à jour:  -> FR
+Métrique 1088 mise à jour:  -> FR
+Métrique 1089 mise à jour:  -> NL
+Métrique 1090 mise à jour:  -> NL
+Métrique 1091 mise à jour:  -> NL
+Métrique 1092 mise à jour:  -> NL
+Métrique 1093 mise à jour:  -> NL
+Métrique 1094 mise à jour:  -> NL
+Métrique 1095 mise à jour:  -> NL
+Métrique 1069 mise à jour:  -> FR
+Métrique 1070 mise à jour:  -> FR
+Métrique 1071 mise à jour:  -> FR
+Métrique 1072 mise à jour:  -> FR
+Métrique 1073 mise à jour:  -> FR
+Métrique 1074 mise à jour:  -> FR
+Métrique 1075 mise à jour:  -> FR
+Métrique 1076 mise à jour:  -> FR
+Métrique 1077 mise à jour:  -> FR
+Métrique 1078 mise à jour:  -> FR
+Métrique 1054 mise à jour:  -> FR
+Métrique 1055 mise à jour:  -> FR
+Métrique 1056 mise à jour:  -> FR
+Métrique 1057 mise à jour:  -> FR
+Métrique 1058 mise à jour:  -> FR
+Métrique 1059 mise à jour:  -> FR
+Métrique 1060 mise à jour:  -> FR
+Métrique 1061 mise à jour:  -> FR
+Métrique 1062 mise à jour:  -> FR
+Métrique 1016 mise à jour:  -> FR
+Métrique 1017 mise à jour:  -> FR
+Métrique 1018 mise à jour:  -> FR
+Métrique 1019 mise à jour:  -> FR
+Métrique 1020 mise à jour:  -> FR
+Métrique 1021 mise à jour:  -> FR
+Métrique 1022 mise à jour:  -> FR
+Métrique 1032 mise à jour:  -> FR
+Métrique 1033 mise à jour:  -> FR
+Métrique 1034 mise à jour:  -> FR
+Métrique 1035 mise à jour:  -> FR
+Métrique 1036 mise à jour:  -> FR
+Métrique 1037 mise à jour:  -> FR
+Métrique 1038 mise à jour:  -> FR
+Métrique 1039 mise à jour:  -> FR
+Métrique 1040 mise à jour:  -> FR
+Métrique 1041 mise à jour:  -> FR
+Métrique 1042 mise à jour:  -> FR
+Métrique 1043 mise à jour:  -> FR
+Métrique 1044 mise à jour:  -> FR
+Métrique 1045 mise à jour:  -> FR
+Métrique 1023 mise à jour:  -> FR
+Métrique 1024 mise à jour:  -> FR
+Métrique 1025 mise à jour:  -> FR
+Métrique 1026 mise à jour:  -> FR
+Métrique 1027 mise à jour:  -> FR
+Métrique 1028 mise à jour:  -> FR
+Métrique 1029 mise à jour:  -> FR
+Métrique 1030 mise à jour:  -> FR
+Métrique 1031 mise à jour:  -> FR
+Métrique 1046 mise à jour:  -> FR
+Métrique 1047 mise à jour:  -> FR
+Métrique 1048 mise à jour:  -> FR
+Métrique 1049 mise à jour:  -> FR
+Métrique 1050 mise à jour:  -> FR
+Métrique 1051 mise à jour:  -> FR
+Métrique 1052 mise à jour:  -> FR
+Métrique 1053 mise à jour:  -> FR
+Métrique 1000 mise à jour:  -> FR
+Métrique 1001 mise à jour:  -> FR
+Métrique 1002 mise à jour:  -> FR
+Métrique 1003 mise à jour:  -> FR
+Métrique 1004 mise à jour:  -> FR
+Métrique 1005 mise à jour:  -> FR
+Métrique 1006 mise à jour:  -> FR
+Métrique 1014 mise à jour:  -> PL
+Métrique 1015 mise à jour:  -> PL
+Métrique 998 mise à jour:  -> FR
+Métrique 999 mise à jour:  -> FR
+Métrique 948 mise à jour:  -> AU
+Métrique 949 mise à jour:  -> AU
+Métrique 950 mise à jour:  -> AU
+Métrique 951 mise à jour:  -> AU
+Métrique 952 mise à jour:  -> AU
+Métrique 953 mise à jour:  -> AU
+Métrique 954 mise à jour:  -> AU
+Métrique 955 mise à jour:  -> ES
+Métrique 956 mise à jour:  -> ES
+Métrique 957 mise à jour:  -> ES
+Métrique 958 mise à jour:  -> ES
+Métrique 1007 mise à jour:  -> IT
+Métrique 1008 mise à jour:  -> IT
+Métrique 1009 mise à jour:  -> IT
+Métrique 1010 mise à jour:  -> IT
+Métrique 1011 mise à jour:  -> IT
+Métrique 1012 mise à jour:  -> IT
+Métrique 1013 mise à jour:  -> IT
+Métrique 981 mise à jour:  -> FR
+Métrique 982 mise à jour:  -> FR
+Métrique 983 mise à jour:  -> FR
+Métrique 984 mise à jour:  -> FR
+Métrique 985 mise à jour:  -> FR
+Métrique 986 mise à jour:  -> FR
+Métrique 987 mise à jour:  -> FR
+Métrique 988 mise à jour:  -> FR
+Métrique 989 mise à jour:  -> FR
+Métrique 990 mise à jour:  -> FR
+Métrique 991 mise à jour:  -> FR
+Métrique 992 mise à jour:  -> FR
+Métrique 993 mise à jour:  -> FR
+Métrique 994 mise à jour:  -> FR
+Métrique 995 mise à jour:  -> FR
+Métrique 996 mise à jour:  -> FR
+Métrique 997 mise à jour:  -> FR
+Métrique 938 mise à jour:  -> FR
+Métrique 939 mise à jour:  -> FR
+Métrique 940 mise à jour:  -> FR
+Métrique 941 mise à jour:  -> FR
+Métrique 942 mise à jour:  -> FR
+Métrique 943 mise à jour:  -> FR
+Métrique 944 mise à jour:  -> FR
+Métrique 945 mise à jour:  -> FR
+Métrique 946 mise à jour:  -> FR
+Métrique 975 mise à jour:  -> FR
+Métrique 976 mise à jour:  -> FR
+Métrique 977 mise à jour:  -> FR
+Métrique 978 mise à jour:  -> FR
+Métrique 979 mise à jour:  -> FR
+Métrique 980 mise à jour:  -> FR
+Métrique 959 mise à jour:  -> FR
+Métrique 960 mise à jour:  -> FR
+Métrique 961 mise à jour:  -> FR
+Métrique 962 mise à jour:  -> FR
+Métrique 963 mise à jour:  -> FR
+Métrique 964 mise à jour:  -> FR
+Métrique 965 mise à jour:  -> FR
+Métrique 966 mise à jour:  -> FR
+Métrique 967 mise à jour:  -> FR
+Métrique 968 mise à jour:  -> FR
+Métrique 969 mise à jour:  -> FR
+Métrique 970 mise à jour:  -> FR
+Métrique 971 mise à jour:  -> FR
+Métrique 972 mise à jour:  -> FR
+Métrique 973 mise à jour:  -> FR
+Métrique 974 mise à jour:  -> FR
+Métrique 947 mise à jour:  -> FR
+Métrique 899 mise à jour:  -> FR
+Métrique 900 mise à jour:  -> FR
+Métrique 901 mise à jour:  -> FR
+Métrique 902 mise à jour:  -> FR
+Métrique 903 mise à jour:  -> FR
+Métrique 904 mise à jour:  -> FR
+Métrique 905 mise à jour:  -> FR
+Métrique 821 mise à jour:  -> FR
+Métrique 822 mise à jour:  -> FR
+Métrique 823 mise à jour:  -> FR
+Métrique 824 mise à jour:  -> FR
+Métrique 825 mise à jour:  -> FR
+Métrique 826 mise à jour:  -> FR
+Métrique 827 mise à jour:  -> FR
+Métrique 811 mise à jour:  -> FR
+Métrique 812 mise à jour:  -> FR
+Métrique 813 mise à jour:  -> FR
+Métrique 814 mise à jour:  -> FR
+Métrique 815 mise à jour:  -> FR
+Métrique 816 mise à jour:  -> FR
+Métrique 817 mise à jour:  -> FR
+Métrique 818 mise à jour:  -> FR
+Métrique 819 mise à jour:  -> FR
+Métrique 820 mise à jour:  -> FR
+Métrique 891 mise à jour:  -> FR
+Métrique 892 mise à jour:  -> FR
+Métrique 893 mise à jour:  -> FR
+Métrique 894 mise à jour:  -> FR
+Métrique 895 mise à jour:  -> FR
+Métrique 896 mise à jour:  -> FR
+Métrique 897 mise à jour:  -> FR
+Métrique 898 mise à jour:  -> FR
+Métrique 799 mise à jour:  -> AU
+Métrique 800 mise à jour:  -> AU
+Métrique 801 mise à jour:  -> AU
+Métrique 802 mise à jour:  -> AU
+Métrique 803 mise à jour:  -> AU
+Métrique 797 mise à jour:  -> AU
+Métrique 798 mise à jour:  -> AU
+Métrique 850 mise à jour:  -> FR
+Métrique 851 mise à jour:  -> FR
+Métrique 852 mise à jour:  -> FR
+Métrique 853 mise à jour:  -> FR
+Métrique 854 mise à jour:  -> FR
+Métrique 855 mise à jour:  -> FR
+Métrique 856 mise à jour:  -> FR
+Métrique 857 mise à jour:  -> FR
+Métrique 836 mise à jour:  -> FR
+Métrique 837 mise à jour:  -> FR
+Métrique 838 mise à jour:  -> FR
+Métrique 839 mise à jour:  -> FR
+Métrique 840 mise à jour:  -> FR
+Métrique 841 mise à jour:  -> FR
+Métrique 874 mise à jour:  -> FR
+Métrique 875 mise à jour:  -> FR
+Métrique 876 mise à jour:  -> FR
+Métrique 877 mise à jour:  -> FR
+Métrique 878 mise à jour:  -> FR
+Métrique 879 mise à jour:  -> FR
+Métrique 880 mise à jour:  -> FR
+Métrique 881 mise à jour:  -> FR
+Métrique 882 mise à jour:  -> FR
+Métrique 842 mise à jour:  -> FR
+Métrique 843 mise à jour:  -> FR
+Métrique 844 mise à jour:  -> FR
+Métrique 845 mise à jour:  -> FR
+Métrique 846 mise à jour:  -> FR
+Métrique 847 mise à jour:  -> FR
+Métrique 848 mise à jour:  -> FR
+Métrique 849 mise à jour:  -> FR
+Métrique 788 mise à jour:  -> FR
+Métrique 789 mise à jour:  -> FR
+Métrique 790 mise à jour:  -> FR
+Métrique 791 mise à jour:  -> FR
+Métrique 792 mise à jour:  -> FR
+Métrique 793 mise à jour:  -> FR
+Métrique 794 mise à jour:  -> FR
+Métrique 795 mise à jour:  -> FR
+Métrique 796 mise à jour:  -> FR
+Métrique 858 mise à jour:  -> FR
+Métrique 859 mise à jour:  -> FR
+Métrique 860 mise à jour:  -> FR
+Métrique 861 mise à jour:  -> FR
+Métrique 862 mise à jour:  -> FR
+Métrique 863 mise à jour:  -> FR
+Métrique 864 mise à jour:  -> FR
+Métrique 865 mise à jour:  -> FR
+Métrique 804 mise à jour:  -> FR
+Métrique 805 mise à jour:  -> FR
+Métrique 806 mise à jour:  -> FR
+Métrique 807 mise à jour:  -> FR
+Métrique 808 mise à jour:  -> FR
+Métrique 809 mise à jour:  -> FR
+Métrique 810 mise à jour:  -> FR
+Métrique 906 mise à jour:  -> FR
+Métrique 907 mise à jour:  -> FR
+Métrique 908 mise à jour:  -> FR
+Métrique 909 mise à jour:  -> FR
+Métrique 910 mise à jour:  -> FR
+Métrique 911 mise à jour:  -> FR
+Métrique 912 mise à jour:  -> FR
+Métrique 913 mise à jour:  -> FR
+Métrique 828 mise à jour:  -> FR
+Métrique 829 mise à jour:  -> FR
+Métrique 830 mise à jour:  -> FR
+Métrique 831 mise à jour:  -> FR
+Métrique 832 mise à jour:  -> FR
+Métrique 833 mise à jour:  -> FR
+Métrique 834 mise à jour:  -> FR
+Métrique 835 mise à jour:  -> FR
+Métrique 866 mise à jour:  -> FR
+Métrique 867 mise à jour:  -> FR
+Métrique 868 mise à jour:  -> FR
+Métrique 869 mise à jour:  -> FR
+Métrique 870 mise à jour:  -> FR
+Métrique 871 mise à jour:  -> FR
+Métrique 872 mise à jour:  -> FR
+Métrique 873 mise à jour:  -> FR
+Métrique 883 mise à jour:  -> FR
+Métrique 884 mise à jour:  -> FR
+Métrique 885 mise à jour:  -> FR
+Métrique 886 mise à jour:  -> FR
+Métrique 887 mise à jour:  -> FR
+Métrique 888 mise à jour:  -> FR
+Métrique 889 mise à jour:  -> FR
+Métrique 890 mise à jour:  -> FR
+Métrique 924 mise à jour:  -> ES
+Métrique 925 mise à jour:  -> ES
+Métrique 914 mise à jour:  -> DE
+Métrique 915 mise à jour:  -> DE
+Métrique 916 mise à jour:  -> NO
+Métrique 917 mise à jour:  -> NO
+Métrique 918 mise à jour:  -> SE
+Métrique 919 mise à jour:  -> SE
+Métrique 926 mise à jour:  -> UK
+Métrique 927 mise à jour:  -> UK
+Métrique 920 mise à jour:  -> SG
+Métrique 921 mise à jour:  -> SG
+Métrique 922 mise à jour:  -> NZ
+Métrique 923 mise à jour:  -> NZ
+Métrique 928 mise à jour:  -> MX
+Métrique 929 mise à jour:  -> MX
+Métrique 930 mise à jour:  -> MX
+Métrique 931 mise à jour:  -> MX
+Métrique 933 mise à jour:  -> MX
+Métrique 934 mise à jour:  -> MX
+Métrique 935 mise à jour:  -> MX
+Métrique 936 mise à jour:  -> MX
+Métrique 937 mise à jour:  -> MX
+Métrique 932 mise à jour:  -> MX
+Métrique 1208 mise à jour:  -> MX
+Métrique 1209 mise à jour:  -> MX
+Métrique 1210 mise à jour:  -> UK
+Métrique 1211 mise à jour:  -> UK
+Métrique 1212 mise à jour:  -> UK
+Métrique 1213 mise à jour:  -> UK
+Métrique 1214 mise à jour:  -> UK
+Métrique 1215 mise à jour:  -> IT
+Métrique 1216 mise à jour:  -> IT
+Métrique 1217 mise à jour:  -> IT
+Métrique 1218 mise à jour:  -> IT
+Métrique 1219 mise à jour:  -> IT
+Métrique 1220 mise à jour:  -> FR
+Métrique 1221 mise à jour:  -> FR
+Métrique 1222 mise à jour:  -> FR
+Métrique 1223 mise à jour:  -> FR
+Métrique 1224 mise à jour:  -> FR
+Métrique 1225 mise à jour:  -> ES
+Métrique 1226 mise à jour:  -> ES
+Métrique 1227 mise à jour:  -> ES
+Métrique 1228 mise à jour:  -> ES
+Métrique 1229 mise à jour:  -> ES
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\utils\email_service.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /auth/
+Method Not Allowed: /auth/login/
+Bad Request: /auth/login/
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /auth/register/ -H "Origin: http://localhost:5173" -H "Access-Control-Request-Method: POST"
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /auth/register/
+Traceback (most recent call last):
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py", line 34, in post
+    send_verification_email(user, verification_url)
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\utils\email_service.py", line 18, in send_verification_email
+    send_mail(subject, message, from_email, recipient_list)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+           ^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\backends\smtp.py", line 95, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-38f25a0fe5esm17280615f8f.99 - gsmtp')
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /auth/register/
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /auth/register/
+Traceback (most recent call last):
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py", line 34, in post
+    send_verification_email(user, verification_url)
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\utils\email_service.py", line 18, in send_verification_email
+    send_mail(subject, message, from_email, recipient_list)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+           ^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\backends\smtp.py", line 95, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-4399d55fc1asm6715355e9.35 - gsmtp')
+Internal Server Error: /auth/register/
+Traceback (most recent call last):
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py", line 34, in post
+    send_verification_email(user, verification_url)
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\utils\email_service.py", line 18, in send_verification_email
+    send_mail(subject, message, from_email, recipient_list)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+           ^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\backends\smtp.py", line 95, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-4395a1b8443sm206731965e9.35 - gsmtp')
+Method Not Allowed: /auth/register/
+Internal Server Error: /auth/register
+Traceback (most recent call last):
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/auth/register/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+Internal Server Error: /auth/register
+Traceback (most recent call last):
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/auth/register/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+Bad Request: /auth/register/
+Internal Server Error: /auth/register/
+Traceback (most recent call last):
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py", line 34, in post
+    send_verification_email(user, verification_url)
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\utils\email_service.py", line 18, in send_verification_email
+    send_mail(subject, message, from_email, recipient_list)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+           ^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+                       ^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\mail\backends\smtp.py", line 95, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-38f259f771dsm17344498f8f.81 - gsmtp')
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Looking for config file at: F:\JOB\RD\Dashboard_RD\backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (2)
+Failed to save statistics for [FR] cornerpromo.com (2): ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Failed to process account 2: ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+Processing account [FR] mesemplettesvip-k.com (90280)
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Métrique 707 mise à jour:  -> FR
+Métrique 708 mise à jour:  -> FR
+Métrique 709 mise à jour:  -> FR
+Métrique 710 mise à jour:  -> FR
+Métrique 711 mise à jour:  -> FR
+Métrique 712 mise à jour:  -> FR
+Métrique 713 mise à jour:  -> FR
+Métrique 714 mise à jour:  -> FR
+Métrique 729 mise à jour:  -> FR
+Métrique 685 mise à jour:  -> FR
+Métrique 686 mise à jour:  -> FR
+Métrique 687 mise à jour:  -> FR
+Métrique 688 mise à jour:  -> FR
+Métrique 689 mise à jour:  -> FR
+Métrique 690 mise à jour:  -> FR
+Métrique 691 mise à jour:  -> FR
+Métrique 701 mise à jour:  -> FR
+Métrique 702 mise à jour:  -> FR
+Métrique 703 mise à jour:  -> FR
+Métrique 704 mise à jour:  -> FR
+Métrique 705 mise à jour:  -> FR
+Métrique 706 mise à jour:  -> FR
+Métrique 738 mise à jour:  -> FR
+Métrique 737 mise à jour:  -> FR
+Métrique 736 mise à jour:  -> FR
+Métrique 735 mise à jour:  -> FR
+Métrique 734 mise à jour:  -> FR
+Métrique 654 mise à jour:  -> FR
+Métrique 655 mise à jour:  -> FR
+Métrique 656 mise à jour:  -> FR
+Métrique 657 mise à jour:  -> FR
+Métrique 658 mise à jour:  -> FR
+Métrique 659 mise à jour:  -> FR
+Métrique 660 mise à jour:  -> FR
+Métrique 661 mise à jour:  -> FR
+Métrique 730 mise à jour:  -> FR
+Métrique 731 mise à jour:  -> FR
+Métrique 732 mise à jour:  -> FR
+Métrique 733 mise à jour:  -> FR
+Métrique 722 mise à jour:  -> FR
+Métrique 723 mise à jour:  -> FR
+Métrique 724 mise à jour:  -> FR
+Métrique 725 mise à jour:  -> FR
+Métrique 726 mise à jour:  -> FR
+Métrique 727 mise à jour:  -> FR
+Métrique 635 mise à jour:  -> FR
+Métrique 636 mise à jour:  -> FR
+Métrique 637 mise à jour:  -> FR
+Métrique 638 mise à jour:  -> FR
+Métrique 639 mise à jour:  -> FR
+Métrique 640 mise à jour:  -> FR
+Métrique 641 mise à jour:  -> FR
+Métrique 642 mise à jour:  -> FR
+Métrique 662 mise à jour:  -> FR
+Métrique 663 mise à jour:  -> FR
+Métrique 664 mise à jour:  -> FR
+Métrique 665 mise à jour:  -> FR
+Métrique 666 mise à jour:  -> FR
+Métrique 667 mise à jour:  -> FR
+Métrique 750 mise à jour:  -> IT
+Métrique 749 mise à jour:  -> IT
+Métrique 748 mise à jour:  -> IT
+Métrique 747 mise à jour:  -> IT
+Métrique 746 mise à jour:  -> IT
+Métrique 745 mise à jour:  -> IT
+Métrique 600 mise à jour:  -> DE
+Métrique 601 mise à jour:  -> DE
+Métrique 602 mise à jour:  -> DE
+Métrique 603 mise à jour:  -> DE
+Métrique 604 mise à jour:  -> DE
+Métrique 605 mise à jour:  -> DE
+Métrique 589 mise à jour:  -> BENL
+Métrique 590 mise à jour:  -> BENL
+Métrique 591 mise à jour:  -> BENL
+Métrique 592 mise à jour:  -> BENL
+Métrique 593 mise à jour:  -> BENL
+Métrique 594 mise à jour:  -> BENL
+Métrique 595 mise à jour:  -> BENL
+Métrique 596 mise à jour:  -> BENL
+Métrique 575 mise à jour:  -> AU
+Métrique 576 mise à jour:  -> AU
+Métrique 577 mise à jour:  -> AU
+Métrique 578 mise à jour:  -> AU
+Métrique 693 mise à jour:  -> FR
+Métrique 694 mise à jour:  -> FR
+Métrique 695 mise à jour:  -> FR
+Métrique 696 mise à jour:  -> FR
+Métrique 697 mise à jour:  -> FR
+Métrique 698 mise à jour:  -> FR
+Métrique 699 mise à jour:  -> FR
+Métrique 739 mise à jour:  -> IT
+Métrique 740 mise à jour:  -> IT
+Métrique 741 mise à jour:  -> IT
+Métrique 742 mise à jour:  -> IT
+Métrique 743 mise à jour:  -> IT
+Métrique 744 mise à jour:  -> IT
+Métrique 773 mise à jour:  -> UK
+Métrique 770 mise à jour:  -> UK
+Métrique 771 mise à jour:  -> UK
+Métrique 772 mise à jour:  -> UK
+Métrique 759 mise à jour:  -> NL
+Métrique 760 mise à jour:  -> NL
+Métrique 761 mise à jour:  -> NL
+Métrique 762 mise à jour:  -> NL
+Métrique 763 mise à jour:  -> NL
+Métrique 764 mise à jour:  -> NL
+Métrique 612 mise à jour:  -> ES
+Métrique 613 mise à jour:  -> ES
+Métrique 614 mise à jour:  -> ES
+Métrique 615 mise à jour:  -> ES
+Métrique 616 mise à jour:  -> ES
+Métrique 715 mise à jour:  -> FR
+Métrique 716 mise à jour:  -> FR
+Métrique 717 mise à jour:  -> FR
+Métrique 718 mise à jour:  -> FR
+Métrique 719 mise à jour:  -> FR
+Métrique 720 mise à jour:  -> FR
+Métrique 721 mise à jour:  -> FR
+Métrique 597 mise à jour:  -> BE NL
+Métrique 598 mise à jour:  -> BE NL
+Métrique 599 mise à jour:  -> BE NL
+Métrique 584 mise à jour:  -> CA EN
+Métrique 585 mise à jour:  -> CA EN
+Métrique 586 mise à jour:  -> CA EN
+Métrique 587 mise à jour:  -> CA EN
+Métrique 588 mise à jour:  -> CA EN
+Métrique 606 mise à jour:  -> CA FR
+Métrique 607 mise à jour:  -> CA FR
+Métrique 608 mise à jour:  -> CA FR
+Métrique 609 mise à jour:  -> CA FR
+Métrique 610 mise à jour:  -> CA FR
+Métrique 611 mise à jour:  -> CA FR
+Métrique 570 mise à jour:  -> AU
+Métrique 571 mise à jour:  -> AU
+Métrique 572 mise à jour:  -> AU
+Métrique 573 mise à jour:  -> AU
+Métrique 574 mise à jour:  -> AU
+Métrique 692 mise à jour:  -> FR
+Métrique 700 mise à jour:  -> FR
+Métrique 765 mise à jour:  -> UK
+Métrique 766 mise à jour:  -> UK
+Métrique 767 mise à jour:  -> UK
+Métrique 768 mise à jour:  -> UK
+Métrique 769 mise à jour:  -> UK
+Métrique 644 mise à jour:  -> FR
+Métrique 617 mise à jour:  -> ES
+Métrique 668 mise à jour:  -> FR
+Métrique 669 mise à jour:  -> FR
+Métrique 670 mise à jour:  -> FR
+Métrique 671 mise à jour:  -> FR
+Métrique 672 mise à jour:  -> FR
+Métrique 673 mise à jour:  -> FR
+Métrique 674 mise à jour:  -> FR
+Métrique 675 mise à jour:  -> FR
+Métrique 676 mise à jour:  -> FR
+Métrique 751 mise à jour:  -> NL
+Métrique 752 mise à jour:  -> NL
+Métrique 753 mise à jour:  -> NL
+Métrique 754 mise à jour:  -> NL
+Métrique 755 mise à jour:  -> NL
+Métrique 756 mise à jour:  -> NL
+Métrique 757 mise à jour:  -> NL
+Métrique 758 mise à jour:  -> NL
+Métrique 579 mise à jour:  -> AU
+Métrique 580 mise à jour:  -> AU
+Métrique 581 mise à jour:  -> AU
+Métrique 582 mise à jour:  -> AU
+Métrique 583 mise à jour:  -> AU
+Métrique 627 mise à jour:  -> ES
+Métrique 628 mise à jour:  -> ES
+Métrique 629 mise à jour:  -> ES
+Métrique 630 mise à jour:  -> ES
+Métrique 631 mise à jour:  -> ES
+Métrique 632 mise à jour:  -> ES
+Métrique 633 mise à jour:  -> ES
+Métrique 646 mise à jour:  -> FR
+Métrique 647 mise à jour:  -> FR
+Métrique 648 mise à jour:  -> FR
+Métrique 649 mise à jour:  -> FR
+Métrique 650 mise à jour:  -> FR
+Métrique 651 mise à jour:  -> FR
+Métrique 652 mise à jour:  -> FR
+Métrique 653 mise à jour:  -> FR
+Métrique 618 mise à jour:  -> FR
+Métrique 619 mise à jour:  -> FR
+Métrique 620 mise à jour:  -> FR
+Métrique 621 mise à jour:  -> FR
+Métrique 622 mise à jour:  -> FR
+Métrique 623 mise à jour:  -> FR
+Métrique 624 mise à jour:  -> FR
+Métrique 625 mise à jour:  -> FR
+Métrique 626 mise à jour:  -> FR
+Métrique 728 mise à jour:  -> FR
+Métrique 677 mise à jour:  -> FR
+Métrique 678 mise à jour:  -> FR
+Métrique 679 mise à jour:  -> FR
+Métrique 680 mise à jour:  -> FR
+Métrique 684 mise à jour:  -> FR
+Métrique 681 mise à jour:  -> FR
+Métrique 682 mise à jour:  -> FR
+Métrique 683 mise à jour:  -> FR
+Métrique 643 mise à jour:  -> FR
+Métrique 645 mise à jour:  -> FR
+Métrique 634 mise à jour:  -> FR
+Métrique 464 mise à jour:  -> FR
+Métrique 376 mise à jour:  -> FR
+Métrique 373 mise à jour:  -> FR
+Métrique 374 mise à jour:  -> FR
+Métrique 375 mise à jour:  -> FR
+Métrique 457 mise à jour:  -> FR
+Métrique 458 mise à jour:  -> FR
+Métrique 459 mise à jour:  -> FR
+Métrique 460 mise à jour:  -> FR
+Métrique 461 mise à jour:  -> FR
+Métrique 462 mise à jour:  -> FR
+Métrique 463 mise à jour:  -> FR
+Métrique 365 mise à jour:  -> DE
+Métrique 366 mise à jour:  -> DE
+Métrique 367 mise à jour:  -> DE
+Métrique 368 mise à jour:  -> DE
+Métrique 369 mise à jour:  -> DE
+Métrique 370 mise à jour:  -> DE
+Métrique 371 mise à jour:  -> DE
+Métrique 372 mise à jour:  -> DE
+Métrique 568 mise à jour:  -> US
+Métrique 569 mise à jour:  -> US
+Métrique 405 mise à jour:  -> FR
+Métrique 406 mise à jour:  -> FR
+Métrique 407 mise à jour:  -> FR
+Métrique 408 mise à jour:  -> FR
+Métrique 409 mise à jour:  -> FR
+Métrique 410 mise à jour:  -> FR
+Métrique 411 mise à jour:  -> FR
+Métrique 412 mise à jour:  -> FR
+Métrique 413 mise à jour:  -> FR
+Métrique 414 mise à jour:  -> FR
+Métrique 415 mise à jour:  -> FR
+Métrique 416 mise à jour:  -> FR
+Métrique 417 mise à jour:  -> FR
+Métrique 418 mise à jour:  -> FR
+Métrique 419 mise à jour:  -> FR
+Métrique 420 mise à jour:  -> FR
+Métrique 421 mise à jour:  -> FR
+Métrique 398 mise à jour:  -> FR
+Métrique 399 mise à jour:  -> FR
+Métrique 400 mise à jour:  -> FR
+Métrique 401 mise à jour:  -> FR
+Métrique 402 mise à jour:  -> FR
+Métrique 403 mise à jour:  -> FR
+Métrique 404 mise à jour:  -> FR
+Métrique 547 mise à jour:  -> IT
+Métrique 548 mise à jour:  -> IT
+Métrique 549 mise à jour:  -> IT
+Métrique 550 mise à jour:  -> IT
+Métrique 551 mise à jour:  -> IT
+Métrique 552 mise à jour:  -> IT
+Métrique 540 mise à jour:  -> IT
+Métrique 541 mise à jour:  -> IT
+Métrique 542 mise à jour:  -> IT
+Métrique 543 mise à jour:  -> IT
+Métrique 544 mise à jour:  -> IT
+Métrique 545 mise à jour:  -> IT
+Métrique 546 mise à jour:  -> IT
+Métrique 472 mise à jour:  -> IT
+Métrique 473 mise à jour:  -> IT
+Métrique 474 mise à jour:  -> IT
+Métrique 475 mise à jour:  -> IT
+Métrique 476 mise à jour:  -> IT
+Métrique 477 mise à jour:  -> IT
+Métrique 478 mise à jour:  -> IT
+Métrique 465 mise à jour:  -> IT
+Métrique 466 mise à jour:  -> IT
+Métrique 467 mise à jour:  -> IT
+Métrique 468 mise à jour:  -> IT
+Métrique 469 mise à jour:  -> IT
+Métrique 470 mise à jour:  -> IT
+Métrique 471 mise à jour:  -> IT
+Métrique 524 mise à jour:  -> IT
+Métrique 525 mise à jour:  -> IT
+Métrique 526 mise à jour:  -> IT
+Métrique 527 mise à jour:  -> IT
+Métrique 528 mise à jour:  -> IT
+Métrique 529 mise à jour:  -> IT
+Métrique 530 mise à jour:  -> IT
+Métrique 531 mise à jour:  -> IT
+Métrique 553 mise à jour:  -> IT
+Métrique 554 mise à jour:  -> IT
+Métrique 555 mise à jour:  -> IT
+Métrique 556 mise à jour:  -> IT
+Métrique 557 mise à jour:  -> IT
+Métrique 558 mise à jour:  -> IT
+Métrique 559 mise à jour:  -> IT
+Métrique 560 mise à jour:  -> IT
+Métrique 532 mise à jour:  -> IT
+Métrique 533 mise à jour:  -> IT
+Métrique 534 mise à jour:  -> IT
+Métrique 535 mise à jour:  -> IT
+Métrique 536 mise à jour:  -> IT
+Métrique 537 mise à jour:  -> IT
+Métrique 538 mise à jour:  -> IT
+Métrique 539 mise à jour:  -> IT
+Métrique 429 mise à jour:  -> FR
+Métrique 507 mise à jour:  -> IT
+Métrique 508 mise à jour:  -> IT
+Métrique 509 mise à jour:  -> IT
+Métrique 510 mise à jour:  -> IT
+Métrique 511 mise à jour:  -> IT
+Métrique 512 mise à jour:  -> IT
+Métrique 513 mise à jour:  -> IT
+Métrique 514 mise à jour:  -> IT
+Métrique 515 mise à jour:  -> IT
+Métrique 499 mise à jour:  -> IT
+Métrique 500 mise à jour:  -> IT
+Métrique 501 mise à jour:  -> IT
+Métrique 502 mise à jour:  -> IT
+Métrique 503 mise à jour:  -> IT
+Métrique 504 mise à jour:  -> IT
+Métrique 505 mise à jour:  -> IT
+Métrique 506 mise à jour:  -> IT
+Métrique 486 mise à jour:  -> IT
+Métrique 487 mise à jour:  -> IT
+Métrique 488 mise à jour:  -> IT
+Métrique 489 mise à jour:  -> IT
+Métrique 490 mise à jour:  -> IT
+Métrique 491 mise à jour:  -> IT
+Métrique 492 mise à jour:  -> IT
+Métrique 493 mise à jour:  -> IT
+Métrique 494 mise à jour:  -> IT
+Métrique 495 mise à jour:  -> IT
+Métrique 496 mise à jour:  -> IT
+Métrique 497 mise à jour:  -> IT
+Métrique 498 mise à jour:  -> IT
+Métrique 479 mise à jour:  -> IT
+Métrique 480 mise à jour:  -> IT
+Métrique 481 mise à jour:  -> IT
+Métrique 482 mise à jour:  -> IT
+Métrique 483 mise à jour:  -> IT
+Métrique 484 mise à jour:  -> IT
+Métrique 485 mise à jour:  -> IT
+Métrique 561 mise à jour:  -> UK
+Métrique 562 mise à jour:  -> UK
+Métrique 563 mise à jour:  -> UK
+Métrique 564 mise à jour:  -> UK
+Métrique 565 mise à jour:  -> UK
+Métrique 566 mise à jour:  -> UK
+Métrique 567 mise à jour:  -> UK
+Métrique 516 mise à jour:  -> IT
+Métrique 517 mise à jour:  -> IT
+Métrique 518 mise à jour:  -> IT
+Métrique 519 mise à jour:  -> IT
+Métrique 520 mise à jour:  -> IT
+Métrique 521 mise à jour:  -> IT
+Métrique 522 mise à jour:  -> IT
+Métrique 523 mise à jour:  -> IT
+Métrique 422 mise à jour:  -> FR
+Métrique 423 mise à jour:  -> FR
+Métrique 424 mise à jour:  -> FR
+Métrique 425 mise à jour:  -> FR
+Métrique 426 mise à jour:  -> FR
+Métrique 427 mise à jour:  -> FR
+Métrique 428 mise à jour:  -> FR
+Métrique 377 mise à jour:  -> FR
+Métrique 378 mise à jour:  -> FR
+Métrique 379 mise à jour:  -> FR
+Métrique 380 mise à jour:  -> FR
+Métrique 381 mise à jour:  -> FR
+Métrique 382 mise à jour:  -> FR
+Métrique 391 mise à jour:  -> FR
+Métrique 392 mise à jour:  -> FR
+Métrique 393 mise à jour:  -> FR
+Métrique 394 mise à jour:  -> FR
+Métrique 395 mise à jour:  -> FR
+Métrique 396 mise à jour:  -> FR
+Métrique 397 mise à jour:  -> FR
+Métrique 383 mise à jour:  -> FR
+Métrique 384 mise à jour:  -> FR
+Métrique 385 mise à jour:  -> FR
+Métrique 386 mise à jour:  -> FR
+Métrique 387 mise à jour:  -> FR
+Métrique 388 mise à jour:  -> FR
+Métrique 389 mise à jour:  -> FR
+Métrique 390 mise à jour:  -> FR
+Métrique 351 mise à jour:  -> FR
+Métrique 352 mise à jour:  -> FR
+Métrique 353 mise à jour:  -> FR
+Métrique 354 mise à jour:  -> FR
+Métrique 355 mise à jour:  -> FR
+Métrique 343 mise à jour:  -> FR
+Métrique 344 mise à jour:  -> FR
+Métrique 345 mise à jour:  -> FR
+Métrique 346 mise à jour:  -> FR
+Métrique 347 mise à jour:  -> FR
+Métrique 348 mise à jour:  -> FR
+Métrique 349 mise à jour:  -> FR
+Métrique 336 mise à jour:  -> BEFR
+Métrique 337 mise à jour:  -> BEFR
+Métrique 338 mise à jour:  -> BEFR
+Métrique 339 mise à jour:  -> BEFR
+Métrique 340 mise à jour:  -> BEFR
+Métrique 341 mise à jour:  -> BEFR
+Métrique 342 mise à jour:  -> BEFR
+Métrique 320 mise à jour:  -> FR
+Métrique 321 mise à jour:  -> FR
+Métrique 322 mise à jour:  -> FR
+Métrique 323 mise à jour:  -> FR
+Métrique 324 mise à jour:  -> FR
+Métrique 325 mise à jour:  -> FR
+Métrique 326 mise à jour:  -> FR
+Métrique 327 mise à jour:  -> FR
+Métrique 350 mise à jour:  -> FR
+Métrique 328 mise à jour:  -> FR
+Métrique 329 mise à jour:  -> FR
+Métrique 330 mise à jour:  -> FR
+Métrique 331 mise à jour:  -> FR
+Métrique 332 mise à jour:  -> FR
+Métrique 333 mise à jour:  -> FR
+Métrique 334 mise à jour:  -> FR
+Métrique 335 mise à jour:  -> FR
+Métrique 356 mise à jour:  -> FR
+Métrique 357 mise à jour:  -> FR
+Métrique 358 mise à jour:  -> FR
+Métrique 359 mise à jour:  -> FR
+Métrique 360 mise à jour:  -> FR
+Métrique 361 mise à jour:  -> FR
+Métrique 362 mise à jour:  -> FR
+Métrique 363 mise à jour:  -> FR
+Métrique 364 mise à jour:  -> FR
+Métrique 286 mise à jour:  -> FR
+Métrique 287 mise à jour:  -> FR
+Métrique 288 mise à jour:  -> FR
+Métrique 289 mise à jour:  -> FR
+Métrique 290 mise à jour:  -> FR
+Métrique 291 mise à jour:  -> FR
+Métrique 302 mise à jour:  -> FR
+Métrique 303 mise à jour:  -> FR
+Métrique 304 mise à jour:  -> FR
+Métrique 305 mise à jour:  -> FR
+Métrique 306 mise à jour:  -> FR
+Métrique 307 mise à jour:  -> FR
+Métrique 308 mise à jour:  -> FR
+Métrique 309 mise à jour:  -> FR
+Métrique 310 mise à jour:  -> FR
+Métrique 311 mise à jour:  -> FR
+Métrique 312 mise à jour:  -> NL
+Métrique 313 mise à jour:  -> NL
+Métrique 314 mise à jour:  -> NL
+Métrique 315 mise à jour:  -> NL
+Métrique 316 mise à jour:  -> NL
+Métrique 317 mise à jour:  -> NL
+Métrique 318 mise à jour:  -> NL
+Métrique 319 mise à jour:  -> NL
+Métrique 292 mise à jour:  -> FR
+Métrique 293 mise à jour:  -> FR
+Métrique 294 mise à jour:  -> FR
+Métrique 295 mise à jour:  -> FR
+Métrique 296 mise à jour:  -> FR
+Métrique 297 mise à jour:  -> FR
+Métrique 298 mise à jour:  -> FR
+Métrique 299 mise à jour:  -> FR
+Métrique 300 mise à jour:  -> FR
+Métrique 301 mise à jour:  -> FR
+Métrique 277 mise à jour:  -> FR
+Métrique 278 mise à jour:  -> FR
+Métrique 279 mise à jour:  -> FR
+Métrique 280 mise à jour:  -> FR
+Métrique 281 mise à jour:  -> FR
+Métrique 282 mise à jour:  -> FR
+Métrique 283 mise à jour:  -> FR
+Métrique 284 mise à jour:  -> FR
+Métrique 285 mise à jour:  -> FR
+Métrique 239 mise à jour:  -> FR
+Métrique 240 mise à jour:  -> FR
+Métrique 241 mise à jour:  -> FR
+Métrique 242 mise à jour:  -> FR
+Métrique 243 mise à jour:  -> FR
+Métrique 244 mise à jour:  -> FR
+Métrique 245 mise à jour:  -> FR
+Métrique 255 mise à jour:  -> FR
+Métrique 256 mise à jour:  -> FR
+Métrique 257 mise à jour:  -> FR
+Métrique 258 mise à jour:  -> FR
+Métrique 259 mise à jour:  -> FR
+Métrique 260 mise à jour:  -> FR
+Métrique 261 mise à jour:  -> FR
+Métrique 262 mise à jour:  -> FR
+Métrique 263 mise à jour:  -> FR
+Métrique 264 mise à jour:  -> FR
+Métrique 265 mise à jour:  -> FR
+Métrique 266 mise à jour:  -> FR
+Métrique 267 mise à jour:  -> FR
+Métrique 268 mise à jour:  -> FR
+Métrique 238 mise à jour:  -> FR
+Métrique 246 mise à jour:  -> FR
+Métrique 247 mise à jour:  -> FR
+Métrique 248 mise à jour:  -> FR
+Métrique 249 mise à jour:  -> FR
+Métrique 250 mise à jour:  -> FR
+Métrique 251 mise à jour:  -> FR
+Métrique 252 mise à jour:  -> FR
+Métrique 253 mise à jour:  -> FR
+Métrique 254 mise à jour:  -> FR
+Métrique 269 mise à jour:  -> FR
+Métrique 270 mise à jour:  -> FR
+Métrique 271 mise à jour:  -> FR
+Métrique 272 mise à jour:  -> FR
+Métrique 273 mise à jour:  -> FR
+Métrique 274 mise à jour:  -> FR
+Métrique 275 mise à jour:  -> FR
+Métrique 276 mise à jour:  -> FR
+Métrique 222 mise à jour:  -> FR
+Métrique 223 mise à jour:  -> FR
+Métrique 224 mise à jour:  -> FR
+Métrique 225 mise à jour:  -> FR
+Métrique 226 mise à jour:  -> FR
+Métrique 227 mise à jour:  -> FR
+Métrique 228 mise à jour:  -> FR
+Métrique 236 mise à jour:  -> PL
+Métrique 237 mise à jour:  -> PL
+Métrique 220 mise à jour:  -> FR
+Métrique 221 mise à jour:  -> FR
+Métrique 170 mise à jour:  -> AU
+Métrique 171 mise à jour:  -> AU
+Métrique 172 mise à jour:  -> AU
+Métrique 173 mise à jour:  -> AU
+Métrique 174 mise à jour:  -> AU
+Métrique 175 mise à jour:  -> AU
+Métrique 176 mise à jour:  -> AU
+Métrique 177 mise à jour:  -> ES
+Métrique 178 mise à jour:  -> ES
+Métrique 179 mise à jour:  -> ES
+Métrique 180 mise à jour:  -> ES
+Métrique 229 mise à jour:  -> IT
+Métrique 230 mise à jour:  -> IT
+Métrique 231 mise à jour:  -> IT
+Métrique 232 mise à jour:  -> IT
+Métrique 233 mise à jour:  -> IT
+Métrique 234 mise à jour:  -> IT
+Métrique 235 mise à jour:  -> IT
+Métrique 203 mise à jour:  -> FR
+Métrique 204 mise à jour:  -> FR
+Métrique 205 mise à jour:  -> FR
+Métrique 206 mise à jour:  -> FR
+Métrique 207 mise à jour:  -> FR
+Métrique 208 mise à jour:  -> FR
+Métrique 209 mise à jour:  -> FR
+Métrique 210 mise à jour:  -> FR
+Métrique 211 mise à jour:  -> FR
+Métrique 212 mise à jour:  -> FR
+Métrique 213 mise à jour:  -> FR
+Métrique 214 mise à jour:  -> FR
+Métrique 215 mise à jour:  -> FR
+Métrique 216 mise à jour:  -> FR
+Métrique 217 mise à jour:  -> FR
+Métrique 218 mise à jour:  -> FR
+Métrique 219 mise à jour:  -> FR
+Métrique 160 mise à jour:  -> FR
+Métrique 161 mise à jour:  -> FR
+Métrique 162 mise à jour:  -> FR
+Métrique 163 mise à jour:  -> FR
+Métrique 164 mise à jour:  -> FR
+Métrique 165 mise à jour:  -> FR
+Métrique 166 mise à jour:  -> FR
+Métrique 167 mise à jour:  -> FR
+Métrique 168 mise à jour:  -> FR
+Métrique 197 mise à jour:  -> FR
+Métrique 198 mise à jour:  -> FR
+Métrique 199 mise à jour:  -> FR
+Métrique 200 mise à jour:  -> FR
+Métrique 201 mise à jour:  -> FR
+Métrique 202 mise à jour:  -> FR
+Métrique 181 mise à jour:  -> FR
+Métrique 182 mise à jour:  -> FR
+Métrique 183 mise à jour:  -> FR
+Métrique 184 mise à jour:  -> FR
+Métrique 185 mise à jour:  -> FR
+Métrique 186 mise à jour:  -> FR
+Métrique 187 mise à jour:  -> FR
+Métrique 188 mise à jour:  -> FR
+Métrique 189 mise à jour:  -> FR
+Métrique 190 mise à jour:  -> FR
+Métrique 191 mise à jour:  -> FR
+Métrique 192 mise à jour:  -> FR
+Métrique 193 mise à jour:  -> FR
+Métrique 194 mise à jour:  -> FR
+Métrique 195 mise à jour:  -> FR
+Métrique 196 mise à jour:  -> FR
+Métrique 169 mise à jour:  -> FR
+Métrique 114 mise à jour:  -> FR
+Métrique 115 mise à jour:  -> FR
+Métrique 116 mise à jour:  -> FR
+Métrique 117 mise à jour:  -> FR
+Métrique 118 mise à jour:  -> FR
+Métrique 119 mise à jour:  -> FR
+Métrique 120 mise à jour:  -> FR
+Métrique 35 mise à jour:  -> FR
+Métrique 36 mise à jour:  -> FR
+Métrique 37 mise à jour:  -> FR
+Métrique 38 mise à jour:  -> FR
+Métrique 39 mise à jour:  -> FR
+Métrique 40 mise à jour:  -> FR
+Métrique 41 mise à jour:  -> FR
+Métrique 25 mise à jour:  -> FR
+Métrique 26 mise à jour:  -> FR
+Métrique 27 mise à jour:  -> FR
+Métrique 28 mise à jour:  -> FR
+Métrique 29 mise à jour:  -> FR
+Métrique 30 mise à jour:  -> FR
+Métrique 31 mise à jour:  -> FR
+Métrique 32 mise à jour:  -> FR
+Métrique 33 mise à jour:  -> FR
+Métrique 34 mise à jour:  -> FR
+Métrique 106 mise à jour:  -> FR
+Métrique 107 mise à jour:  -> FR
+Métrique 108 mise à jour:  -> FR
+Métrique 109 mise à jour:  -> FR
+Métrique 110 mise à jour:  -> FR
+Métrique 111 mise à jour:  -> FR
+Métrique 112 mise à jour:  -> FR
+Métrique 113 mise à jour:  -> FR
+Métrique 13 mise à jour:  -> AU
+Métrique 14 mise à jour:  -> AU
+Métrique 15 mise à jour:  -> AU
+Métrique 16 mise à jour:  -> AU
+Métrique 17 mise à jour:  -> AU
+Métrique 10 mise à jour:  -> AU
+Métrique 11 mise à jour:  -> AU
+Métrique 12 mise à jour:  -> AU
+Métrique 65 mise à jour:  -> FR
+Métrique 66 mise à jour:  -> FR
+Métrique 67 mise à jour:  -> FR
+Métrique 68 mise à jour:  -> FR
+Métrique 69 mise à jour:  -> FR
+Métrique 70 mise à jour:  -> FR
+Métrique 71 mise à jour:  -> FR
+Métrique 72 mise à jour:  -> FR
+Métrique 50 mise à jour:  -> FR
+Métrique 51 mise à jour:  -> FR
+Métrique 52 mise à jour:  -> FR
+Métrique 53 mise à jour:  -> FR
+Métrique 54 mise à jour:  -> FR
+Métrique 55 mise à jour:  -> FR
+Métrique 56 mise à jour:  -> FR
+Métrique 89 mise à jour:  -> FR
+Métrique 90 mise à jour:  -> FR
+Métrique 91 mise à jour:  -> FR
+Métrique 92 mise à jour:  -> FR
+Métrique 93 mise à jour:  -> FR
+Métrique 94 mise à jour:  -> FR
+Métrique 95 mise à jour:  -> FR
+Métrique 96 mise à jour:  -> FR
+Métrique 97 mise à jour:  -> FR
+Métrique 57 mise à jour:  -> FR
+Métrique 58 mise à jour:  -> FR
+Métrique 59 mise à jour:  -> FR
+Métrique 60 mise à jour:  -> FR
+Métrique 61 mise à jour:  -> FR
+Métrique 62 mise à jour:  -> FR
+Métrique 63 mise à jour:  -> FR
+Métrique 64 mise à jour:  -> FR
+Métrique 1 mise à jour:  -> FR
+Métrique 2 mise à jour:  -> FR
+Métrique 3 mise à jour:  -> FR
+Métrique 4 mise à jour:  -> FR
+Métrique 5 mise à jour:  -> FR
+Métrique 6 mise à jour:  -> FR
+Métrique 7 mise à jour:  -> FR
+Métrique 8 mise à jour:  -> FR
+Métrique 9 mise à jour:  -> FR
+Métrique 73 mise à jour:  -> FR
+Métrique 74 mise à jour:  -> FR
+Métrique 75 mise à jour:  -> FR
+Métrique 76 mise à jour:  -> FR
+Métrique 77 mise à jour:  -> FR
+Métrique 78 mise à jour:  -> FR
+Métrique 79 mise à jour:  -> FR
+Métrique 80 mise à jour:  -> FR
+Métrique 18 mise à jour:  -> FR
+Métrique 19 mise à jour:  -> FR
+Métrique 20 mise à jour:  -> FR
+Métrique 21 mise à jour:  -> FR
+Métrique 22 mise à jour:  -> FR
+Métrique 23 mise à jour:  -> FR
+Métrique 24 mise à jour:  -> FR
+Métrique 121 mise à jour:  -> FR
+Métrique 122 mise à jour:  -> FR
+Métrique 123 mise à jour:  -> FR
+Métrique 124 mise à jour:  -> FR
+Métrique 125 mise à jour:  -> FR
+Métrique 126 mise à jour:  -> FR
+Métrique 127 mise à jour:  -> FR
+Métrique 128 mise à jour:  -> FR
+Métrique 42 mise à jour:  -> FR
+Métrique 43 mise à jour:  -> FR
+Métrique 44 mise à jour:  -> FR
+Métrique 45 mise à jour:  -> FR
+Métrique 46 mise à jour:  -> FR
+Métrique 47 mise à jour:  -> FR
+Métrique 48 mise à jour:  -> FR
+Métrique 49 mise à jour:  -> FR
+Métrique 81 mise à jour:  -> FR
+Métrique 82 mise à jour:  -> FR
+Métrique 83 mise à jour:  -> FR
+Métrique 84 mise à jour:  -> FR
+Métrique 85 mise à jour:  -> FR
+Métrique 86 mise à jour:  -> FR
+Métrique 87 mise à jour:  -> FR
+Métrique 88 mise à jour:  -> FR
+Métrique 98 mise à jour:  -> FR
+Métrique 99 mise à jour:  -> FR
+Métrique 100 mise à jour:  -> FR
+Métrique 101 mise à jour:  -> FR
+Métrique 102 mise à jour:  -> FR
+Métrique 103 mise à jour:  -> FR
+Métrique 104 mise à jour:  -> FR
+Métrique 105 mise à jour:  -> FR
+Métrique 144 mise à jour:  -> ES
+Métrique 145 mise à jour:  -> ES
+Métrique 146 mise à jour:  -> ES
+Métrique 129 mise à jour:  -> DE
+Métrique 130 mise à jour:  -> DE
+Métrique 131 mise à jour:  -> DE
+Métrique 132 mise à jour:  -> NO
+Métrique 133 mise à jour:  -> NO
+Métrique 134 mise à jour:  -> NO
+Métrique 135 mise à jour:  -> SE
+Métrique 136 mise à jour:  -> SE
+Métrique 137 mise à jour:  -> SE
+Métrique 147 mise à jour:  -> UK
+Métrique 148 mise à jour:  -> UK
+Métrique 149 mise à jour:  -> UK
+Métrique 138 mise à jour:  -> SG
+Métrique 139 mise à jour:  -> SG
+Métrique 140 mise à jour:  -> SG
+Métrique 141 mise à jour:  -> NZ
+Métrique 142 mise à jour:  -> NZ
+Métrique 143 mise à jour:  -> NZ
+Métrique 150 mise à jour:  -> MX
+Métrique 151 mise à jour:  -> MX
+Métrique 152 mise à jour:  -> MX
+Métrique 153 mise à jour:  -> MX
+Métrique 155 mise à jour:  -> MX
+Métrique 156 mise à jour:  -> MX
+Métrique 157 mise à jour:  -> MX
+Métrique 158 mise à jour:  -> MX
+Métrique 159 mise à jour:  -> MX
+Métrique 435 mise à jour:  -> MX
+Métrique 154 mise à jour:  -> MX
+Métrique 436 mise à jour:  -> MX
+Métrique 437 mise à jour:  -> UK
+Métrique 438 mise à jour:  -> UK
+Métrique 439 mise à jour:  -> UK
+Métrique 440 mise à jour:  -> UK
+Métrique 441 mise à jour:  -> UK
+Métrique 442 mise à jour:  -> IT
+Métrique 443 mise à jour:  -> IT
+Métrique 444 mise à jour:  -> IT
+Métrique 445 mise à jour:  -> IT
+Métrique 446 mise à jour:  -> IT
+Métrique 447 mise à jour:  -> FR
+Métrique 448 mise à jour:  -> FR
+Métrique 449 mise à jour:  -> FR
+Métrique 450 mise à jour:  -> FR
+Métrique 451 mise à jour:  -> FR
+Métrique 452 mise à jour:  -> ES
+Métrique 453 mise à jour:  -> ES
+Métrique 454 mise à jour:  -> ES
+Métrique 455 mise à jour:  -> ES
+Métrique 456 mise à jour:  -> ES
+Internal Server Error: /api/metrics/summary/
+Internal Server Error: /api/metrics/summary/
+Internal Server Error: /api/metrics/summary/
+Internal Server Error: /api/metrics/summary/
+F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/metrics/summary/
+F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/metrics/summary/
+F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/metrics/summary_by_geolocation/
+Traceback (most recent call last):
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CampaignMetricsViewSet.summary_by_geolocation() takes 1 positional argument but 2 were given
+F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
+Watching for file changes with StatReloader
+F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
+Watching for file changes with StatReloader
