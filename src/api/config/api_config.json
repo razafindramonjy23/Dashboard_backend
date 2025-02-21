@@ -7,7 +7,6 @@
                 "10910": {"name": "[AU] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
                 "10911": {"name": "[AU] ozripperdeal.com", "api_key": "o36i4OHMgBC35cvnhnmi"},
                 "10690": {"name": "[FR] comptoirdesreducs.com", "api_key": "62t41k5ajMYpwdwBSoE7"},
-                "11008": {"name": "[FR] cornerpromo.com", "api_key": "p7q5fll1z7fcWQn7YlAV"},
                 "11055": {"name": "[FR] fandebonsplans.com", "api_key": "YfOnoYw1v9a5cXkpQ45q"},
                 "10452": {"name": "[FR] consommermoinscher.com", "api_key": "3s7jKtwkkzAtUnhbvw0V"},
                 "10841": {"name": "[FR] desirsbrulant.com", "api_key": "he7OxbiwLSiwbiKU6S3f"},
@@ -23,7 +22,7 @@
                 "10913": {"name": "[FR] lesdenicheursdunet.com", "api_key": "wJmoKb4taLhs3bP9y3Y7"},
                 "11056": {"name": "[FR] votrentreprise.com", "api_key": "z36zb8q3pUJIB1nXqvzi"},
                 "10662": {"name": "[FR] lastucieux.com", "api_key": "jkEsAqengQqYdZiPRmeV"},
-
+                
                 "37": {"name": "[DE] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
                 "23": {"name": "[NO] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
                 "22": {"name": "[SE] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},

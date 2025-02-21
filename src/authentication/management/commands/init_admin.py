@@ -22,7 +22,7 @@ class Command(BaseCommand):
             admin = User.objects.create_user(
                 username="Admin",
                 email="admin@example.com",
-                password="bef039f16d3adf9e4eb5f648142165ab",  
+                password="169345ccf515a0b6cc4e2114dca19374",  
                 first_name="Admin",
                 last_name="rd_admin",
                 is_superuser=True,

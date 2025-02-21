@@ -13,3 +13,21 @@ python manage.py start_scheduler
 
 #importer depuis expertsender
 python manage.py expertsender
+
+
+GENERER LE TOKEN 
+'''
+python manage.py shell 
+
+from authentication.models import AdminToken
+import secrets
+
+new_token = AdminToken.objects.create(
+    token=secrets.token_hex(16),
+    description="Nouveau token admin"
+)
+
+print("Nouveau Token :", new_token.token)
+
+'''
+

@@ -107920,3 +107920,2560 @@ F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
 Watching for file changes with StatReloader
 F:\JOB\RD\Dashboard_RD\backend\src\api\views\metrics.py changed, reloading.
 Watching for file changes with StatReloader
+Not Found: /api/metrics/summary_by_geolocation/
+Watching for file changes with StatReloader
+Looking for config file at: F:\JOB\RD\Dashboard_RD\backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (2)
+Failed to save statistics for [FR] cornerpromo.com (2): ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Failed to process account 2: ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+Processing account [FR] mesemplettesvip-k.com (90280)
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Not Found: /api/login/
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Not Found: /api/departments/
+Not Found: /api/departments/
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/departments/
+Not Found: /api/departments/
+Not Found: /api/departments/
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /api/departments/
+Not Found: /api/departments/
+Not Found: /auth/
+Not Found: /auth/login/
+Not Found: /api/departments/
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /auth/login/
+Not Found: /auth/login/
+Not Found: /auth/register/
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /auth/api/
+Method Not Allowed: /auth/api/login/
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /auth/
+Method Not Allowed: /auth/login/
+Not Found: /api/departments/
+Not Found: /api/departments/
+Unauthorized: /auth/departments/
+Watching for file changes with StatReloader
+Unauthorized: /auth/departments/
+Unauthorized: /auth/departments/
+Unauthorized: /auth/departments/
+Unauthorized: /auth/departments/
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\models.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /auth/departments/
+Unauthorized: /auth/departments/
+Unauthorized: /auth/departments/
+Unauthorized: /auth/departments/
+F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/login/
+Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "F:\JOB\RD\Dashboard_RD\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\JOB\RD\Dashboard_RD\backend\src\authentication\views.py", line 78, in post
+    token, _ = Token.objects.get_or_create(user=user)
+               ^^^^^^^^^^^^^
+AttributeError: type object 'Token' has no attribute 'objects'
+Unauthorized: /auth/departments/
+Watching for file changes with StatReloader
+Unauthorized: /auth/departments/
+Unauthorized: /auth/departments/
+Not Found: /auth/
+Method Not Allowed: /auth/login/
+Unauthorized: /auth/register/
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Looking for config file at: F:\JOB\RD\Dashboard_RD\backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (2)
+Failed to save statistics for [FR] cornerpromo.com (2): ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Failed to process account 2: ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+Processing account [FR] mesemplettesvip-k.com (90280)
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Métrique 2201 mise à jour:  -> FR
+Métrique 2200 mise à jour:  -> FR
+Métrique 2199 mise à jour:  -> FR
+Métrique 2198 mise à jour:  -> FR
+Métrique 2197 mise à jour:  -> FR
+Métrique 2196 mise à jour:  -> FR
+Métrique 2195 mise à jour:  -> FR
+Métrique 2194 mise à jour:  -> FR
+Métrique 2177 mise à jour:  -> FR
+Métrique 2176 mise à jour:  -> FR
+Métrique 2175 mise à jour:  -> FR
+Métrique 2174 mise à jour:  -> FR
+Métrique 2173 mise à jour:  -> FR
+Métrique 2172 mise à jour:  -> FR
+Métrique 2171 mise à jour:  -> FR
+Métrique 2193 mise à jour:  -> FR
+Métrique 2192 mise à jour:  -> FR
+Métrique 2191 mise à jour:  -> FR
+Métrique 2190 mise à jour:  -> FR
+Métrique 2189 mise à jour:  -> FR
+Métrique 2224 mise à jour:  -> FR
+Métrique 2223 mise à jour:  -> FR
+Métrique 2222 mise à jour:  -> FR
+Métrique 2221 mise à jour:  -> FR
+Métrique 2220 mise à jour:  -> FR
+Métrique 2149 mise à jour:  -> FR
+Métrique 2148 mise à jour:  -> FR
+Métrique 2147 mise à jour:  -> FR
+Métrique 2146 mise à jour:  -> FR
+Métrique 2145 mise à jour:  -> FR
+Métrique 2144 mise à jour:  -> FR
+Métrique 2143 mise à jour:  -> FR
+Métrique 2219 mise à jour:  -> FR
+Métrique 2218 mise à jour:  -> FR
+Métrique 2217 mise à jour:  -> FR
+Métrique 2216 mise à jour:  -> FR
+Métrique 2214 mise à jour:  -> FR
+Métrique 2213 mise à jour:  -> FR
+Métrique 2212 mise à jour:  -> FR
+Métrique 2211 mise à jour:  -> FR
+Métrique 2210 mise à jour:  -> FR
+Métrique 2209 mise à jour:  -> FR
+Métrique 2133 mise à jour:  -> FR
+Métrique 2132 mise à jour:  -> FR
+Métrique 2131 mise à jour:  -> FR
+Métrique 2130 mise à jour:  -> FR
+Métrique 2129 mise à jour:  -> FR
+Métrique 2128 mise à jour:  -> FR
+Métrique 2127 mise à jour:  -> FR
+Métrique 2155 mise à jour:  -> FR
+Métrique 2154 mise à jour:  -> FR
+Métrique 2153 mise à jour:  -> FR
+Métrique 2152 mise à jour:  -> FR
+Métrique 2151 mise à jour:  -> FR
+Métrique 2150 mise à jour:  -> FR
+Métrique 2236 mise à jour:  -> IT
+Métrique 2235 mise à jour:  -> IT
+Métrique 2234 mise à jour:  -> IT
+Métrique 2233 mise à jour:  -> IT
+Métrique 2232 mise à jour:  -> IT
+Métrique 2231 mise à jour:  -> IT
+Métrique 2230 mise à jour:  -> IT
+Métrique 2095 mise à jour:  -> DE
+Métrique 2096 mise à jour:  -> DE
+Métrique 2097 mise à jour:  -> DE
+Métrique 2098 mise à jour:  -> DE
+Métrique 2099 mise à jour:  -> DE
+Métrique 2100 mise à jour:  -> DE
+Métrique 2084 mise à jour:  -> BENL
+Métrique 2085 mise à jour:  -> BENL
+Métrique 2086 mise à jour:  -> BENL
+Métrique 2087 mise à jour:  -> BENL
+Métrique 2088 mise à jour:  -> BENL
+Métrique 2089 mise à jour:  -> BENL
+Métrique 2090 mise à jour:  -> BENL
+Métrique 2091 mise à jour:  -> BENL
+Métrique 2248 mise à jour:  -> UK
+Métrique 2073 mise à jour:  -> AU
+Métrique 2074 mise à jour:  -> AU
+Métrique 2075 mise à jour:  -> AU
+Métrique 2187 mise à jour:  -> FR
+Métrique 2186 mise à jour:  -> FR
+Métrique 2185 mise à jour:  -> FR
+Métrique 2184 mise à jour:  -> FR
+Métrique 2183 mise à jour:  -> FR
+Métrique 2182 mise à jour:  -> FR
+Métrique 2181 mise à jour:  -> FR
+Métrique 2229 mise à jour:  -> IT
+Métrique 2228 mise à jour:  -> IT
+Métrique 2227 mise à jour:  -> IT
+Métrique 2226 mise à jour:  -> IT
+Métrique 2225 mise à jour:  -> IT
+Métrique 2257 mise à jour:  -> UK
+Métrique 2256 mise à jour:  -> UK
+Métrique 2255 mise à jour:  -> UK
+Métrique 2254 mise à jour:  -> UK
+Métrique 2247 mise à jour:  -> NL
+Métrique 2246 mise à jour:  -> NL
+Métrique 2245 mise à jour:  -> NL
+Métrique 2244 mise à jour:  -> NL
+Métrique 2243 mise à jour:  -> NL
+Métrique 2108 mise à jour:  -> ES
+Métrique 2107 mise à jour:  -> ES
+Métrique 2106 mise à jour:  -> ES
+Métrique 2105 mise à jour:  -> ES
+Métrique 2104 mise à jour:  -> ES
+Métrique 2208 mise à jour:  -> FR
+Métrique 2207 mise à jour:  -> FR
+Métrique 2206 mise à jour:  -> FR
+Métrique 2205 mise à jour:  -> FR
+Métrique 2204 mise à jour:  -> FR
+Métrique 2203 mise à jour:  -> FR
+Métrique 2202 mise à jour:  -> FR
+Métrique 2092 mise à jour:  -> BE NL
+Métrique 2093 mise à jour:  -> BE NL
+Métrique 2094 mise à jour:  -> BE NL
+Métrique 2081 mise à jour:  -> CA EN
+Métrique 2082 mise à jour:  -> CA EN
+Métrique 2083 mise à jour:  -> CA EN
+Métrique 2103 mise à jour:  -> CA FR
+Métrique 2102 mise à jour:  -> CA FR
+Métrique 2101 mise à jour:  -> CA FR
+Métrique 2068 mise à jour:  -> AU
+Métrique 2069 mise à jour:  -> AU
+Métrique 2070 mise à jour:  -> AU
+Métrique 2071 mise à jour:  -> AU
+Métrique 2072 mise à jour:  -> AU
+Métrique 2180 mise à jour:  -> FR
+Métrique 2179 mise à jour:  -> FR
+Métrique 2178 mise à jour:  -> FR
+Métrique 2188 mise à jour:  -> FR
+Métrique 2253 mise à jour:  -> UK
+Métrique 2252 mise à jour:  -> UK
+Métrique 2251 mise à jour:  -> UK
+Métrique 2250 mise à jour:  -> UK
+Métrique 2249 mise à jour:  -> UK
+Métrique 2134 mise à jour:  -> FR
+Métrique 2109 mise à jour:  -> ES
+Métrique 2164 mise à jour:  -> FR
+Métrique 2163 mise à jour:  -> FR
+Métrique 2162 mise à jour:  -> FR
+Métrique 2161 mise à jour:  -> FR
+Métrique 2160 mise à jour:  -> FR
+Métrique 2159 mise à jour:  -> FR
+Métrique 2158 mise à jour:  -> FR
+Métrique 2157 mise à jour:  -> FR
+Métrique 2156 mise à jour:  -> FR
+Métrique 2242 mise à jour:  -> NL
+Métrique 2241 mise à jour:  -> NL
+Métrique 2240 mise à jour:  -> NL
+Métrique 2239 mise à jour:  -> NL
+Métrique 2238 mise à jour:  -> NL
+Métrique 2237 mise à jour:  -> NL
+Métrique 2076 mise à jour:  -> AU
+Métrique 2077 mise à jour:  -> AU
+Métrique 2078 mise à jour:  -> AU
+Métrique 2079 mise à jour:  -> AU
+Métrique 2080 mise à jour:  -> AU
+Métrique 2125 mise à jour:  -> ES
+Métrique 2124 mise à jour:  -> ES
+Métrique 2123 mise à jour:  -> ES
+Métrique 2122 mise à jour:  -> ES
+Métrique 2121 mise à jour:  -> ES
+Métrique 2120 mise à jour:  -> ES
+Métrique 2119 mise à jour:  -> ES
+Métrique 2142 mise à jour:  -> FR
+Métrique 2141 mise à jour:  -> FR
+Métrique 2140 mise à jour:  -> FR
+Métrique 2139 mise à jour:  -> FR
+Métrique 2138 mise à jour:  -> FR
+Métrique 2137 mise à jour:  -> FR
+Métrique 2136 mise à jour:  -> FR
+Métrique 2118 mise à jour:  -> FR
+Métrique 2117 mise à jour:  -> FR
+Métrique 2116 mise à jour:  -> FR
+Métrique 2115 mise à jour:  -> FR
+Métrique 2114 mise à jour:  -> FR
+Métrique 2113 mise à jour:  -> FR
+Métrique 2112 mise à jour:  -> FR
+Métrique 2111 mise à jour:  -> FR
+Métrique 2110 mise à jour:  -> FR
+Métrique 2215 mise à jour:  -> FR
+Métrique 2166 mise à jour:  -> FR
+Métrique 2165 mise à jour:  -> FR
+Métrique 2170 mise à jour:  -> FR
+Métrique 2169 mise à jour:  -> FR
+Métrique 2168 mise à jour:  -> FR
+Métrique 2167 mise à jour:  -> FR
+Métrique 2135 mise à jour:  -> FR
+Métrique 2126 mise à jour:  -> FR
+Métrique 1956 mise à jour:  -> FR
+Métrique 1957 mise à jour:  -> FR
+Métrique 1868 mise à jour:  -> FR
+Métrique 1867 mise à jour:  -> FR
+Métrique 1949 mise à jour:  -> FR
+Métrique 1950 mise à jour:  -> FR
+Métrique 1951 mise à jour:  -> FR
+Métrique 1952 mise à jour:  -> FR
+Métrique 1953 mise à jour:  -> FR
+Métrique 1954 mise à jour:  -> FR
+Métrique 1955 mise à jour:  -> FR
+Métrique 1859 mise à jour:  -> DE
+Métrique 1860 mise à jour:  -> DE
+Métrique 1861 mise à jour:  -> DE
+Métrique 1862 mise à jour:  -> DE
+Métrique 1863 mise à jour:  -> DE
+Métrique 1864 mise à jour:  -> DE
+Métrique 1865 mise à jour:  -> DE
+Métrique 1866 mise à jour:  -> DE
+Métrique 2065 mise à jour:  -> US
+Métrique 2066 mise à jour:  -> US
+Métrique 2067 mise à jour:  -> US
+Métrique 1896 mise à jour:  -> FR
+Métrique 1897 mise à jour:  -> FR
+Métrique 1898 mise à jour:  -> FR
+Métrique 1899 mise à jour:  -> FR
+Métrique 1900 mise à jour:  -> FR
+Métrique 1901 mise à jour:  -> FR
+Métrique 1902 mise à jour:  -> FR
+Métrique 1903 mise à jour:  -> FR
+Métrique 1904 mise à jour:  -> FR
+Métrique 1905 mise à jour:  -> FR
+Métrique 1906 mise à jour:  -> FR
+Métrique 1907 mise à jour:  -> FR
+Métrique 1908 mise à jour:  -> FR
+Métrique 1909 mise à jour:  -> FR
+Métrique 1910 mise à jour:  -> FR
+Métrique 1911 mise à jour:  -> FR
+Métrique 1912 mise à jour:  -> FR
+Métrique 1913 mise à jour:  -> FR
+Métrique 1889 mise à jour:  -> FR
+Métrique 1890 mise à jour:  -> FR
+Métrique 1891 mise à jour:  -> FR
+Métrique 1892 mise à jour:  -> FR
+Métrique 1893 mise à jour:  -> FR
+Métrique 1894 mise à jour:  -> FR
+Métrique 1895 mise à jour:  -> FR
+Métrique 2044 mise à jour:  -> IT
+Métrique 2045 mise à jour:  -> IT
+Métrique 2046 mise à jour:  -> IT
+Métrique 2047 mise à jour:  -> IT
+Métrique 2048 mise à jour:  -> IT
+Métrique 2049 mise à jour:  -> IT
+Métrique 2036 mise à jour:  -> IT
+Métrique 2037 mise à jour:  -> IT
+Métrique 2038 mise à jour:  -> IT
+Métrique 2039 mise à jour:  -> IT
+Métrique 2040 mise à jour:  -> IT
+Métrique 2041 mise à jour:  -> IT
+Métrique 2042 mise à jour:  -> IT
+Métrique 2043 mise à jour:  -> IT
+Métrique 1965 mise à jour:  -> IT
+Métrique 1966 mise à jour:  -> IT
+Métrique 1967 mise à jour:  -> IT
+Métrique 1968 mise à jour:  -> IT
+Métrique 1969 mise à jour:  -> IT
+Métrique 1970 mise à jour:  -> IT
+Métrique 1971 mise à jour:  -> IT
+Métrique 1958 mise à jour:  -> IT
+Métrique 1959 mise à jour:  -> IT
+Métrique 1960 mise à jour:  -> IT
+Métrique 1961 mise à jour:  -> IT
+Métrique 1962 mise à jour:  -> IT
+Métrique 1963 mise à jour:  -> IT
+Métrique 1964 mise à jour:  -> IT
+Métrique 2018 mise à jour:  -> IT
+Métrique 2019 mise à jour:  -> IT
+Métrique 2020 mise à jour:  -> IT
+Métrique 2021 mise à jour:  -> IT
+Métrique 2022 mise à jour:  -> IT
+Métrique 2023 mise à jour:  -> IT
+Métrique 2024 mise à jour:  -> IT
+Métrique 2025 mise à jour:  -> IT
+Métrique 2026 mise à jour:  -> IT
+Métrique 2050 mise à jour:  -> IT
+Métrique 2051 mise à jour:  -> IT
+Métrique 2052 mise à jour:  -> IT
+Métrique 2053 mise à jour:  -> IT
+Métrique 2054 mise à jour:  -> IT
+Métrique 2055 mise à jour:  -> IT
+Métrique 2056 mise à jour:  -> IT
+Métrique 2057 mise à jour:  -> IT
+Métrique 2027 mise à jour:  -> IT
+Métrique 2028 mise à jour:  -> IT
+Métrique 2029 mise à jour:  -> IT
+Métrique 2030 mise à jour:  -> IT
+Métrique 2031 mise à jour:  -> IT
+Métrique 2032 mise à jour:  -> IT
+Métrique 2033 mise à jour:  -> IT
+Métrique 2034 mise à jour:  -> IT
+Métrique 2035 mise à jour:  -> IT
+Métrique 1921 mise à jour:  -> FR
+Métrique 2002 mise à jour:  -> IT
+Métrique 2003 mise à jour:  -> IT
+Métrique 2004 mise à jour:  -> IT
+Métrique 2005 mise à jour:  -> IT
+Métrique 2006 mise à jour:  -> IT
+Métrique 2007 mise à jour:  -> IT
+Métrique 2008 mise à jour:  -> IT
+Métrique 2009 mise à jour:  -> IT
+Métrique 2010 mise à jour:  -> IT
+Métrique 1993 mise à jour:  -> IT
+Métrique 1994 mise à jour:  -> IT
+Métrique 1995 mise à jour:  -> IT
+Métrique 1996 mise à jour:  -> IT
+Métrique 1997 mise à jour:  -> IT
+Métrique 1998 mise à jour:  -> IT
+Métrique 1999 mise à jour:  -> IT
+Métrique 2000 mise à jour:  -> IT
+Métrique 2001 mise à jour:  -> IT
+Métrique 1979 mise à jour:  -> IT
+Métrique 1980 mise à jour:  -> IT
+Métrique 1981 mise à jour:  -> IT
+Métrique 1982 mise à jour:  -> IT
+Métrique 1983 mise à jour:  -> IT
+Métrique 1984 mise à jour:  -> IT
+Métrique 1985 mise à jour:  -> IT
+Métrique 1986 mise à jour:  -> IT
+Métrique 1987 mise à jour:  -> IT
+Métrique 1988 mise à jour:  -> IT
+Métrique 1989 mise à jour:  -> IT
+Métrique 1990 mise à jour:  -> IT
+Métrique 1991 mise à jour:  -> IT
+Métrique 1992 mise à jour:  -> IT
+Métrique 1972 mise à jour:  -> IT
+Métrique 1973 mise à jour:  -> IT
+Métrique 1974 mise à jour:  -> IT
+Métrique 1975 mise à jour:  -> IT
+Métrique 1976 mise à jour:  -> IT
+Métrique 1977 mise à jour:  -> IT
+Métrique 1978 mise à jour:  -> IT
+Métrique 2058 mise à jour:  -> UK
+Métrique 2059 mise à jour:  -> UK
+Métrique 2060 mise à jour:  -> UK
+Métrique 2061 mise à jour:  -> UK
+Métrique 2062 mise à jour:  -> UK
+Métrique 2063 mise à jour:  -> UK
+Métrique 2064 mise à jour:  -> UK
+Métrique 2011 mise à jour:  -> IT
+Métrique 2012 mise à jour:  -> IT
+Métrique 2013 mise à jour:  -> IT
+Métrique 2014 mise à jour:  -> IT
+Métrique 2015 mise à jour:  -> IT
+Métrique 2016 mise à jour:  -> IT
+Métrique 2017 mise à jour:  -> IT
+Métrique 1914 mise à jour:  -> FR
+Métrique 1915 mise à jour:  -> FR
+Métrique 1916 mise à jour:  -> FR
+Métrique 1917 mise à jour:  -> FR
+Métrique 1918 mise à jour:  -> FR
+Métrique 1919 mise à jour:  -> FR
+Métrique 1920 mise à jour:  -> FR
+Métrique 1869 mise à jour:  -> FR
+Métrique 1870 mise à jour:  -> FR
+Métrique 1871 mise à jour:  -> FR
+Métrique 1872 mise à jour:  -> FR
+Métrique 1873 mise à jour:  -> FR
+Métrique 1874 mise à jour:  -> FR
+Métrique 1882 mise à jour:  -> FR
+Métrique 1883 mise à jour:  -> FR
+Métrique 1884 mise à jour:  -> FR
+Métrique 1885 mise à jour:  -> FR
+Métrique 1886 mise à jour:  -> FR
+Métrique 1887 mise à jour:  -> FR
+Métrique 1888 mise à jour:  -> FR
+Métrique 1875 mise à jour:  -> FR
+Métrique 1876 mise à jour:  -> FR
+Métrique 1877 mise à jour:  -> FR
+Métrique 1878 mise à jour:  -> FR
+Métrique 1879 mise à jour:  -> FR
+Métrique 1880 mise à jour:  -> FR
+Métrique 1881 mise à jour:  -> FR
+Métrique 1846 mise à jour:  -> FR
+Métrique 1847 mise à jour:  -> FR
+Métrique 1848 mise à jour:  -> FR
+Métrique 1849 mise à jour:  -> FR
+Métrique 1850 mise à jour:  -> FR
+Métrique 1837 mise à jour:  -> FR
+Métrique 1838 mise à jour:  -> FR
+Métrique 1839 mise à jour:  -> FR
+Métrique 1840 mise à jour:  -> FR
+Métrique 1841 mise à jour:  -> FR
+Métrique 1842 mise à jour:  -> FR
+Métrique 1843 mise à jour:  -> FR
+Métrique 1831 mise à jour:  -> BEFR
+Métrique 1832 mise à jour:  -> BEFR
+Métrique 1833 mise à jour:  -> BEFR
+Métrique 1834 mise à jour:  -> BEFR
+Métrique 1835 mise à jour:  -> BEFR
+Métrique 1836 mise à jour:  -> BEFR
+Métrique 1814 mise à jour:  -> FR
+Métrique 1815 mise à jour:  -> FR
+Métrique 1816 mise à jour:  -> FR
+Métrique 1817 mise à jour:  -> FR
+Métrique 1818 mise à jour:  -> FR
+Métrique 1819 mise à jour:  -> FR
+Métrique 1820 mise à jour:  -> FR
+Métrique 1821 mise à jour:  -> FR
+Métrique 1844 mise à jour:  -> FR
+Métrique 1845 mise à jour:  -> FR
+Métrique 1822 mise à jour:  -> FR
+Métrique 1823 mise à jour:  -> FR
+Métrique 1824 mise à jour:  -> FR
+Métrique 1825 mise à jour:  -> FR
+Métrique 1826 mise à jour:  -> FR
+Métrique 1827 mise à jour:  -> FR
+Métrique 1828 mise à jour:  -> FR
+Métrique 1829 mise à jour:  -> FR
+Métrique 1830 mise à jour:  -> FR
+Métrique 1851 mise à jour:  -> FR
+Métrique 1852 mise à jour:  -> FR
+Métrique 1853 mise à jour:  -> FR
+Métrique 1854 mise à jour:  -> FR
+Métrique 1855 mise à jour:  -> FR
+Métrique 1856 mise à jour:  -> FR
+Métrique 1857 mise à jour:  -> FR
+Métrique 1858 mise à jour:  -> FR
+Métrique 1785 mise à jour:  -> FR
+Métrique 1786 mise à jour:  -> FR
+Métrique 1797 mise à jour:  -> FR
+Métrique 1798 mise à jour:  -> FR
+Métrique 1799 mise à jour:  -> FR
+Métrique 1800 mise à jour:  -> FR
+Métrique 1801 mise à jour:  -> FR
+Métrique 1802 mise à jour:  -> FR
+Métrique 1803 mise à jour:  -> FR
+Métrique 1804 mise à jour:  -> FR
+Métrique 1805 mise à jour:  -> FR
+Métrique 1806 mise à jour:  -> NL
+Métrique 1807 mise à jour:  -> NL
+Métrique 1808 mise à jour:  -> NL
+Métrique 1809 mise à jour:  -> NL
+Métrique 1810 mise à jour:  -> NL
+Métrique 1811 mise à jour:  -> NL
+Métrique 1812 mise à jour:  -> NL
+Métrique 1813 mise à jour:  -> NL
+Métrique 1787 mise à jour:  -> FR
+Métrique 1788 mise à jour:  -> FR
+Métrique 1789 mise à jour:  -> FR
+Métrique 1790 mise à jour:  -> FR
+Métrique 1791 mise à jour:  -> FR
+Métrique 1792 mise à jour:  -> FR
+Métrique 1793 mise à jour:  -> FR
+Métrique 1794 mise à jour:  -> FR
+Métrique 1795 mise à jour:  -> FR
+Métrique 1796 mise à jour:  -> FR
+Métrique 1777 mise à jour:  -> FR
+Métrique 1778 mise à jour:  -> FR
+Métrique 1779 mise à jour:  -> FR
+Métrique 1780 mise à jour:  -> FR
+Métrique 1781 mise à jour:  -> FR
+Métrique 1782 mise à jour:  -> FR
+Métrique 1783 mise à jour:  -> FR
+Métrique 1784 mise à jour:  -> FR
+Métrique 1740 mise à jour:  -> FR
+Métrique 1741 mise à jour:  -> FR
+Métrique 1742 mise à jour:  -> FR
+Métrique 1743 mise à jour:  -> FR
+Métrique 1744 mise à jour:  -> FR
+Métrique 1745 mise à jour:  -> FR
+Métrique 1746 mise à jour:  -> FR
+Métrique 1747 mise à jour:  -> FR
+Métrique 1748 mise à jour:  -> FR
+Métrique 1758 mise à jour:  -> FR
+Métrique 1759 mise à jour:  -> FR
+Métrique 1760 mise à jour:  -> FR
+Métrique 1761 mise à jour:  -> FR
+Métrique 1762 mise à jour:  -> FR
+Métrique 1763 mise à jour:  -> FR
+Métrique 1764 mise à jour:  -> FR
+Métrique 1765 mise à jour:  -> FR
+Métrique 1766 mise à jour:  -> FR
+Métrique 1767 mise à jour:  -> FR
+Métrique 1768 mise à jour:  -> FR
+Métrique 1739 mise à jour:  -> FR
+Métrique 1749 mise à jour:  -> FR
+Métrique 1750 mise à jour:  -> FR
+Métrique 1751 mise à jour:  -> FR
+Métrique 1752 mise à jour:  -> FR
+Métrique 1753 mise à jour:  -> FR
+Métrique 1754 mise à jour:  -> FR
+Métrique 1755 mise à jour:  -> FR
+Métrique 1756 mise à jour:  -> FR
+Métrique 1757 mise à jour:  -> FR
+Métrique 1769 mise à jour:  -> FR
+Métrique 1770 mise à jour:  -> FR
+Métrique 1771 mise à jour:  -> FR
+Métrique 1772 mise à jour:  -> FR
+Métrique 1773 mise à jour:  -> FR
+Métrique 1774 mise à jour:  -> FR
+Métrique 1775 mise à jour:  -> FR
+Métrique 1776 mise à jour:  -> FR
+Métrique 1721 mise à jour:  -> FR
+Métrique 1722 mise à jour:  -> FR
+Métrique 1723 mise à jour:  -> FR
+Métrique 1724 mise à jour:  -> FR
+Métrique 1725 mise à jour:  -> FR
+Métrique 1726 mise à jour:  -> FR
+Métrique 1727 mise à jour:  -> FR
+Métrique 1735 mise à jour:  -> PL
+Métrique 1736 mise à jour:  -> PL
+Métrique 1737 mise à jour:  -> PL
+Métrique 1738 mise à jour:  -> PL
+Métrique 1720 mise à jour:  -> FR
+Métrique 1676 mise à jour:  -> AU
+Métrique 1677 mise à jour:  -> AU
+Métrique 1678 mise à jour:  -> AU
+Métrique 1679 mise à jour:  -> AU
+Métrique 1680 mise à jour:  -> AU
+Métrique 1681 mise à jour:  -> AU
+Métrique 1682 mise à jour:  -> AU
+Métrique 1683 mise à jour:  -> ES
+Métrique 1684 mise à jour:  -> ES
+Métrique 1685 mise à jour:  -> ES
+Métrique 1686 mise à jour:  -> ES
+Métrique 1687 mise à jour:  -> ES
+Métrique 1728 mise à jour:  -> IT
+Métrique 1729 mise à jour:  -> IT
+Métrique 1730 mise à jour:  -> IT
+Métrique 1731 mise à jour:  -> IT
+Métrique 1732 mise à jour:  -> IT
+Métrique 1733 mise à jour:  -> IT
+Métrique 1734 mise à jour:  -> IT
+Métrique 1704 mise à jour:  -> FR
+Métrique 1705 mise à jour:  -> FR
+Métrique 1706 mise à jour:  -> FR
+Métrique 1707 mise à jour:  -> FR
+Métrique 1708 mise à jour:  -> FR
+Métrique 1709 mise à jour:  -> FR
+Métrique 1710 mise à jour:  -> FR
+Métrique 1711 mise à jour:  -> FR
+Métrique 1712 mise à jour:  -> FR
+Métrique 1713 mise à jour:  -> FR
+Métrique 1714 mise à jour:  -> FR
+Métrique 1715 mise à jour:  -> FR
+Métrique 1716 mise à jour:  -> FR
+Métrique 1717 mise à jour:  -> FR
+Métrique 1718 mise à jour:  -> FR
+Métrique 1719 mise à jour:  -> FR
+Métrique 1668 mise à jour:  -> FR
+Métrique 1669 mise à jour:  -> FR
+Métrique 1670 mise à jour:  -> FR
+Métrique 1671 mise à jour:  -> FR
+Métrique 1672 mise à jour:  -> FR
+Métrique 1673 mise à jour:  -> FR
+Métrique 1674 mise à jour:  -> FR
+Métrique 1675 mise à jour:  -> FR
+Métrique 1701 mise à jour:  -> FR
+Métrique 1702 mise à jour:  -> FR
+Métrique 1703 mise à jour:  -> FR
+Métrique 1688 mise à jour:  -> FR
+Métrique 1689 mise à jour:  -> FR
+Métrique 1690 mise à jour:  -> FR
+Métrique 1691 mise à jour:  -> FR
+Métrique 1692 mise à jour:  -> FR
+Métrique 1693 mise à jour:  -> FR
+Métrique 1694 mise à jour:  -> FR
+Métrique 1695 mise à jour:  -> FR
+Métrique 1696 mise à jour:  -> FR
+Métrique 1697 mise à jour:  -> FR
+Métrique 1698 mise à jour:  -> FR
+Métrique 1699 mise à jour:  -> FR
+Métrique 1700 mise à jour:  -> FR
+Métrique 1635 mise à jour:  -> FR
+Métrique 1636 mise à jour:  -> FR
+Métrique 1637 mise à jour:  -> FR
+Métrique 1638 mise à jour:  -> FR
+Métrique 1639 mise à jour:  -> FR
+Métrique 1640 mise à jour:  -> FR
+Métrique 1641 mise à jour:  -> FR
+Métrique 1642 mise à jour:  -> FR
+Métrique 1559 mise à jour:  -> FR
+Métrique 1560 mise à jour:  -> FR
+Métrique 1561 mise à jour:  -> FR
+Métrique 1562 mise à jour:  -> FR
+Métrique 1563 mise à jour:  -> FR
+Métrique 1564 mise à jour:  -> FR
+Métrique 1565 mise à jour:  -> FR
+Métrique 1549 mise à jour:  -> FR
+Métrique 1550 mise à jour:  -> FR
+Métrique 1551 mise à jour:  -> FR
+Métrique 1552 mise à jour:  -> FR
+Métrique 1553 mise à jour:  -> FR
+Métrique 1554 mise à jour:  -> FR
+Métrique 1555 mise à jour:  -> FR
+Métrique 1556 mise à jour:  -> FR
+Métrique 1557 mise à jour:  -> FR
+Métrique 1558 mise à jour:  -> FR
+Métrique 1627 mise à jour:  -> FR
+Métrique 1628 mise à jour:  -> FR
+Métrique 1629 mise à jour:  -> FR
+Métrique 1630 mise à jour:  -> FR
+Métrique 1631 mise à jour:  -> FR
+Métrique 1632 mise à jour:  -> FR
+Métrique 1633 mise à jour:  -> FR
+Métrique 1634 mise à jour:  -> FR
+Métrique 1536 mise à jour:  -> AU
+Métrique 1537 mise à jour:  -> AU
+Métrique 1538 mise à jour:  -> AU
+Métrique 1539 mise à jour:  -> AU
+Métrique 1540 mise à jour:  -> AU
+Métrique 1541 mise à jour:  -> AU
+Métrique 1535 mise à jour:  -> AU
+Métrique 1586 mise à jour:  -> FR
+Métrique 1587 mise à jour:  -> FR
+Métrique 1588 mise à jour:  -> FR
+Métrique 1589 mise à jour:  -> FR
+Métrique 1590 mise à jour:  -> FR
+Métrique 1591 mise à jour:  -> FR
+Métrique 1592 mise à jour:  -> FR
+Métrique 1574 mise à jour:  -> FR
+Métrique 1575 mise à jour:  -> FR
+Métrique 1576 mise à jour:  -> FR
+Métrique 1577 mise à jour:  -> FR
+Métrique 1578 mise à jour:  -> FR
+Métrique 1579 mise à jour:  -> FR
+Métrique 1602 mise à jour:  -> FR
+Métrique 1611 mise à jour:  -> FR
+Métrique 1612 mise à jour:  -> FR
+Métrique 1613 mise à jour:  -> FR
+Métrique 1614 mise à jour:  -> FR
+Métrique 1615 mise à jour:  -> FR
+Métrique 1616 mise à jour:  -> FR
+Métrique 1617 mise à jour:  -> FR
+Métrique 1618 mise à jour:  -> FR
+Métrique 1580 mise à jour:  -> FR
+Métrique 1581 mise à jour:  -> FR
+Métrique 1582 mise à jour:  -> FR
+Métrique 1583 mise à jour:  -> FR
+Métrique 1584 mise à jour:  -> FR
+Métrique 1585 mise à jour:  -> FR
+Métrique 1526 mise à jour:  -> FR
+Métrique 1527 mise à jour:  -> FR
+Métrique 1528 mise à jour:  -> FR
+Métrique 1529 mise à jour:  -> FR
+Métrique 1530 mise à jour:  -> FR
+Métrique 1531 mise à jour:  -> FR
+Métrique 1532 mise à jour:  -> FR
+Métrique 1533 mise à jour:  -> FR
+Métrique 1534 mise à jour:  -> FR
+Métrique 1593 mise à jour:  -> FR
+Métrique 1594 mise à jour:  -> FR
+Métrique 1595 mise à jour:  -> FR
+Métrique 1596 mise à jour:  -> FR
+Métrique 1597 mise à jour:  -> FR
+Métrique 1598 mise à jour:  -> FR
+Métrique 1599 mise à jour:  -> FR
+Métrique 1600 mise à jour:  -> FR
+Métrique 1601 mise à jour:  -> FR
+Métrique 1542 mise à jour:  -> FR
+Métrique 1543 mise à jour:  -> FR
+Métrique 1544 mise à jour:  -> FR
+Métrique 1545 mise à jour:  -> FR
+Métrique 1546 mise à jour:  -> FR
+Métrique 1547 mise à jour:  -> FR
+Métrique 1548 mise à jour:  -> FR
+Métrique 1643 mise à jour:  -> FR
+Métrique 1644 mise à jour:  -> FR
+Métrique 1645 mise à jour:  -> FR
+Métrique 1646 mise à jour:  -> FR
+Métrique 1647 mise à jour:  -> FR
+Métrique 1648 mise à jour:  -> FR
+Métrique 1649 mise à jour:  -> FR
+Métrique 1650 mise à jour:  -> FR
+Métrique 1566 mise à jour:  -> FR
+Métrique 1567 mise à jour:  -> FR
+Métrique 1568 mise à jour:  -> FR
+Métrique 1569 mise à jour:  -> FR
+Métrique 1570 mise à jour:  -> FR
+Métrique 1571 mise à jour:  -> FR
+Métrique 1572 mise à jour:  -> FR
+Métrique 1573 mise à jour:  -> FR
+Métrique 1603 mise à jour:  -> FR
+Métrique 1604 mise à jour:  -> FR
+Métrique 1605 mise à jour:  -> FR
+Métrique 1606 mise à jour:  -> FR
+Métrique 1607 mise à jour:  -> FR
+Métrique 1608 mise à jour:  -> FR
+Métrique 1609 mise à jour:  -> FR
+Métrique 1610 mise à jour:  -> FR
+Métrique 1619 mise à jour:  -> FR
+Métrique 1620 mise à jour:  -> FR
+Métrique 1621 mise à jour:  -> FR
+Métrique 1622 mise à jour:  -> FR
+Métrique 1623 mise à jour:  -> FR
+Métrique 1624 mise à jour:  -> FR
+Métrique 1625 mise à jour:  -> FR
+Métrique 1626 mise à jour:  -> FR
+Métrique 1656 mise à jour:  -> ES
+Métrique 1651 mise à jour:  -> DE
+Métrique 1652 mise à jour:  -> NO
+Métrique 1653 mise à jour:  -> SE
+Métrique 1657 mise à jour:  -> UK
+Métrique 1654 mise à jour:  -> SG
+Métrique 1655 mise à jour:  -> NZ
+Métrique 1658 mise à jour:  -> MX
+Métrique 1659 mise à jour:  -> MX
+Métrique 1660 mise à jour:  -> MX
+Métrique 1661 mise à jour:  -> MX
+Métrique 1663 mise à jour:  -> MX
+Métrique 1664 mise à jour:  -> MX
+Métrique 1665 mise à jour:  -> MX
+Métrique 1666 mise à jour:  -> MX
+Métrique 1667 mise à jour:  -> MX
+Métrique 1927 mise à jour:  -> MX
+Métrique 1662 mise à jour:  -> MX
+Métrique 1928 mise à jour:  -> MX
+Métrique 1929 mise à jour:  -> UK
+Métrique 1930 mise à jour:  -> UK
+Métrique 1931 mise à jour:  -> UK
+Métrique 1932 mise à jour:  -> UK
+Métrique 1933 mise à jour:  -> UK
+Métrique 1934 mise à jour:  -> IT
+Métrique 1935 mise à jour:  -> IT
+Métrique 1936 mise à jour:  -> IT
+Métrique 1937 mise à jour:  -> IT
+Métrique 1938 mise à jour:  -> IT
+Métrique 1939 mise à jour:  -> FR
+Métrique 1940 mise à jour:  -> FR
+Métrique 1941 mise à jour:  -> FR
+Métrique 1942 mise à jour:  -> FR
+Métrique 1943 mise à jour:  -> FR
+Métrique 1944 mise à jour:  -> ES
+Métrique 1945 mise à jour:  -> ES
+Métrique 1946 mise à jour:  -> ES
+Métrique 1947 mise à jour:  -> ES
+Métrique 1948 mise à jour:  -> ES
+Métrique 1481 mise à jour:  -> FR
+Métrique 1459 mise à jour:  -> FR
+Métrique 1460 mise à jour:  -> FR
+Métrique 1461 mise à jour:  -> FR
+Métrique 1462 mise à jour:  -> FR
+Métrique 1463 mise à jour:  -> FR
+Métrique 1464 mise à jour:  -> FR
+Métrique 1465 mise à jour:  -> FR
+Métrique 1466 mise à jour:  -> FR
+Métrique 1436 mise à jour:  -> FR
+Métrique 1437 mise à jour:  -> FR
+Métrique 1438 mise à jour:  -> FR
+Métrique 1439 mise à jour:  -> FR
+Métrique 1440 mise à jour:  -> FR
+Métrique 1441 mise à jour:  -> FR
+Métrique 1442 mise à jour:  -> FR
+Métrique 1454 mise à jour:  -> FR
+Métrique 1455 mise à jour:  -> FR
+Métrique 1456 mise à jour:  -> FR
+Métrique 1457 mise à jour:  -> FR
+Métrique 1458 mise à jour:  -> FR
+Métrique 1486 mise à jour:  -> FR
+Métrique 1487 mise à jour:  -> FR
+Métrique 1488 mise à jour:  -> FR
+Métrique 1489 mise à jour:  -> FR
+Métrique 1490 mise à jour:  -> FR
+Métrique 1491 mise à jour:  -> FR
+Métrique 1406 mise à jour:  -> FR
+Métrique 1407 mise à jour:  -> FR
+Métrique 1408 mise à jour:  -> FR
+Métrique 1409 mise à jour:  -> FR
+Métrique 1410 mise à jour:  -> FR
+Métrique 1411 mise à jour:  -> FR
+Métrique 1412 mise à jour:  -> FR
+Métrique 1413 mise à jour:  -> FR
+Métrique 1482 mise à jour:  -> FR
+Métrique 1483 mise à jour:  -> FR
+Métrique 1484 mise à jour:  -> FR
+Métrique 1485 mise à jour:  -> FR
+Métrique 1474 mise à jour:  -> FR
+Métrique 1475 mise à jour:  -> FR
+Métrique 1476 mise à jour:  -> FR
+Métrique 1477 mise à jour:  -> FR
+Métrique 1478 mise à jour:  -> FR
+Métrique 1479 mise à jour:  -> FR
+Métrique 1388 mise à jour:  -> FR
+Métrique 1389 mise à jour:  -> FR
+Métrique 1390 mise à jour:  -> FR
+Métrique 1391 mise à jour:  -> FR
+Métrique 1392 mise à jour:  -> FR
+Métrique 1393 mise à jour:  -> FR
+Métrique 1394 mise à jour:  -> FR
+Métrique 1395 mise à jour:  -> FR
+Métrique 1414 mise à jour:  -> FR
+Métrique 1415 mise à jour:  -> FR
+Métrique 1416 mise à jour:  -> FR
+Métrique 1417 mise à jour:  -> FR
+Métrique 1418 mise à jour:  -> FR
+Métrique 1419 mise à jour:  -> FR
+Métrique 1498 mise à jour:  -> IT
+Métrique 1499 mise à jour:  -> IT
+Métrique 1500 mise à jour:  -> IT
+Métrique 1501 mise à jour:  -> IT
+Métrique 1502 mise à jour:  -> IT
+Métrique 1352 mise à jour:  -> DE
+Métrique 1353 mise à jour:  -> DE
+Métrique 1354 mise à jour:  -> DE
+Métrique 1355 mise à jour:  -> DE
+Métrique 1356 mise à jour:  -> DE
+Métrique 1357 mise à jour:  -> DE
+Métrique 1343 mise à jour:  -> BENL
+Métrique 1344 mise à jour:  -> BENL
+Métrique 1345 mise à jour:  -> BENL
+Métrique 1346 mise à jour:  -> BENL
+Métrique 1347 mise à jour:  -> BENL
+Métrique 1348 mise à jour:  -> BENL
+Métrique 1331 mise à jour:  -> AU
+Métrique 1332 mise à jour:  -> AU
+Métrique 1333 mise à jour:  -> AU
+Métrique 1334 mise à jour:  -> AU
+Métrique 1446 mise à jour:  -> FR
+Métrique 1447 mise à jour:  -> FR
+Métrique 1448 mise à jour:  -> FR
+Métrique 1449 mise à jour:  -> FR
+Métrique 1450 mise à jour:  -> FR
+Métrique 1451 mise à jour:  -> FR
+Métrique 1452 mise à jour:  -> FR
+Métrique 1492 mise à jour:  -> IT
+Métrique 1493 mise à jour:  -> IT
+Métrique 1494 mise à jour:  -> IT
+Métrique 1495 mise à jour:  -> IT
+Métrique 1496 mise à jour:  -> IT
+Métrique 1497 mise à jour:  -> IT
+Métrique 1522 mise à jour:  -> UK
+Métrique 1523 mise à jour:  -> UK
+Métrique 1524 mise à jour:  -> UK
+Métrique 1525 mise à jour:  -> UK
+Métrique 1511 mise à jour:  -> NL
+Métrique 1512 mise à jour:  -> NL
+Métrique 1513 mise à jour:  -> NL
+Métrique 1514 mise à jour:  -> NL
+Métrique 1515 mise à jour:  -> NL
+Métrique 1516 mise à jour:  -> NL
+Métrique 1365 mise à jour:  -> ES
+Métrique 1366 mise à jour:  -> ES
+Métrique 1367 mise à jour:  -> ES
+Métrique 1368 mise à jour:  -> ES
+Métrique 1369 mise à jour:  -> ES
+Métrique 1467 mise à jour:  -> FR
+Métrique 1468 mise à jour:  -> FR
+Métrique 1469 mise à jour:  -> FR
+Métrique 1470 mise à jour:  -> FR
+Métrique 1471 mise à jour:  -> FR
+Métrique 1472 mise à jour:  -> FR
+Métrique 1473 mise à jour:  -> FR
+Métrique 1349 mise à jour:  -> BE NL
+Métrique 1350 mise à jour:  -> BE NL
+Métrique 1351 mise à jour:  -> BE NL
+Métrique 1340 mise à jour:  -> CA EN
+Métrique 1341 mise à jour:  -> CA EN
+Métrique 1342 mise à jour:  -> CA EN
+Métrique 1358 mise à jour:  -> CA FR
+Métrique 1359 mise à jour:  -> CA FR
+Métrique 1360 mise à jour:  -> CA FR
+Métrique 1361 mise à jour:  -> CA FR
+Métrique 1362 mise à jour:  -> CA FR
+Métrique 1363 mise à jour:  -> CA FR
+Métrique 1364 mise à jour:  -> CA FR
+Métrique 1326 mise à jour:  -> AU
+Métrique 1327 mise à jour:  -> AU
+Métrique 1328 mise à jour:  -> AU
+Métrique 1329 mise à jour:  -> AU
+Métrique 1330 mise à jour:  -> AU
+Métrique 1443 mise à jour:  -> FR
+Métrique 1444 mise à jour:  -> FR
+Métrique 1445 mise à jour:  -> FR
+Métrique 1453 mise à jour:  -> FR
+Métrique 1517 mise à jour:  -> UK
+Métrique 1518 mise à jour:  -> UK
+Métrique 1519 mise à jour:  -> UK
+Métrique 1520 mise à jour:  -> UK
+Métrique 1521 mise à jour:  -> UK
+Métrique 1397 mise à jour:  -> FR
+Métrique 1370 mise à jour:  -> ES
+Métrique 1420 mise à jour:  -> FR
+Métrique 1421 mise à jour:  -> FR
+Métrique 1422 mise à jour:  -> FR
+Métrique 1423 mise à jour:  -> FR
+Métrique 1424 mise à jour:  -> FR
+Métrique 1425 mise à jour:  -> FR
+Métrique 1426 mise à jour:  -> FR
+Métrique 1427 mise à jour:  -> FR
+Métrique 1428 mise à jour:  -> FR
+Métrique 1510 mise à jour:  -> NL
+Métrique 1509 mise à jour:  -> NL
+Métrique 1508 mise à jour:  -> NL
+Métrique 1507 mise à jour:  -> NL
+Métrique 1506 mise à jour:  -> NL
+Métrique 1505 mise à jour:  -> NL
+Métrique 1504 mise à jour:  -> NL
+Métrique 1503 mise à jour:  -> NL
+Métrique 1335 mise à jour:  -> AU
+Métrique 1336 mise à jour:  -> AU
+Métrique 1337 mise à jour:  -> AU
+Métrique 1338 mise à jour:  -> AU
+Métrique 1339 mise à jour:  -> AU
+Métrique 1379 mise à jour:  -> ES
+Métrique 1380 mise à jour:  -> ES
+Métrique 1381 mise à jour:  -> ES
+Métrique 1382 mise à jour:  -> ES
+Métrique 1383 mise à jour:  -> ES
+Métrique 1384 mise à jour:  -> ES
+Métrique 1385 mise à jour:  -> ES
+Métrique 1398 mise à jour:  -> FR
+Métrique 1399 mise à jour:  -> FR
+Métrique 1400 mise à jour:  -> FR
+Métrique 1401 mise à jour:  -> FR
+Métrique 1402 mise à jour:  -> FR
+Métrique 1403 mise à jour:  -> FR
+Métrique 1404 mise à jour:  -> FR
+Métrique 1405 mise à jour:  -> FR
+Métrique 1371 mise à jour:  -> FR
+Métrique 1372 mise à jour:  -> FR
+Métrique 1373 mise à jour:  -> FR
+Métrique 1374 mise à jour:  -> FR
+Métrique 1375 mise à jour:  -> FR
+Métrique 1376 mise à jour:  -> FR
+Métrique 1377 mise à jour:  -> FR
+Métrique 1378 mise à jour:  -> FR
+Métrique 1480 mise à jour:  -> FR
+Métrique 1431 mise à jour:  -> FR
+Métrique 1430 mise à jour:  -> FR
+Métrique 1429 mise à jour:  -> FR
+Métrique 1435 mise à jour:  -> FR
+Métrique 1434 mise à jour:  -> FR
+Métrique 1433 mise à jour:  -> FR
+Métrique 1432 mise à jour:  -> FR
+Métrique 1396 mise à jour:  -> FR
+Métrique 1386 mise à jour:  -> FR
+Métrique 1387 mise à jour:  -> FR
+Métrique 1221 mise à jour:  -> FR
+Métrique 1129 mise à jour:  -> FR
+Métrique 1130 mise à jour:  -> FR
+Métrique 1131 mise à jour:  -> FR
+Métrique 1126 mise à jour:  -> FR
+Métrique 1127 mise à jour:  -> FR
+Métrique 1128 mise à jour:  -> FR
+Métrique 1214 mise à jour:  -> FR
+Métrique 1215 mise à jour:  -> FR
+Métrique 1216 mise à jour:  -> FR
+Métrique 1217 mise à jour:  -> FR
+Métrique 1218 mise à jour:  -> FR
+Métrique 1219 mise à jour:  -> FR
+Métrique 1220 mise à jour:  -> FR
+Métrique 1118 mise à jour:  -> DE
+Métrique 1119 mise à jour:  -> DE
+Métrique 1120 mise à jour:  -> DE
+Métrique 1121 mise à jour:  -> DE
+Métrique 1122 mise à jour:  -> DE
+Métrique 1123 mise à jour:  -> DE
+Métrique 1124 mise à jour:  -> DE
+Métrique 1125 mise à jour:  -> DE
+Métrique 1324 mise à jour:  -> US
+Métrique 1325 mise à jour:  -> US
+Métrique 1160 mise à jour:  -> FR
+Métrique 1161 mise à jour:  -> FR
+Métrique 1162 mise à jour:  -> FR
+Métrique 1163 mise à jour:  -> FR
+Métrique 1164 mise à jour:  -> FR
+Métrique 1165 mise à jour:  -> FR
+Métrique 1166 mise à jour:  -> FR
+Métrique 1167 mise à jour:  -> FR
+Métrique 1168 mise à jour:  -> FR
+Métrique 1169 mise à jour:  -> FR
+Métrique 1170 mise à jour:  -> FR
+Métrique 1171 mise à jour:  -> FR
+Métrique 1172 mise à jour:  -> FR
+Métrique 1173 mise à jour:  -> FR
+Métrique 1174 mise à jour:  -> FR
+Métrique 1175 mise à jour:  -> FR
+Métrique 1176 mise à jour:  -> FR
+Métrique 1177 mise à jour:  -> FR
+Métrique 1153 mise à jour:  -> FR
+Métrique 1154 mise à jour:  -> FR
+Métrique 1155 mise à jour:  -> FR
+Métrique 1156 mise à jour:  -> FR
+Métrique 1157 mise à jour:  -> FR
+Métrique 1158 mise à jour:  -> FR
+Métrique 1159 mise à jour:  -> FR
+Métrique 1304 mise à jour:  -> IT
+Métrique 1305 mise à jour:  -> IT
+Métrique 1306 mise à jour:  -> IT
+Métrique 1307 mise à jour:  -> IT
+Métrique 1308 mise à jour:  -> IT
+Métrique 1309 mise à jour:  -> IT
+Métrique 1297 mise à jour:  -> IT
+Métrique 1298 mise à jour:  -> IT
+Métrique 1299 mise à jour:  -> IT
+Métrique 1300 mise à jour:  -> IT
+Métrique 1301 mise à jour:  -> IT
+Métrique 1302 mise à jour:  -> IT
+Métrique 1303 mise à jour:  -> IT
+Métrique 1229 mise à jour:  -> IT
+Métrique 1230 mise à jour:  -> IT
+Métrique 1231 mise à jour:  -> IT
+Métrique 1232 mise à jour:  -> IT
+Métrique 1233 mise à jour:  -> IT
+Métrique 1234 mise à jour:  -> IT
+Métrique 1235 mise à jour:  -> IT
+Métrique 1222 mise à jour:  -> IT
+Métrique 1223 mise à jour:  -> IT
+Métrique 1224 mise à jour:  -> IT
+Métrique 1225 mise à jour:  -> IT
+Métrique 1226 mise à jour:  -> IT
+Métrique 1227 mise à jour:  -> IT
+Métrique 1228 mise à jour:  -> IT
+Métrique 1281 mise à jour:  -> IT
+Métrique 1282 mise à jour:  -> IT
+Métrique 1283 mise à jour:  -> IT
+Métrique 1284 mise à jour:  -> IT
+Métrique 1285 mise à jour:  -> IT
+Métrique 1286 mise à jour:  -> IT
+Métrique 1287 mise à jour:  -> IT
+Métrique 1288 mise à jour:  -> IT
+Métrique 1310 mise à jour:  -> IT
+Métrique 1311 mise à jour:  -> IT
+Métrique 1312 mise à jour:  -> IT
+Métrique 1313 mise à jour:  -> IT
+Métrique 1314 mise à jour:  -> IT
+Métrique 1315 mise à jour:  -> IT
+Métrique 1316 mise à jour:  -> IT
+Métrique 1289 mise à jour:  -> IT
+Métrique 1290 mise à jour:  -> IT
+Métrique 1291 mise à jour:  -> IT
+Métrique 1292 mise à jour:  -> IT
+Métrique 1293 mise à jour:  -> IT
+Métrique 1294 mise à jour:  -> IT
+Métrique 1295 mise à jour:  -> IT
+Métrique 1296 mise à jour:  -> IT
+Métrique 1186 mise à jour:  -> FR
+Métrique 1265 mise à jour:  -> IT
+Métrique 1266 mise à jour:  -> IT
+Métrique 1267 mise à jour:  -> IT
+Métrique 1268 mise à jour:  -> IT
+Métrique 1269 mise à jour:  -> IT
+Métrique 1270 mise à jour:  -> IT
+Métrique 1271 mise à jour:  -> IT
+Métrique 1272 mise à jour:  -> IT
+Métrique 1273 mise à jour:  -> IT
+Métrique 1257 mise à jour:  -> IT
+Métrique 1258 mise à jour:  -> IT
+Métrique 1259 mise à jour:  -> IT
+Métrique 1260 mise à jour:  -> IT
+Métrique 1261 mise à jour:  -> IT
+Métrique 1262 mise à jour:  -> IT
+Métrique 1263 mise à jour:  -> IT
+Métrique 1264 mise à jour:  -> IT
+Métrique 1243 mise à jour:  -> IT
+Métrique 1244 mise à jour:  -> IT
+Métrique 1245 mise à jour:  -> IT
+Métrique 1246 mise à jour:  -> IT
+Métrique 1247 mise à jour:  -> IT
+Métrique 1248 mise à jour:  -> IT
+Métrique 1249 mise à jour:  -> IT
+Métrique 1250 mise à jour:  -> IT
+Métrique 1251 mise à jour:  -> IT
+Métrique 1252 mise à jour:  -> IT
+Métrique 1253 mise à jour:  -> IT
+Métrique 1254 mise à jour:  -> IT
+Métrique 1255 mise à jour:  -> IT
+Métrique 1256 mise à jour:  -> IT
+Métrique 1236 mise à jour:  -> IT
+Métrique 1237 mise à jour:  -> IT
+Métrique 1238 mise à jour:  -> IT
+Métrique 1239 mise à jour:  -> IT
+Métrique 1240 mise à jour:  -> IT
+Métrique 1241 mise à jour:  -> IT
+Métrique 1242 mise à jour:  -> IT
+Métrique 1317 mise à jour:  -> UK
+Métrique 1318 mise à jour:  -> UK
+Métrique 1319 mise à jour:  -> UK
+Métrique 1320 mise à jour:  -> UK
+Métrique 1321 mise à jour:  -> UK
+Métrique 1322 mise à jour:  -> UK
+Métrique 1323 mise à jour:  -> UK
+Métrique 1274 mise à jour:  -> IT
+Métrique 1275 mise à jour:  -> IT
+Métrique 1276 mise à jour:  -> IT
+Métrique 1277 mise à jour:  -> IT
+Métrique 1278 mise à jour:  -> IT
+Métrique 1279 mise à jour:  -> IT
+Métrique 1280 mise à jour:  -> IT
+Métrique 1179 mise à jour:  -> FR
+Métrique 1180 mise à jour:  -> FR
+Métrique 1181 mise à jour:  -> FR
+Métrique 1182 mise à jour:  -> FR
+Métrique 1183 mise à jour:  -> FR
+Métrique 1184 mise à jour:  -> FR
+Métrique 1185 mise à jour:  -> FR
+Métrique 1132 mise à jour:  -> FR
+Métrique 1133 mise à jour:  -> FR
+Métrique 1134 mise à jour:  -> FR
+Métrique 1135 mise à jour:  -> FR
+Métrique 1136 mise à jour:  -> FR
+Métrique 1137 mise à jour:  -> FR
+Métrique 1178 mise à jour:  -> FR
+Métrique 1146 mise à jour:  -> FR
+Métrique 1147 mise à jour:  -> FR
+Métrique 1148 mise à jour:  -> FR
+Métrique 1149 mise à jour:  -> FR
+Métrique 1150 mise à jour:  -> FR
+Métrique 1151 mise à jour:  -> FR
+Métrique 1152 mise à jour:  -> FR
+Métrique 1138 mise à jour:  -> FR
+Métrique 1139 mise à jour:  -> FR
+Métrique 1140 mise à jour:  -> FR
+Métrique 1141 mise à jour:  -> FR
+Métrique 1142 mise à jour:  -> FR
+Métrique 1143 mise à jour:  -> FR
+Métrique 1144 mise à jour:  -> FR
+Métrique 1145 mise à jour:  -> FR
+Métrique 1106 mise à jour:  -> FR
+Métrique 1107 mise à jour:  -> FR
+Métrique 1108 mise à jour:  -> FR
+Métrique 1109 mise à jour:  -> FR
+Métrique 1098 mise à jour:  -> FR
+Métrique 1099 mise à jour:  -> FR
+Métrique 1100 mise à jour:  -> FR
+Métrique 1101 mise à jour:  -> FR
+Métrique 1102 mise à jour:  -> FR
+Métrique 1103 mise à jour:  -> FR
+Métrique 1104 mise à jour:  -> FR
+Métrique 1093 mise à jour:  -> BEFR
+Métrique 1094 mise à jour:  -> BEFR
+Métrique 1095 mise à jour:  -> BEFR
+Métrique 1096 mise à jour:  -> BEFR
+Métrique 1097 mise à jour:  -> BEFR
+Métrique 1075 mise à jour:  -> FR
+Métrique 1076 mise à jour:  -> FR
+Métrique 1077 mise à jour:  -> FR
+Métrique 1078 mise à jour:  -> FR
+Métrique 1079 mise à jour:  -> FR
+Métrique 1080 mise à jour:  -> FR
+Métrique 1081 mise à jour:  -> FR
+Métrique 1082 mise à jour:  -> FR
+Métrique 1083 mise à jour:  -> FR
+Métrique 1105 mise à jour:  -> FR
+Métrique 1084 mise à jour:  -> FR
+Métrique 1085 mise à jour:  -> FR
+Métrique 1086 mise à jour:  -> FR
+Métrique 1087 mise à jour:  -> FR
+Métrique 1088 mise à jour:  -> FR
+Métrique 1089 mise à jour:  -> FR
+Métrique 1090 mise à jour:  -> FR
+Métrique 1091 mise à jour:  -> FR
+Métrique 1092 mise à jour:  -> FR
+Métrique 1110 mise à jour:  -> FR
+Métrique 1111 mise à jour:  -> FR
+Métrique 1112 mise à jour:  -> FR
+Métrique 1113 mise à jour:  -> FR
+Métrique 1114 mise à jour:  -> FR
+Métrique 1115 mise à jour:  -> FR
+Métrique 1116 mise à jour:  -> FR
+Métrique 1117 mise à jour:  -> FR
+Métrique 1044 mise à jour:  -> FR
+Métrique 1045 mise à jour:  -> FR
+Métrique 1046 mise à jour:  -> FR
+Métrique 1057 mise à jour:  -> FR
+Métrique 1058 mise à jour:  -> FR
+Métrique 1059 mise à jour:  -> FR
+Métrique 1060 mise à jour:  -> FR
+Métrique 1061 mise à jour:  -> FR
+Métrique 1062 mise à jour:  -> FR
+Métrique 1063 mise à jour:  -> FR
+Métrique 1064 mise à jour:  -> FR
+Métrique 1065 mise à jour:  -> FR
+Métrique 1066 mise à jour:  -> FR
+Métrique 1067 mise à jour:  -> NL
+Métrique 1068 mise à jour:  -> NL
+Métrique 1069 mise à jour:  -> NL
+Métrique 1070 mise à jour:  -> NL
+Métrique 1071 mise à jour:  -> NL
+Métrique 1072 mise à jour:  -> NL
+Métrique 1073 mise à jour:  -> NL
+Métrique 1074 mise à jour:  -> NL
+Métrique 1047 mise à jour:  -> FR
+Métrique 1048 mise à jour:  -> FR
+Métrique 1049 mise à jour:  -> FR
+Métrique 1050 mise à jour:  -> FR
+Métrique 1051 mise à jour:  -> FR
+Métrique 1052 mise à jour:  -> FR
+Métrique 1053 mise à jour:  -> FR
+Métrique 1054 mise à jour:  -> FR
+Métrique 1055 mise à jour:  -> FR
+Métrique 1056 mise à jour:  -> FR
+Métrique 1035 mise à jour:  -> FR
+Métrique 1036 mise à jour:  -> FR
+Métrique 1037 mise à jour:  -> FR
+Métrique 1038 mise à jour:  -> FR
+Métrique 1039 mise à jour:  -> FR
+Métrique 1040 mise à jour:  -> FR
+Métrique 1041 mise à jour:  -> FR
+Métrique 1042 mise à jour:  -> FR
+Métrique 1043 mise à jour:  -> FR
+Métrique 999 mise à jour:  -> FR
+Métrique 1000 mise à jour:  -> FR
+Métrique 1001 mise à jour:  -> FR
+Métrique 1002 mise à jour:  -> FR
+Métrique 1003 mise à jour:  -> FR
+Métrique 1004 mise à jour:  -> FR
+Métrique 1005 mise à jour:  -> FR
+Métrique 1006 mise à jour:  -> FR
+Métrique 1016 mise à jour:  -> FR
+Métrique 1017 mise à jour:  -> FR
+Métrique 1018 mise à jour:  -> FR
+Métrique 1019 mise à jour:  -> FR
+Métrique 1020 mise à jour:  -> FR
+Métrique 1021 mise à jour:  -> FR
+Métrique 1022 mise à jour:  -> FR
+Métrique 1023 mise à jour:  -> FR
+Métrique 1024 mise à jour:  -> FR
+Métrique 1025 mise à jour:  -> FR
+Métrique 1026 mise à jour:  -> FR
+Métrique 998 mise à jour:  -> FR
+Métrique 1007 mise à jour:  -> FR
+Métrique 1008 mise à jour:  -> FR
+Métrique 1009 mise à jour:  -> FR
+Métrique 1010 mise à jour:  -> FR
+Métrique 1011 mise à jour:  -> FR
+Métrique 1012 mise à jour:  -> FR
+Métrique 1013 mise à jour:  -> FR
+Métrique 1014 mise à jour:  -> FR
+Métrique 1015 mise à jour:  -> FR
+Métrique 1027 mise à jour:  -> FR
+Métrique 1028 mise à jour:  -> FR
+Métrique 1029 mise à jour:  -> FR
+Métrique 1030 mise à jour:  -> FR
+Métrique 1031 mise à jour:  -> FR
+Métrique 1032 mise à jour:  -> FR
+Métrique 1033 mise à jour:  -> FR
+Métrique 1034 mise à jour:  -> FR
+Métrique 983 mise à jour:  -> FR
+Métrique 984 mise à jour:  -> FR
+Métrique 985 mise à jour:  -> FR
+Métrique 986 mise à jour:  -> FR
+Métrique 987 mise à jour:  -> FR
+Métrique 988 mise à jour:  -> FR
+Métrique 989 mise à jour:  -> FR
+Métrique 997 mise à jour:  -> PL
+Métrique 982 mise à jour:  -> FR
+Métrique 936 mise à jour:  -> AU
+Métrique 937 mise à jour:  -> AU
+Métrique 938 mise à jour:  -> AU
+Métrique 939 mise à jour:  -> AU
+Métrique 940 mise à jour:  -> AU
+Métrique 941 mise à jour:  -> AU
+Métrique 942 mise à jour:  -> AU
+Métrique 943 mise à jour:  -> ES
+Métrique 944 mise à jour:  -> ES
+Métrique 945 mise à jour:  -> ES
+Métrique 946 mise à jour:  -> ES
+Métrique 990 mise à jour:  -> IT
+Métrique 991 mise à jour:  -> IT
+Métrique 992 mise à jour:  -> IT
+Métrique 993 mise à jour:  -> IT
+Métrique 994 mise à jour:  -> IT
+Métrique 995 mise à jour:  -> IT
+Métrique 996 mise à jour:  -> IT
+Métrique 965 mise à jour:  -> FR
+Métrique 966 mise à jour:  -> FR
+Métrique 967 mise à jour:  -> FR
+Métrique 968 mise à jour:  -> FR
+Métrique 969 mise à jour:  -> FR
+Métrique 970 mise à jour:  -> FR
+Métrique 971 mise à jour:  -> FR
+Métrique 972 mise à jour:  -> FR
+Métrique 973 mise à jour:  -> FR
+Métrique 974 mise à jour:  -> FR
+Métrique 975 mise à jour:  -> FR
+Métrique 976 mise à jour:  -> FR
+Métrique 977 mise à jour:  -> FR
+Métrique 978 mise à jour:  -> FR
+Métrique 979 mise à jour:  -> FR
+Métrique 980 mise à jour:  -> FR
+Métrique 981 mise à jour:  -> FR
+Métrique 927 mise à jour:  -> FR
+Métrique 928 mise à jour:  -> FR
+Métrique 929 mise à jour:  -> FR
+Métrique 930 mise à jour:  -> FR
+Métrique 931 mise à jour:  -> FR
+Métrique 932 mise à jour:  -> FR
+Métrique 933 mise à jour:  -> FR
+Métrique 934 mise à jour:  -> FR
+Métrique 935 mise à jour:  -> FR
+Métrique 961 mise à jour:  -> FR
+Métrique 962 mise à jour:  -> FR
+Métrique 963 mise à jour:  -> FR
+Métrique 964 mise à jour:  -> FR
+Métrique 947 mise à jour:  -> FR
+Métrique 948 mise à jour:  -> FR
+Métrique 949 mise à jour:  -> FR
+Métrique 950 mise à jour:  -> FR
+Métrique 951 mise à jour:  -> FR
+Métrique 952 mise à jour:  -> FR
+Métrique 953 mise à jour:  -> FR
+Métrique 954 mise à jour:  -> FR
+Métrique 955 mise à jour:  -> FR
+Métrique 956 mise à jour:  -> FR
+Métrique 957 mise à jour:  -> FR
+Métrique 958 mise à jour:  -> FR
+Métrique 959 mise à jour:  -> FR
+Métrique 960 mise à jour:  -> FR
+Métrique 882 mise à jour:  -> FR
+Métrique 883 mise à jour:  -> FR
+Métrique 884 mise à jour:  -> FR
+Métrique 885 mise à jour:  -> FR
+Métrique 886 mise à jour:  -> FR
+Métrique 887 mise à jour:  -> FR
+Métrique 888 mise à jour:  -> FR
+Métrique 808 mise à jour:  -> FR
+Métrique 809 mise à jour:  -> FR
+Métrique 810 mise à jour:  -> FR
+Métrique 811 mise à jour:  -> FR
+Métrique 812 mise à jour:  -> FR
+Métrique 813 mise à jour:  -> FR
+Métrique 814 mise à jour:  -> FR
+Métrique 799 mise à jour:  -> FR
+Métrique 800 mise à jour:  -> FR
+Métrique 801 mise à jour:  -> FR
+Métrique 802 mise à jour:  -> FR
+Métrique 803 mise à jour:  -> FR
+Métrique 804 mise à jour:  -> FR
+Métrique 805 mise à jour:  -> FR
+Métrique 806 mise à jour:  -> FR
+Métrique 807 mise à jour:  -> FR
+Métrique 874 mise à jour:  -> FR
+Métrique 875 mise à jour:  -> FR
+Métrique 876 mise à jour:  -> FR
+Métrique 877 mise à jour:  -> FR
+Métrique 878 mise à jour:  -> FR
+Métrique 879 mise à jour:  -> FR
+Métrique 880 mise à jour:  -> FR
+Métrique 881 mise à jour:  -> FR
+Métrique 786 mise à jour:  -> AU
+Métrique 787 mise à jour:  -> AU
+Métrique 788 mise à jour:  -> AU
+Métrique 789 mise à jour:  -> AU
+Métrique 790 mise à jour:  -> AU
+Métrique 791 mise à jour:  -> AU
+Métrique 783 mise à jour:  -> AU
+Métrique 784 mise à jour:  -> AU
+Métrique 785 mise à jour:  -> AU
+Métrique 835 mise à jour:  -> FR
+Métrique 836 mise à jour:  -> FR
+Métrique 837 mise à jour:  -> FR
+Métrique 838 mise à jour:  -> FR
+Métrique 839 mise à jour:  -> FR
+Métrique 840 mise à jour:  -> FR
+Métrique 841 mise à jour:  -> FR
+Métrique 842 mise à jour:  -> FR
+Métrique 823 mise à jour:  -> FR
+Métrique 824 mise à jour:  -> FR
+Métrique 825 mise à jour:  -> FR
+Métrique 826 mise à jour:  -> FR
+Métrique 827 mise à jour:  -> FR
+Métrique 828 mise à jour:  -> FR
+Métrique 858 mise à jour:  -> FR
+Métrique 859 mise à jour:  -> FR
+Métrique 860 mise à jour:  -> FR
+Métrique 861 mise à jour:  -> FR
+Métrique 862 mise à jour:  -> FR
+Métrique 863 mise à jour:  -> FR
+Métrique 864 mise à jour:  -> FR
+Métrique 865 mise à jour:  -> FR
+Métrique 829 mise à jour:  -> FR
+Métrique 830 mise à jour:  -> FR
+Métrique 831 mise à jour:  -> FR
+Métrique 832 mise à jour:  -> FR
+Métrique 833 mise à jour:  -> FR
+Métrique 834 mise à jour:  -> FR
+Métrique 774 mise à jour:  -> FR
+Métrique 775 mise à jour:  -> FR
+Métrique 776 mise à jour:  -> FR
+Métrique 777 mise à jour:  -> FR
+Métrique 778 mise à jour:  -> FR
+Métrique 779 mise à jour:  -> FR
+Métrique 780 mise à jour:  -> FR
+Métrique 781 mise à jour:  -> FR
+Métrique 782 mise à jour:  -> FR
+Métrique 843 mise à jour:  -> FR
+Métrique 844 mise à jour:  -> FR
+Métrique 845 mise à jour:  -> FR
+Métrique 846 mise à jour:  -> FR
+Métrique 847 mise à jour:  -> FR
+Métrique 848 mise à jour:  -> FR
+Métrique 849 mise à jour:  -> FR
+Métrique 792 mise à jour:  -> FR
+Métrique 793 mise à jour:  -> FR
+Métrique 794 mise à jour:  -> FR
+Métrique 795 mise à jour:  -> FR
+Métrique 796 mise à jour:  -> FR
+Métrique 797 mise à jour:  -> FR
+Métrique 798 mise à jour:  -> FR
+Métrique 889 mise à jour:  -> FR
+Métrique 890 mise à jour:  -> FR
+Métrique 891 mise à jour:  -> FR
+Métrique 892 mise à jour:  -> FR
+Métrique 893 mise à jour:  -> FR
+Métrique 894 mise à jour:  -> FR
+Métrique 895 mise à jour:  -> FR
+Métrique 896 mise à jour:  -> FR
+Métrique 815 mise à jour:  -> FR
+Métrique 816 mise à jour:  -> FR
+Métrique 817 mise à jour:  -> FR
+Métrique 818 mise à jour:  -> FR
+Métrique 819 mise à jour:  -> FR
+Métrique 820 mise à jour:  -> FR
+Métrique 821 mise à jour:  -> FR
+Métrique 822 mise à jour:  -> FR
+Métrique 850 mise à jour:  -> FR
+Métrique 851 mise à jour:  -> FR
+Métrique 852 mise à jour:  -> FR
+Métrique 853 mise à jour:  -> FR
+Métrique 854 mise à jour:  -> FR
+Métrique 855 mise à jour:  -> FR
+Métrique 856 mise à jour:  -> FR
+Métrique 857 mise à jour:  -> FR
+Métrique 866 mise à jour:  -> FR
+Métrique 867 mise à jour:  -> FR
+Métrique 868 mise à jour:  -> FR
+Métrique 869 mise à jour:  -> FR
+Métrique 870 mise à jour:  -> FR
+Métrique 871 mise à jour:  -> FR
+Métrique 872 mise à jour:  -> FR
+Métrique 873 mise à jour:  -> FR
+Métrique 912 mise à jour:  -> ES
+Métrique 913 mise à jour:  -> ES
+Métrique 914 mise à jour:  -> ES
+Métrique 897 mise à jour:  -> DE
+Métrique 898 mise à jour:  -> DE
+Métrique 899 mise à jour:  -> DE
+Métrique 900 mise à jour:  -> NO
+Métrique 901 mise à jour:  -> NO
+Métrique 902 mise à jour:  -> NO
+Métrique 903 mise à jour:  -> SE
+Métrique 904 mise à jour:  -> SE
+Métrique 905 mise à jour:  -> SE
+Métrique 915 mise à jour:  -> UK
+Métrique 916 mise à jour:  -> UK
+Métrique 917 mise à jour:  -> UK
+Métrique 906 mise à jour:  -> SG
+Métrique 907 mise à jour:  -> SG
+Métrique 908 mise à jour:  -> SG
+Métrique 909 mise à jour:  -> NZ
+Métrique 910 mise à jour:  -> NZ
+Métrique 911 mise à jour:  -> NZ
+Métrique 918 mise à jour:  -> MX
+Métrique 919 mise à jour:  -> MX
+Métrique 920 mise à jour:  -> MX
+Métrique 921 mise à jour:  -> MX
+Métrique 922 mise à jour:  -> MX
+Métrique 923 mise à jour:  -> MX
+Métrique 925 mise à jour:  -> MX
+Métrique 926 mise à jour:  -> MX
+Métrique 1192 mise à jour:  -> MX
+Métrique 924 mise à jour:  -> MX
+Métrique 1193 mise à jour:  -> MX
+Métrique 1194 mise à jour:  -> UK
+Métrique 1195 mise à jour:  -> UK
+Métrique 1196 mise à jour:  -> UK
+Métrique 1197 mise à jour:  -> UK
+Métrique 1198 mise à jour:  -> UK
+Métrique 1199 mise à jour:  -> IT
+Métrique 1200 mise à jour:  -> IT
+Métrique 1201 mise à jour:  -> IT
+Métrique 1202 mise à jour:  -> IT
+Métrique 1203 mise à jour:  -> IT
+Métrique 1204 mise à jour:  -> FR
+Métrique 1205 mise à jour:  -> FR
+Métrique 1206 mise à jour:  -> FR
+Métrique 1207 mise à jour:  -> FR
+Métrique 1208 mise à jour:  -> FR
+Métrique 1209 mise à jour:  -> ES
+Métrique 1210 mise à jour:  -> ES
+Métrique 1211 mise à jour:  -> ES
+Métrique 1212 mise à jour:  -> ES
+Métrique 1213 mise à jour:  -> ES
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+Looking for config file at: F:\JOB\RD\Dashboard_RD\backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (2)
+Failed to save statistics for [FR] cornerpromo.com (2): ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Failed to process account 2: ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+Processing account [FR] mesemplettesvip-k.com (90280)
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Looking for config file at: F:\JOB\RD\Dashboard_RD\backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+Processing account [FR] mesemplettesvip-k.com (90280)
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Looking for config file at: F:\JOB\RD\Dashboard_RD\backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (2)
+Failed to save statistics for [FR] cornerpromo.com (2): UNIQUE constraint failed: api_expertsenderdatabase.name
+Failed to process account 2: UNIQUE constraint failed: api_expertsenderdatabase.name
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+Processing account [FR] mesemplettesvip-k.com (90280)
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Internal Server Error: /api/metrics/summary_by_date/
+F:\JOB\RD\Dashboard_RD\backend\src\Dashboard\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Looking for config file at: F:\JOB\RD\Dashboard_RD\backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (2)
+Failed to save statistics for [FR] cornerpromo.com (2): ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Failed to process account 2: ERREUR:  la valeur d'une clé dupliquée rompt la contrainte unique « api_expertsenderdatabase_name_24f20e1e_uniq »
+DETAIL:  La clé « (name)=([FR] cornerpromo.com) » existe déjà.
+
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+Processing account [FR] mesemplettesvip-k.com (90280)
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)

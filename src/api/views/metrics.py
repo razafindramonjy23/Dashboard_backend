@@ -238,45 +238,6 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
                 status=status.HTTP_500_INTERNAL_SERVER_ERROR
             )
 
-    # @action(detail=False, methods=['GET'])
-    # def summary(self, request):
-    #     """
-    #     Récupère un résumé global des métriques.
-    #     """
-    #     try:
-    #         metrics = self.filter_queryset(self.get_queryset())
-
-    #         summary = {
-    #             'total_sent': metrics.aggregate(total=Sum('sent'))['total'] or 0,
-    #             'total_bounced': metrics.aggregate(total=Sum('bounced'))['total'] or 0,
-    #             'total_delivered': metrics.aggregate(total=Sum('delivered'))['total'] or 0,
-    #             'total_opens': metrics.aggregate(total=Sum('opens'))['total'] or 0,
-    #             'total_clicks': metrics.aggregate(total=Sum('clicks'))['total'] or 0,
-    #             'total_revenue': metrics.aggregate(total=Sum('revenue'))['total'] or 0,
-    #             'average_open_rate': metrics.aggregate(
-    #                 rate=Case(
-    #                     When(delivered__gt=0, then=Avg('opens') * 100.0 / Avg('delivered')),
-    #                     default=Value(0.0),
-    #                     output_field=FloatField()
-    #                 )
-    #             )['rate'] or 0,
-    #             'average_click_rate': metrics.aggregate(
-    #                 rate=Case(
-    #                     When(opens__gt=0, then=Avg('clicks') * 100.0 / Avg('opens')),
-    #                     default=Value(0.0),
-    #                     output_field=FloatField()
-    #                 )
-    #             )['rate'] or 0
-    #         }
-
-    #         return self._handle_pagination([summary])
-
-    #     except Exception as e:
-    #         return Response(
-    #             {'error': 'Failed to calculate summary.', 'details': str(e)},
-    #             status=status.HTTP_500_INTERNAL_SERVER_ERROR
-    #         )
-
     @action(detail=False, methods=['GET'])
     def summary(self, request):
         """

@@ -5,6 +5,10 @@ class Department(models.Model):
     name = models.CharField(max_length=100, unique=True)
     is_admin = models.BooleanField(default=False)
 
+    class Meta: 
+        verbose_name = "Departement"
+        verbose_name_plural = "Departements"
+
     def __str__(self):
         return self.name
 
@@ -12,9 +16,11 @@ class SystemConfig(models.Model):
     admin_token = models.CharField(max_length=64, unique=True)
 
     @classmethod
-    def get_admin_token(cls):
-        config, created = cls.objects.get_or_create(id=1, defaults={'admin_token': 'default_token'})
-        return config.admin_token
+    def get_admin_token(cls): 
+        config = cls.objects.first()
+        if config: 
+            return config.admin_token
+        return 'default_token'
 
 class CustomUser(AbstractUser):
     department = models.ForeignKey(
