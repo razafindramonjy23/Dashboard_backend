@@ -338,3 +338,34 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
                 status=status.HTTP_500_INTERNAL_SERVER_ERROR
             )
 
+    @action(detail=False, methods=['GET'])
+    def filter_options(self, request):
+        """
+            Récupère les options de filtre pour les métriques.
+        """
+        try: 
+            data = {
+                "databases": CampaignMetrics.objects.values_list("database__name", flat=True).distinct(),
+                "domain_families": CampaignMetrics.objects.values_list("domain_family", flat=True).distinct(),
+                "geo_locations": CampaignMetrics.objects.values_list("geo_location", flat=True).distinct(),
+                "geo_variations": CampaignMetrics.objects.values_list("geo_variation", flat=True).distinct(),
+            }
+            return Response(data)
+        except Exception as e: 
+            return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+    
+    @action(detail=False, methods=['GET'])
+    def grouping_options(self, request):
+        """
+            Récupère les options de groupement pour les métriques.
+        """
+        groupings = [
+            {"value": "database__name", "label": "Database"},
+            {"value": "domain_family_display", "label": "Domain Family"},
+            {"value": "geo_location", "label": "Geo Location"},
+            {"value": "geo_variation", "label": "Geo Variation"},
+            {"value": "date", "label": "Date"},
+        ]
+        return Response(groupings)
+
