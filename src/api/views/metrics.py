@@ -109,6 +109,7 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
             queryset = self.filter_queryset(self.get_queryset())
 
             summary = queryset.values('database__name', 'geo_variation').annotate(
+                geo_location=F('geo_location'),
                 total_sent=Sum('sent'),
                 total_delivered=Sum('delivered'),
                 total_opens=Sum('opens'),
