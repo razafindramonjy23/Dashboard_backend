@@ -21,7 +21,7 @@ class Command(BaseCommand):
         # Planifier la synchronisation pour chaque base de données active
         for db in databases:
             logger.info(f"Planification de la synchronisation pour la base de données {db.id}.")
-            schedule.every(5).hours.do(sync_database_metrics, database_id=db.id)
+            schedule.every(1).hours.do(sync_database_metrics, database_id=db.id)
 
         logger.info("Planificateur prêt. En attente des tâches à exécuter.")
 
