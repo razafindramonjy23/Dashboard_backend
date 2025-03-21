@@ -7,3 +7,8 @@ class CampaignMetricsSerializer(serializers.ModelSerializer):
     class Meta:
         model = CampaignMetrics
         fields = '__all__'
+        
+    # def get_database(self, obj) : 
+    #     if obj.database: 
+    #         return obj.database.name
+    #     return None

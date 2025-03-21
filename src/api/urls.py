@@ -9,5 +9,6 @@ router.register(r'metrics', CampaignMetricsViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
-    path('metrics/filter_options/', CampaignMetricsViewSet.filter_options, name='filter_options'),
+    # path('metrics/filter_options/', CampaignMetricsViewSet.filter_options, name='filter_options'),
+    path('metrics/filter_options/', CampaignMetricsViewSet.as_view({'get': 'filter_options'}), name='filter_options'),
 ]
