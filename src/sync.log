@@ -322858,3 +322858,3151 @@ Watching for file changes with StatReloader
 D:\Projet_rd\backend\Dashboard_backend\src\api\admin.py changed, reloading.
 Watching for file changes with StatReloader
 Not Found: /favicon.ico
+Not Found: /api/campaignmetrics/
+Not Found: /favicon.ico
+Looking for config file at: D:\Projet_rd\backend\Dashboard_backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+API request failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-23&endDate=2025-03-24&apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/Lists?apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+API request failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-23&endDate=2025-03-24&apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/Lists?apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-23&endDate=2025-03-24&apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-23&endDate=2025-03-24&apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-23&endDate=2025-03-24&apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-23&endDate=2025-03-24&apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+Processing account [FR] mesemplettesvip-k.com (90280)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-23&endDate=2025-03-24&apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-23&endDate=2025-03-24&apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Métrique 3334 mise à jour:  -> FR
+Métrique 3335 mise à jour:  -> FR
+Métrique 3336 mise à jour:  -> FR
+Métrique 3337 mise à jour:  -> FR
+Métrique 3338 mise à jour:  -> FR
+Métrique 3339 mise à jour:  -> FR
+Métrique 3340 mise à jour:  -> FR
+Métrique 3314 mise à jour:  -> FR
+Métrique 3315 mise à jour:  -> FR
+Métrique 3316 mise à jour:  -> FR
+Métrique 3317 mise à jour:  -> FR
+Métrique 3318 mise à jour:  -> FR
+Métrique 3319 mise à jour:  -> FR
+Métrique 3320 mise à jour:  -> FR
+Métrique 3329 mise à jour:  -> FR
+Métrique 3330 mise à jour:  -> FR
+Métrique 3331 mise à jour:  -> FR
+Métrique 3332 mise à jour:  -> FR
+Métrique 3333 mise à jour:  -> FR
+Métrique 3354 mise à jour:  -> FR
+Métrique 3355 mise à jour:  -> FR
+Métrique 3356 mise à jour:  -> FR
+Métrique 3290 mise à jour:  -> FR
+Métrique 3291 mise à jour:  -> FR
+Métrique 3292 mise à jour:  -> FR
+Métrique 3293 mise à jour:  -> FR
+Métrique 3294 mise à jour:  -> FR
+Métrique 3295 mise à jour:  -> FR
+Métrique 3296 mise à jour:  -> FR
+Métrique 3352 mise à jour:  -> FR
+Métrique 3353 mise à jour:  -> FR
+Métrique 3346 mise à jour:  -> FR
+Métrique 3347 mise à jour:  -> FR
+Métrique 3348 mise à jour:  -> FR
+Métrique 3349 mise à jour:  -> FR
+Métrique 3350 mise à jour:  -> FR
+Métrique 3277 mise à jour:  -> FR
+Métrique 3278 mise à jour:  -> FR
+Métrique 3279 mise à jour:  -> FR
+Métrique 3280 mise à jour:  -> FR
+Métrique 3281 mise à jour:  -> FR
+Métrique 3282 mise à jour:  -> FR
+Métrique 3297 mise à jour:  -> FR
+Métrique 3298 mise à jour:  -> FR
+Métrique 3299 mise à jour:  -> FR
+Métrique 3300 mise à jour:  -> FR
+Métrique 3301 mise à jour:  -> FR
+Métrique 3363 mise à jour:  -> IT
+Métrique 3364 mise à jour:  -> IT
+Métrique 3365 mise à jour:  -> IT
+Métrique 3366 mise à jour:  -> IT
+Métrique 3367 mise à jour:  -> IT
+Métrique 3251 mise à jour:  -> DE
+Métrique 3252 mise à jour:  -> DE
+Métrique 3253 mise à jour:  -> DE
+Métrique 3254 mise à jour:  -> DE
+Métrique 3380 mise à jour:  -> UK
+Métrique 3381 mise à jour:  -> UK
+Métrique 3382 mise à jour:  -> UK
+Métrique 3243 mise à jour:  -> BENL
+Métrique 3244 mise à jour:  -> BENL
+Métrique 3245 mise à jour:  -> BENL
+Métrique 3246 mise à jour:  -> BENL
+Métrique 3247 mise à jour:  -> BENL
+Métrique 3248 mise à jour:  -> BENL
+Métrique 3232 mise à jour:  -> AU
+Métrique 3233 mise à jour:  -> AU
+Métrique 3234 mise à jour:  -> AU
+Métrique 3322 mise à jour:  -> FR
+Métrique 3323 mise à jour:  -> FR
+Métrique 3324 mise à jour:  -> FR
+Métrique 3325 mise à jour:  -> FR
+Métrique 3326 mise à jour:  -> FR
+Métrique 3327 mise à jour:  -> FR
+Métrique 3357 mise à jour:  -> IT
+Métrique 3358 mise à jour:  -> IT
+Métrique 3359 mise à jour:  -> IT
+Métrique 3360 mise à jour:  -> IT
+Métrique 3361 mise à jour:  -> IT
+Métrique 3362 mise à jour:  -> IT
+Métrique 3391 mise à jour:  -> UK
+Métrique 3390 mise à jour:  -> UK
+Métrique 3389 mise à jour:  -> UK
+Métrique 3375 mise à jour:  -> NL
+Métrique 3376 mise à jour:  -> NL
+Métrique 3377 mise à jour:  -> NL
+Métrique 3378 mise à jour:  -> NL
+Métrique 3379 mise à jour:  -> NL
+Métrique 3258 mise à jour:  -> ES
+Métrique 3259 mise à jour:  -> ES
+Métrique 3260 mise à jour:  -> ES
+Métrique 3261 mise à jour:  -> ES
+Métrique 3262 mise à jour:  -> ES
+Métrique 3341 mise à jour:  -> FR
+Métrique 3342 mise à jour:  -> FR
+Métrique 3343 mise à jour:  -> FR
+Métrique 3344 mise à jour:  -> FR
+Métrique 3345 mise à jour:  -> FR
+Métrique 3249 mise à jour:  -> BE NL
+Métrique 3250 mise à jour:  -> BE NL
+Métrique 3240 mise à jour:  -> CA EN
+Métrique 3241 mise à jour:  -> CA EN
+Métrique 3242 mise à jour:  -> CA EN
+Métrique 3255 mise à jour:  -> CA FR
+Métrique 3256 mise à jour:  -> CA FR
+Métrique 3257 mise à jour:  -> CA FR
+Métrique 3227 mise à jour:  -> AU
+Métrique 3228 mise à jour:  -> AU
+Métrique 3229 mise à jour:  -> AU
+Métrique 3230 mise à jour:  -> AU
+Métrique 3231 mise à jour:  -> AU
+Métrique 3321 mise à jour:  -> FR
+Métrique 3328 mise à jour:  -> FR
+Métrique 3383 mise à jour:  -> UK
+Métrique 3384 mise à jour:  -> UK
+Métrique 3385 mise à jour:  -> UK
+Métrique 3386 mise à jour:  -> UK
+Métrique 3387 mise à jour:  -> UK
+Métrique 3388 mise à jour:  -> UK
+Métrique 3283 mise à jour:  -> FR
+Métrique 3302 mise à jour:  -> FR
+Métrique 3303 mise à jour:  -> FR
+Métrique 3304 mise à jour:  -> FR
+Métrique 3305 mise à jour:  -> FR
+Métrique 3306 mise à jour:  -> FR
+Métrique 3307 mise à jour:  -> FR
+Métrique 3308 mise à jour:  -> FR
+Métrique 3309 mise à jour:  -> FR
+Métrique 3368 mise à jour:  -> NL
+Métrique 3369 mise à jour:  -> NL
+Métrique 3370 mise à jour:  -> NL
+Métrique 3371 mise à jour:  -> NL
+Métrique 3372 mise à jour:  -> NL
+Métrique 3373 mise à jour:  -> NL
+Métrique 3374 mise à jour:  -> NL
+Métrique 3235 mise à jour:  -> AU
+Métrique 3236 mise à jour:  -> AU
+Métrique 3237 mise à jour:  -> AU
+Métrique 3238 mise à jour:  -> AU
+Métrique 3239 mise à jour:  -> AU
+Métrique 3269 mise à jour:  -> ES
+Métrique 3270 mise à jour:  -> ES
+Métrique 3271 mise à jour:  -> ES
+Métrique 3272 mise à jour:  -> ES
+Métrique 3273 mise à jour:  -> ES
+Métrique 3274 mise à jour:  -> ES
+Métrique 3275 mise à jour:  -> ES
+Métrique 3284 mise à jour:  -> FR
+Métrique 3285 mise à jour:  -> FR
+Métrique 3286 mise à jour:  -> FR
+Métrique 3287 mise à jour:  -> FR
+Métrique 3288 mise à jour:  -> FR
+Métrique 3289 mise à jour:  -> FR
+Métrique 3263 mise à jour:  -> FR
+Métrique 3264 mise à jour:  -> FR
+Métrique 3265 mise à jour:  -> FR
+Métrique 3266 mise à jour:  -> FR
+Métrique 3267 mise à jour:  -> FR
+Métrique 3268 mise à jour:  -> FR
+Métrique 3351 mise à jour:  -> FR
+Métrique 3310 mise à jour:  -> FR
+Métrique 3311 mise à jour:  -> FR
+Métrique 3313 mise à jour:  -> FR
+Métrique 3312 mise à jour:  -> FR
+Métrique 3276 mise à jour:  -> FR
+Métrique 3123 mise à jour:  -> FR
+Métrique 3035 mise à jour:  -> FR
+Métrique 3034 mise à jour:  -> FR
+Métrique 3116 mise à jour:  -> FR
+Métrique 3117 mise à jour:  -> FR
+Métrique 3118 mise à jour:  -> FR
+Métrique 3119 mise à jour:  -> FR
+Métrique 3120 mise à jour:  -> FR
+Métrique 3121 mise à jour:  -> FR
+Métrique 3122 mise à jour:  -> FR
+Métrique 3028 mise à jour:  -> DE
+Métrique 3029 mise à jour:  -> DE
+Métrique 3030 mise à jour:  -> DE
+Métrique 3031 mise à jour:  -> DE
+Métrique 3032 mise à jour:  -> DE
+Métrique 3033 mise à jour:  -> DE
+Métrique 3061 mise à jour:  -> FR
+Métrique 3062 mise à jour:  -> FR
+Métrique 3063 mise à jour:  -> FR
+Métrique 3064 mise à jour:  -> FR
+Métrique 3065 mise à jour:  -> FR
+Métrique 3066 mise à jour:  -> FR
+Métrique 3067 mise à jour:  -> FR
+Métrique 3068 mise à jour:  -> FR
+Métrique 3069 mise à jour:  -> FR
+Métrique 3070 mise à jour:  -> FR
+Métrique 3071 mise à jour:  -> FR
+Métrique 3072 mise à jour:  -> FR
+Métrique 3073 mise à jour:  -> FR
+Métrique 3074 mise à jour:  -> FR
+Métrique 3075 mise à jour:  -> FR
+Métrique 3076 mise à jour:  -> FR
+Métrique 3077 mise à jour:  -> FR
+Métrique 3055 mise à jour:  -> FR
+Métrique 3056 mise à jour:  -> FR
+Métrique 3057 mise à jour:  -> FR
+Métrique 3058 mise à jour:  -> FR
+Métrique 3059 mise à jour:  -> FR
+Métrique 3060 mise à jour:  -> FR
+Métrique 3207 mise à jour:  -> IT
+Métrique 3208 mise à jour:  -> IT
+Métrique 3209 mise à jour:  -> IT
+Métrique 3210 mise à jour:  -> IT
+Métrique 3211 mise à jour:  -> IT
+Métrique 3212 mise à jour:  -> IT
+Métrique 3213 mise à jour:  -> IT
+Métrique 3199 mise à jour:  -> IT
+Métrique 3200 mise à jour:  -> IT
+Métrique 3201 mise à jour:  -> IT
+Métrique 3202 mise à jour:  -> IT
+Métrique 3203 mise à jour:  -> IT
+Métrique 3204 mise à jour:  -> IT
+Métrique 3205 mise à jour:  -> IT
+Métrique 3206 mise à jour:  -> IT
+Métrique 3131 mise à jour:  -> IT
+Métrique 3132 mise à jour:  -> IT
+Métrique 3133 mise à jour:  -> IT
+Métrique 3134 mise à jour:  -> IT
+Métrique 3135 mise à jour:  -> IT
+Métrique 3136 mise à jour:  -> IT
+Métrique 3137 mise à jour:  -> IT
+Métrique 3124 mise à jour:  -> IT
+Métrique 3125 mise à jour:  -> IT
+Métrique 3126 mise à jour:  -> IT
+Métrique 3127 mise à jour:  -> IT
+Métrique 3128 mise à jour:  -> IT
+Métrique 3129 mise à jour:  -> IT
+Métrique 3130 mise à jour:  -> IT
+Métrique 3183 mise à jour:  -> IT
+Métrique 3184 mise à jour:  -> IT
+Métrique 3185 mise à jour:  -> IT
+Métrique 3186 mise à jour:  -> IT
+Métrique 3187 mise à jour:  -> IT
+Métrique 3188 mise à jour:  -> IT
+Métrique 3189 mise à jour:  -> IT
+Métrique 3190 mise à jour:  -> IT
+Métrique 3214 mise à jour:  -> IT
+Métrique 3215 mise à jour:  -> IT
+Métrique 3216 mise à jour:  -> IT
+Métrique 3217 mise à jour:  -> IT
+Métrique 3218 mise à jour:  -> IT
+Métrique 3219 mise à jour:  -> IT
+Métrique 3220 mise à jour:  -> IT
+Métrique 3221 mise à jour:  -> IT
+Métrique 3191 mise à jour:  -> IT
+Métrique 3192 mise à jour:  -> IT
+Métrique 3193 mise à jour:  -> IT
+Métrique 3194 mise à jour:  -> IT
+Métrique 3195 mise à jour:  -> IT
+Métrique 3196 mise à jour:  -> IT
+Métrique 3197 mise à jour:  -> IT
+Métrique 3198 mise à jour:  -> IT
+Métrique 3167 mise à jour:  -> IT
+Métrique 3168 mise à jour:  -> IT
+Métrique 3169 mise à jour:  -> IT
+Métrique 3170 mise à jour:  -> IT
+Métrique 3171 mise à jour:  -> IT
+Métrique 3172 mise à jour:  -> IT
+Métrique 3173 mise à jour:  -> IT
+Métrique 3174 mise à jour:  -> IT
+Métrique 3175 mise à jour:  -> IT
+Métrique 3159 mise à jour:  -> IT
+Métrique 3160 mise à jour:  -> IT
+Métrique 3161 mise à jour:  -> IT
+Métrique 3162 mise à jour:  -> IT
+Métrique 3163 mise à jour:  -> IT
+Métrique 3164 mise à jour:  -> IT
+Métrique 3165 mise à jour:  -> IT
+Métrique 3166 mise à jour:  -> IT
+Métrique 3145 mise à jour:  -> IT
+Métrique 3146 mise à jour:  -> IT
+Métrique 3147 mise à jour:  -> IT
+Métrique 3148 mise à jour:  -> IT
+Métrique 3149 mise à jour:  -> IT
+Métrique 3150 mise à jour:  -> IT
+Métrique 3151 mise à jour:  -> IT
+Métrique 3152 mise à jour:  -> IT
+Métrique 3153 mise à jour:  -> IT
+Métrique 3154 mise à jour:  -> IT
+Métrique 3155 mise à jour:  -> IT
+Métrique 3156 mise à jour:  -> IT
+Métrique 3157 mise à jour:  -> IT
+Métrique 3158 mise à jour:  -> IT
+Métrique 3138 mise à jour:  -> IT
+Métrique 3139 mise à jour:  -> IT
+Métrique 3140 mise à jour:  -> IT
+Métrique 3141 mise à jour:  -> IT
+Métrique 3142 mise à jour:  -> IT
+Métrique 3143 mise à jour:  -> IT
+Métrique 3144 mise à jour:  -> IT
+Métrique 3222 mise à jour:  -> UK
+Métrique 3223 mise à jour:  -> UK
+Métrique 3224 mise à jour:  -> UK
+Métrique 3225 mise à jour:  -> UK
+Métrique 3226 mise à jour:  -> UK
+Métrique 3176 mise à jour:  -> IT
+Métrique 3177 mise à jour:  -> IT
+Métrique 3178 mise à jour:  -> IT
+Métrique 3179 mise à jour:  -> IT
+Métrique 3180 mise à jour:  -> IT
+Métrique 3181 mise à jour:  -> IT
+Métrique 3182 mise à jour:  -> IT
+Métrique 3078 mise à jour:  -> FR
+Métrique 3079 mise à jour:  -> FR
+Métrique 3080 mise à jour:  -> FR
+Métrique 3081 mise à jour:  -> FR
+Métrique 3082 mise à jour:  -> FR
+Métrique 3083 mise à jour:  -> FR
+Métrique 3036 mise à jour:  -> FR
+Métrique 3037 mise à jour:  -> FR
+Métrique 3038 mise à jour:  -> FR
+Métrique 3039 mise à jour:  -> FR
+Métrique 3048 mise à jour:  -> FR
+Métrique 3049 mise à jour:  -> FR
+Métrique 3050 mise à jour:  -> FR
+Métrique 3051 mise à jour:  -> FR
+Métrique 3052 mise à jour:  -> FR
+Métrique 3053 mise à jour:  -> FR
+Métrique 3054 mise à jour:  -> FR
+Métrique 3040 mise à jour:  -> FR
+Métrique 3041 mise à jour:  -> FR
+Métrique 3042 mise à jour:  -> FR
+Métrique 3043 mise à jour:  -> FR
+Métrique 3044 mise à jour:  -> FR
+Métrique 3045 mise à jour:  -> FR
+Métrique 3046 mise à jour:  -> FR
+Métrique 3047 mise à jour:  -> FR
+Métrique 3009 mise à jour:  -> FR
+Métrique 3010 mise à jour:  -> FR
+Métrique 3011 mise à jour:  -> FR
+Métrique 3012 mise à jour:  -> FR
+Métrique 3013 mise à jour:  -> FR
+Métrique 3014 mise à jour:  -> FR
+Métrique 3015 mise à jour:  -> FR
+Métrique 3003 mise à jour:  -> BEFR
+Métrique 3004 mise à jour:  -> BEFR
+Métrique 3005 mise à jour:  -> BEFR
+Métrique 3006 mise à jour:  -> BEFR
+Métrique 3007 mise à jour:  -> BEFR
+Métrique 3008 mise à jour:  -> BEFR
+Métrique 2987 mise à jour:  -> FR
+Métrique 2988 mise à jour:  -> FR
+Métrique 2989 mise à jour:  -> FR
+Métrique 2990 mise à jour:  -> FR
+Métrique 2991 mise à jour:  -> FR
+Métrique 2992 mise à jour:  -> FR
+Métrique 2993 mise à jour:  -> FR
+Métrique 2994 mise à jour:  -> FR
+Métrique 3016 mise à jour:  -> FR
+Métrique 3017 mise à jour:  -> FR
+Métrique 3018 mise à jour:  -> FR
+Métrique 2995 mise à jour:  -> FR
+Métrique 2996 mise à jour:  -> FR
+Métrique 2997 mise à jour:  -> FR
+Métrique 2998 mise à jour:  -> FR
+Métrique 2999 mise à jour:  -> FR
+Métrique 3000 mise à jour:  -> FR
+Métrique 3001 mise à jour:  -> FR
+Métrique 3002 mise à jour:  -> FR
+Métrique 3019 mise à jour:  -> FR
+Métrique 3020 mise à jour:  -> FR
+Métrique 3021 mise à jour:  -> FR
+Métrique 3022 mise à jour:  -> FR
+Métrique 3023 mise à jour:  -> FR
+Métrique 3024 mise à jour:  -> FR
+Métrique 3025 mise à jour:  -> FR
+Métrique 3026 mise à jour:  -> FR
+Métrique 3027 mise à jour:  -> FR
+Métrique 2970 mise à jour:  -> FR
+Métrique 2971 mise à jour:  -> FR
+Métrique 2972 mise à jour:  -> FR
+Métrique 2973 mise à jour:  -> FR
+Métrique 2974 mise à jour:  -> FR
+Métrique 2975 mise à jour:  -> FR
+Métrique 2976 mise à jour:  -> FR
+Métrique 2977 mise à jour:  -> FR
+Métrique 2978 mise à jour:  -> FR
+Métrique 2979 mise à jour:  -> FR
+Métrique 2980 mise à jour:  -> NL
+Métrique 2981 mise à jour:  -> NL
+Métrique 2982 mise à jour:  -> NL
+Métrique 2983 mise à jour:  -> NL
+Métrique 2984 mise à jour:  -> NL
+Métrique 2985 mise à jour:  -> NL
+Métrique 2986 mise à jour:  -> NL
+Métrique 2960 mise à jour:  -> FR
+Métrique 2961 mise à jour:  -> FR
+Métrique 2962 mise à jour:  -> FR
+Métrique 2963 mise à jour:  -> FR
+Métrique 2964 mise à jour:  -> FR
+Métrique 2965 mise à jour:  -> FR
+Métrique 2966 mise à jour:  -> FR
+Métrique 2967 mise à jour:  -> FR
+Métrique 2968 mise à jour:  -> FR
+Métrique 2969 mise à jour:  -> FR
+Métrique 2952 mise à jour:  -> FR
+Métrique 2953 mise à jour:  -> FR
+Métrique 2954 mise à jour:  -> FR
+Métrique 2955 mise à jour:  -> FR
+Métrique 2956 mise à jour:  -> FR
+Métrique 2957 mise à jour:  -> FR
+Métrique 2958 mise à jour:  -> FR
+Métrique 2959 mise à jour:  -> FR
+Métrique 2919 mise à jour:  -> FR
+Métrique 2920 mise à jour:  -> FR
+Métrique 2921 mise à jour:  -> FR
+Métrique 2922 mise à jour:  -> FR
+Métrique 2923 mise à jour:  -> FR
+Métrique 2924 mise à jour:  -> FR
+Métrique 2925 mise à jour:  -> FR
+Métrique 2926 mise à jour:  -> FR
+Métrique 2935 mise à jour:  -> FR
+Métrique 2936 mise à jour:  -> FR
+Métrique 2937 mise à jour:  -> FR
+Métrique 2938 mise à jour:  -> FR
+Métrique 2939 mise à jour:  -> FR
+Métrique 2940 mise à jour:  -> FR
+Métrique 2941 mise à jour:  -> FR
+Métrique 2942 mise à jour:  -> FR
+Métrique 2943 mise à jour:  -> FR
+Métrique 2918 mise à jour:  -> FR
+Métrique 2927 mise à jour:  -> FR
+Métrique 2928 mise à jour:  -> FR
+Métrique 2929 mise à jour:  -> FR
+Métrique 2930 mise à jour:  -> FR
+Métrique 2931 mise à jour:  -> FR
+Métrique 2932 mise à jour:  -> FR
+Métrique 2933 mise à jour:  -> FR
+Métrique 2934 mise à jour:  -> FR
+Métrique 2944 mise à jour:  -> FR
+Métrique 2945 mise à jour:  -> FR
+Métrique 2946 mise à jour:  -> FR
+Métrique 2947 mise à jour:  -> FR
+Métrique 2948 mise à jour:  -> FR
+Métrique 2949 mise à jour:  -> FR
+Métrique 2950 mise à jour:  -> FR
+Métrique 2951 mise à jour:  -> FR
+Métrique 2905 mise à jour:  -> FR
+Métrique 2906 mise à jour:  -> FR
+Métrique 2907 mise à jour:  -> FR
+Métrique 2908 mise à jour:  -> FR
+Métrique 2909 mise à jour:  -> FR
+Métrique 2910 mise à jour:  -> FR
+Métrique 2911 mise à jour:  -> FR
+Métrique 2870 mise à jour:  -> AU
+Métrique 2871 mise à jour:  -> AU
+Métrique 2872 mise à jour:  -> AU
+Métrique 2873 mise à jour:  -> AU
+Métrique 2874 mise à jour:  -> AU
+Métrique 2875 mise à jour:  -> AU
+Métrique 2876 mise à jour:  -> AU
+Métrique 2877 mise à jour:  -> ES
+Métrique 2878 mise à jour:  -> ES
+Métrique 2879 mise à jour:  -> ES
+Métrique 2880 mise à jour:  -> ES
+Métrique 2912 mise à jour:  -> IT
+Métrique 2913 mise à jour:  -> IT
+Métrique 2914 mise à jour:  -> IT
+Métrique 2915 mise à jour:  -> IT
+Métrique 2916 mise à jour:  -> IT
+Métrique 2917 mise à jour:  -> IT
+Métrique 2890 mise à jour:  -> FR
+Métrique 2891 mise à jour:  -> FR
+Métrique 2892 mise à jour:  -> FR
+Métrique 2893 mise à jour:  -> FR
+Métrique 2894 mise à jour:  -> FR
+Métrique 2895 mise à jour:  -> FR
+Métrique 2896 mise à jour:  -> FR
+Métrique 2897 mise à jour:  -> FR
+Métrique 2898 mise à jour:  -> FR
+Métrique 2899 mise à jour:  -> FR
+Métrique 2900 mise à jour:  -> FR
+Métrique 2901 mise à jour:  -> FR
+Métrique 2902 mise à jour:  -> FR
+Métrique 2903 mise à jour:  -> FR
+Métrique 2904 mise à jour:  -> FR
+Métrique 2861 mise à jour:  -> FR
+Métrique 2862 mise à jour:  -> FR
+Métrique 2863 mise à jour:  -> FR
+Métrique 2864 mise à jour:  -> FR
+Métrique 2865 mise à jour:  -> FR
+Métrique 2866 mise à jour:  -> FR
+Métrique 2867 mise à jour:  -> FR
+Métrique 2868 mise à jour:  -> FR
+Métrique 2869 mise à jour:  -> FR
+Métrique 2881 mise à jour:  -> FR
+Métrique 2882 mise à jour:  -> FR
+Métrique 2883 mise à jour:  -> FR
+Métrique 2884 mise à jour:  -> FR
+Métrique 2885 mise à jour:  -> FR
+Métrique 2886 mise à jour:  -> FR
+Métrique 2887 mise à jour:  -> FR
+Métrique 2888 mise à jour:  -> FR
+Métrique 2889 mise à jour:  -> FR
+Métrique 2829 mise à jour:  -> FR
+Métrique 2830 mise à jour:  -> FR
+Métrique 2831 mise à jour:  -> FR
+Métrique 2832 mise à jour:  -> FR
+Métrique 2833 mise à jour:  -> FR
+Métrique 2834 mise à jour:  -> FR
+Métrique 2759 mise à jour:  -> FR
+Métrique 2760 mise à jour:  -> FR
+Métrique 2761 mise à jour:  -> FR
+Métrique 2762 mise à jour:  -> FR
+Métrique 2763 mise à jour:  -> FR
+Métrique 2764 mise à jour:  -> FR
+Métrique 2765 mise à jour:  -> FR
+Métrique 2843 mise à jour:  -> FR
+Métrique 2844 mise à jour:  -> FR
+Métrique 2845 mise à jour:  -> FR
+Métrique 2846 mise à jour:  -> FR
+Métrique 2847 mise à jour:  -> FR
+Métrique 2848 mise à jour:  -> FR
+Métrique 2849 mise à jour:  -> FR
+Métrique 2850 mise à jour:  -> FR
+Métrique 2851 mise à jour:  -> FR
+Métrique 2821 mise à jour:  -> FR
+Métrique 2822 mise à jour:  -> FR
+Métrique 2823 mise à jour:  -> FR
+Métrique 2824 mise à jour:  -> FR
+Métrique 2825 mise à jour:  -> FR
+Métrique 2826 mise à jour:  -> FR
+Métrique 2827 mise à jour:  -> FR
+Métrique 2828 mise à jour:  -> FR
+Métrique 2747 mise à jour:  -> AU
+Métrique 2748 mise à jour:  -> AU
+Métrique 2749 mise à jour:  -> AU
+Métrique 2750 mise à jour:  -> AU
+Métrique 2751 mise à jour:  -> AU
+Métrique 2787 mise à jour:  -> FR
+Métrique 2788 mise à jour:  -> FR
+Métrique 2789 mise à jour:  -> FR
+Métrique 2790 mise à jour:  -> FR
+Métrique 2791 mise à jour:  -> FR
+Métrique 2774 mise à jour:  -> FR
+Métrique 2775 mise à jour:  -> FR
+Métrique 2776 mise à jour:  -> FR
+Métrique 2777 mise à jour:  -> FR
+Métrique 2778 mise à jour:  -> FR
+Métrique 2779 mise à jour:  -> FR
+Métrique 2780 mise à jour:  -> FR
+Métrique 2806 mise à jour:  -> FR
+Métrique 2807 mise à jour:  -> FR
+Métrique 2808 mise à jour:  -> FR
+Métrique 2809 mise à jour:  -> FR
+Métrique 2810 mise à jour:  -> FR
+Métrique 2811 mise à jour:  -> FR
+Métrique 2812 mise à jour:  -> FR
+Métrique 2813 mise à jour:  -> FR
+Métrique 2781 mise à jour:  -> FR
+Métrique 2782 mise à jour:  -> FR
+Métrique 2783 mise à jour:  -> FR
+Métrique 2784 mise à jour:  -> FR
+Métrique 2785 mise à jour:  -> FR
+Métrique 2786 mise à jour:  -> FR
+Métrique 2739 mise à jour:  -> FR
+Métrique 2740 mise à jour:  -> FR
+Métrique 2741 mise à jour:  -> FR
+Métrique 2742 mise à jour:  -> FR
+Métrique 2743 mise à jour:  -> FR
+Métrique 2744 mise à jour:  -> FR
+Métrique 2745 mise à jour:  -> FR
+Métrique 2746 mise à jour:  -> FR
+Métrique 2792 mise à jour:  -> FR
+Métrique 2793 mise à jour:  -> FR
+Métrique 2794 mise à jour:  -> FR
+Métrique 2795 mise à jour:  -> FR
+Métrique 2796 mise à jour:  -> FR
+Métrique 2797 mise à jour:  -> FR
+Métrique 2798 mise à jour:  -> FR
+Métrique 2799 mise à jour:  -> FR
+Métrique 2752 mise à jour:  -> FR
+Métrique 2753 mise à jour:  -> FR
+Métrique 2754 mise à jour:  -> FR
+Métrique 2755 mise à jour:  -> FR
+Métrique 2756 mise à jour:  -> FR
+Métrique 2757 mise à jour:  -> FR
+Métrique 2758 mise à jour:  -> FR
+Métrique 2835 mise à jour:  -> FR
+Métrique 2836 mise à jour:  -> FR
+Métrique 2837 mise à jour:  -> FR
+Métrique 2838 mise à jour:  -> FR
+Métrique 2839 mise à jour:  -> FR
+Métrique 2840 mise à jour:  -> FR
+Métrique 2841 mise à jour:  -> FR
+Métrique 2842 mise à jour:  -> FR
+Métrique 2766 mise à jour:  -> FR
+Métrique 2767 mise à jour:  -> FR
+Métrique 2768 mise à jour:  -> FR
+Métrique 2769 mise à jour:  -> FR
+Métrique 2770 mise à jour:  -> FR
+Métrique 2771 mise à jour:  -> FR
+Métrique 2772 mise à jour:  -> FR
+Métrique 2773 mise à jour:  -> FR
+Métrique 2800 mise à jour:  -> FR
+Métrique 2801 mise à jour:  -> FR
+Métrique 2802 mise à jour:  -> FR
+Métrique 2803 mise à jour:  -> FR
+Métrique 2804 mise à jour:  -> FR
+Métrique 2805 mise à jour:  -> FR
+Métrique 2814 mise à jour:  -> FR
+Métrique 2815 mise à jour:  -> FR
+Métrique 2816 mise à jour:  -> FR
+Métrique 2817 mise à jour:  -> FR
+Métrique 2818 mise à jour:  -> FR
+Métrique 2819 mise à jour:  -> FR
+Métrique 2820 mise à jour:  -> FR
+Métrique 2852 mise à jour:  -> MX
+Métrique 2854 mise à jour:  -> MX
+Métrique 2855 mise à jour:  -> MX
+Métrique 2856 mise à jour:  -> MX
+Métrique 2857 mise à jour:  -> MX
+Métrique 2859 mise à jour:  -> MX
+Métrique 2860 mise à jour:  -> MX
+Métrique 2853 mise à jour:  -> MX
+Métrique 2858 mise à jour:  -> MX
+Métrique 3090 mise à jour:  -> MX
+Métrique 3091 mise à jour:  -> MX
+Métrique 3092 mise à jour:  -> UK
+Métrique 3093 mise à jour:  -> UK
+Métrique 3094 mise à jour:  -> UK
+Métrique 3095 mise à jour:  -> UK
+Métrique 3096 mise à jour:  -> UK
+Métrique 3097 mise à jour:  -> UK
+Métrique 3098 mise à jour:  -> IT
+Métrique 3099 mise à jour:  -> IT
+Métrique 3100 mise à jour:  -> IT
+Métrique 3101 mise à jour:  -> IT
+Métrique 3102 mise à jour:  -> IT
+Métrique 3103 mise à jour:  -> IT
+Métrique 3104 mise à jour:  -> FR
+Métrique 3105 mise à jour:  -> FR
+Métrique 3106 mise à jour:  -> FR
+Métrique 3107 mise à jour:  -> FR
+Métrique 3108 mise à jour:  -> FR
+Métrique 3109 mise à jour:  -> FR
+Métrique 3110 mise à jour:  -> ES
+Métrique 3111 mise à jour:  -> ES
+Métrique 3112 mise à jour:  -> ES
+Métrique 3113 mise à jour:  -> ES
+Métrique 3114 mise à jour:  -> ES
+Métrique 3115 mise à jour:  -> ES
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Not Found: /api/export
+Not Found: /favicon.ico
+Not Found: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/summary_by_date/
+Internal Server Error: /api/metrics/summary_by_date/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+Looking for config file at: D:\Projet_rd\backend\Dashboard_backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+API request failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/Lists?apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+API request failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/Lists?apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+Processing account [FR] astucecorner-k.com (90293)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+Processing account [FR] mesemplettesvip-k.com (90280)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Métrique 4019 mise à jour:  -> FR
+Métrique 4020 mise à jour:  -> FR
+Métrique 4021 mise à jour:  -> FR
+Métrique 4022 mise à jour:  -> FR
+Métrique 4023 mise à jour:  -> FR
+Métrique 4024 mise à jour:  -> FR
+Métrique 4025 mise à jour:  -> FR
+Métrique 4026 mise à jour:  -> FR
+Métrique 3997 mise à jour:  -> FR
+Métrique 3998 mise à jour:  -> FR
+Métrique 3999 mise à jour:  -> FR
+Métrique 4000 mise à jour:  -> FR
+Métrique 4001 mise à jour:  -> FR
+Métrique 4002 mise à jour:  -> FR
+Métrique 4003 mise à jour:  -> FR
+Métrique 4014 mise à jour:  -> FR
+Métrique 4015 mise à jour:  -> FR
+Métrique 4016 mise à jour:  -> FR
+Métrique 4017 mise à jour:  -> FR
+Métrique 4018 mise à jour:  -> FR
+Métrique 4042 mise à jour:  -> FR
+Métrique 4043 mise à jour:  -> FR
+Métrique 4044 mise à jour:  -> FR
+Métrique 3971 mise à jour:  -> FR
+Métrique 3972 mise à jour:  -> FR
+Métrique 3973 mise à jour:  -> FR
+Métrique 3974 mise à jour:  -> FR
+Métrique 3975 mise à jour:  -> FR
+Métrique 3976 mise à jour:  -> FR
+Métrique 3977 mise à jour:  -> FR
+Métrique 4039 mise à jour:  -> FR
+Métrique 4040 mise à jour:  -> FR
+Métrique 4041 mise à jour:  -> FR
+Métrique 4033 mise à jour:  -> FR
+Métrique 4034 mise à jour:  -> FR
+Métrique 4035 mise à jour:  -> FR
+Métrique 4036 mise à jour:  -> FR
+Métrique 4037 mise à jour:  -> FR
+Métrique 3960 mise à jour:  -> FR
+Métrique 3961 mise à jour:  -> FR
+Métrique 3962 mise à jour:  -> FR
+Métrique 3963 mise à jour:  -> FR
+Métrique 3964 mise à jour:  -> FR
+Métrique 3965 mise à jour:  -> FR
+Métrique 3978 mise à jour:  -> FR
+Métrique 3979 mise à jour:  -> FR
+Métrique 3980 mise à jour:  -> FR
+Métrique 3981 mise à jour:  -> FR
+Métrique 3982 mise à jour:  -> FR
+Métrique 4057 mise à jour:  -> IT
+Métrique 4056 mise à jour:  -> IT
+Métrique 4055 mise à jour:  -> IT
+Métrique 4054 mise à jour:  -> IT
+Métrique 4053 mise à jour:  -> IT
+Métrique 4052 mise à jour:  -> IT
+Métrique 3933 mise à jour:  -> DE
+Métrique 3934 mise à jour:  -> DE
+Métrique 3935 mise à jour:  -> DE
+Métrique 3936 mise à jour:  -> DE
+Métrique 4073 mise à jour:  -> UK
+Métrique 4072 mise à jour:  -> UK
+Métrique 4071 mise à jour:  -> UK
+Métrique 3924 mise à jour:  -> BENL
+Métrique 3925 mise à jour:  -> BENL
+Métrique 3926 mise à jour:  -> BENL
+Métrique 3927 mise à jour:  -> BENL
+Métrique 3928 mise à jour:  -> BENL
+Métrique 3929 mise à jour:  -> BENL
+Métrique 3930 mise à jour:  -> BENL
+Métrique 3911 mise à jour:  -> AU
+Métrique 3912 mise à jour:  -> AU
+Métrique 3913 mise à jour:  -> AU
+Métrique 3914 mise à jour:  -> AU
+Métrique 4006 mise à jour:  -> FR
+Métrique 4007 mise à jour:  -> FR
+Métrique 4008 mise à jour:  -> FR
+Métrique 4009 mise à jour:  -> FR
+Métrique 4010 mise à jour:  -> FR
+Métrique 4011 mise à jour:  -> FR
+Métrique 4012 mise à jour:  -> FR
+Métrique 4051 mise à jour:  -> IT
+Métrique 4050 mise à jour:  -> IT
+Métrique 4049 mise à jour:  -> IT
+Métrique 4048 mise à jour:  -> IT
+Métrique 4047 mise à jour:  -> IT
+Métrique 4046 mise à jour:  -> IT
+Métrique 4045 mise à jour:  -> IT
+Métrique 4083 mise à jour:  -> UK
+Métrique 4082 mise à jour:  -> UK
+Métrique 4081 mise à jour:  -> UK
+Métrique 4080 mise à jour:  -> UK
+Métrique 4070 mise à jour:  -> NL
+Métrique 4069 mise à jour:  -> NL
+Métrique 4068 mise à jour:  -> NL
+Métrique 4067 mise à jour:  -> NL
+Métrique 4066 mise à jour:  -> NL
+Métrique 4065 mise à jour:  -> NL
+Métrique 3940 mise à jour:  -> ES
+Métrique 3941 mise à jour:  -> ES
+Métrique 3942 mise à jour:  -> ES
+Métrique 3943 mise à jour:  -> ES
+Métrique 3944 mise à jour:  -> ES
+Métrique 3945 mise à jour:  -> ES
+Métrique 4027 mise à jour:  -> FR
+Métrique 4028 mise à jour:  -> FR
+Métrique 4029 mise à jour:  -> FR
+Métrique 4030 mise à jour:  -> FR
+Métrique 4031 mise à jour:  -> FR
+Métrique 4032 mise à jour:  -> FR
+Métrique 3931 mise à jour:  -> BE NL
+Métrique 3932 mise à jour:  -> BE NL
+Métrique 3920 mise à jour:  -> CA EN
+Métrique 3921 mise à jour:  -> CA EN
+Métrique 3922 mise à jour:  -> CA EN
+Métrique 3923 mise à jour:  -> CA EN
+Métrique 3937 mise à jour:  -> CA FR
+Métrique 3938 mise à jour:  -> CA FR
+Métrique 3939 mise à jour:  -> CA FR
+Métrique 3906 mise à jour:  -> AU
+Métrique 3907 mise à jour:  -> AU
+Métrique 3908 mise à jour:  -> AU
+Métrique 3909 mise à jour:  -> AU
+Métrique 3910 mise à jour:  -> AU
+Métrique 4004 mise à jour:  -> FR
+Métrique 4005 mise à jour:  -> FR
+Métrique 4013 mise à jour:  -> FR
+Métrique 4079 mise à jour:  -> UK
+Métrique 4078 mise à jour:  -> UK
+Métrique 4077 mise à jour:  -> UK
+Métrique 4076 mise à jour:  -> UK
+Métrique 4075 mise à jour:  -> UK
+Métrique 4074 mise à jour:  -> UK
+Métrique 3983 mise à jour:  -> FR
+Métrique 3984 mise à jour:  -> FR
+Métrique 3985 mise à jour:  -> FR
+Métrique 3986 mise à jour:  -> FR
+Métrique 3987 mise à jour:  -> FR
+Métrique 3988 mise à jour:  -> FR
+Métrique 3989 mise à jour:  -> FR
+Métrique 3990 mise à jour:  -> FR
+Métrique 3991 mise à jour:  -> FR
+Métrique 4064 mise à jour:  -> NL
+Métrique 4063 mise à jour:  -> NL
+Métrique 4062 mise à jour:  -> NL
+Métrique 4061 mise à jour:  -> NL
+Métrique 4060 mise à jour:  -> NL
+Métrique 4059 mise à jour:  -> NL
+Métrique 4058 mise à jour:  -> NL
+Métrique 3915 mise à jour:  -> AU
+Métrique 3916 mise à jour:  -> AU
+Métrique 3917 mise à jour:  -> AU
+Métrique 3918 mise à jour:  -> AU
+Métrique 3919 mise à jour:  -> AU
+Métrique 3952 mise à jour:  -> ES
+Métrique 3953 mise à jour:  -> ES
+Métrique 3954 mise à jour:  -> ES
+Métrique 3955 mise à jour:  -> ES
+Métrique 3956 mise à jour:  -> ES
+Métrique 3957 mise à jour:  -> ES
+Métrique 3958 mise à jour:  -> ES
+Métrique 3966 mise à jour:  -> FR
+Métrique 3967 mise à jour:  -> FR
+Métrique 3968 mise à jour:  -> FR
+Métrique 3969 mise à jour:  -> FR
+Métrique 3970 mise à jour:  -> FR
+Métrique 3946 mise à jour:  -> FR
+Métrique 3947 mise à jour:  -> FR
+Métrique 3948 mise à jour:  -> FR
+Métrique 3949 mise à jour:  -> FR
+Métrique 3950 mise à jour:  -> FR
+Métrique 3951 mise à jour:  -> FR
+Métrique 4038 mise à jour:  -> FR
+Métrique 3992 mise à jour:  -> FR
+Métrique 3993 mise à jour:  -> FR
+Métrique 3996 mise à jour:  -> FR
+Métrique 3994 mise à jour:  -> FR
+Métrique 3995 mise à jour:  -> FR
+Métrique 3959 mise à jour:  -> FR
+Métrique 3705 mise à jour:  -> FR
+Métrique 3703 mise à jour:  -> FR
+Métrique 3704 mise à jour:  -> FR
+Métrique 3789 mise à jour:  -> FR
+Métrique 3790 mise à jour:  -> FR
+Métrique 3791 mise à jour:  -> FR
+Métrique 3792 mise à jour:  -> FR
+Métrique 3793 mise à jour:  -> FR
+Métrique 3794 mise à jour:  -> FR
+Métrique 3795 mise à jour:  -> FR
+Métrique 3698 mise à jour:  -> DE
+Métrique 3699 mise à jour:  -> DE
+Métrique 3700 mise à jour:  -> DE
+Métrique 3701 mise à jour:  -> DE
+Métrique 3702 mise à jour:  -> DE
+Métrique 3733 mise à jour:  -> FR
+Métrique 3734 mise à jour:  -> FR
+Métrique 3735 mise à jour:  -> FR
+Métrique 3736 mise à jour:  -> FR
+Métrique 3737 mise à jour:  -> FR
+Métrique 3738 mise à jour:  -> FR
+Métrique 3739 mise à jour:  -> FR
+Métrique 3740 mise à jour:  -> FR
+Métrique 3741 mise à jour:  -> FR
+Métrique 3742 mise à jour:  -> FR
+Métrique 3743 mise à jour:  -> FR
+Métrique 3744 mise à jour:  -> FR
+Métrique 3745 mise à jour:  -> FR
+Métrique 3746 mise à jour:  -> FR
+Métrique 3747 mise à jour:  -> FR
+Métrique 3748 mise à jour:  -> FR
+Métrique 3749 mise à jour:  -> FR
+Métrique 3726 mise à jour:  -> FR
+Métrique 3727 mise à jour:  -> FR
+Métrique 3728 mise à jour:  -> FR
+Métrique 3729 mise à jour:  -> FR
+Métrique 3730 mise à jour:  -> FR
+Métrique 3731 mise à jour:  -> FR
+Métrique 3732 mise à jour:  -> FR
+Métrique 3884 mise à jour:  -> IT
+Métrique 3885 mise à jour:  -> IT
+Métrique 3886 mise à jour:  -> IT
+Métrique 3887 mise à jour:  -> IT
+Métrique 3888 mise à jour:  -> IT
+Métrique 3889 mise à jour:  -> IT
+Métrique 3890 mise à jour:  -> IT
+Métrique 3876 mise à jour:  -> IT
+Métrique 3877 mise à jour:  -> IT
+Métrique 3878 mise à jour:  -> IT
+Métrique 3879 mise à jour:  -> IT
+Métrique 3880 mise à jour:  -> IT
+Métrique 3881 mise à jour:  -> IT
+Métrique 3882 mise à jour:  -> IT
+Métrique 3883 mise à jour:  -> IT
+Métrique 3804 mise à jour:  -> IT
+Métrique 3805 mise à jour:  -> IT
+Métrique 3806 mise à jour:  -> IT
+Métrique 3807 mise à jour:  -> IT
+Métrique 3808 mise à jour:  -> IT
+Métrique 3809 mise à jour:  -> IT
+Métrique 3810 mise à jour:  -> IT
+Métrique 3796 mise à jour:  -> IT
+Métrique 3797 mise à jour:  -> IT
+Métrique 3798 mise à jour:  -> IT
+Métrique 3799 mise à jour:  -> IT
+Métrique 3800 mise à jour:  -> IT
+Métrique 3801 mise à jour:  -> IT
+Métrique 3802 mise à jour:  -> IT
+Métrique 3803 mise à jour:  -> IT
+Métrique 3860 mise à jour:  -> IT
+Métrique 3861 mise à jour:  -> IT
+Métrique 3862 mise à jour:  -> IT
+Métrique 3863 mise à jour:  -> IT
+Métrique 3864 mise à jour:  -> IT
+Métrique 3865 mise à jour:  -> IT
+Métrique 3866 mise à jour:  -> IT
+Métrique 3867 mise à jour:  -> IT
+Métrique 3891 mise à jour:  -> IT
+Métrique 3892 mise à jour:  -> IT
+Métrique 3893 mise à jour:  -> IT
+Métrique 3894 mise à jour:  -> IT
+Métrique 3895 mise à jour:  -> IT
+Métrique 3896 mise à jour:  -> IT
+Métrique 3897 mise à jour:  -> IT
+Métrique 3898 mise à jour:  -> IT
+Métrique 3868 mise à jour:  -> IT
+Métrique 3869 mise à jour:  -> IT
+Métrique 3870 mise à jour:  -> IT
+Métrique 3871 mise à jour:  -> IT
+Métrique 3872 mise à jour:  -> IT
+Métrique 3873 mise à jour:  -> IT
+Métrique 3874 mise à jour:  -> IT
+Métrique 3875 mise à jour:  -> IT
+Métrique 3756 mise à jour:  -> FR
+Métrique 3757 mise à jour:  -> FR
+Métrique 3842 mise à jour:  -> IT
+Métrique 3843 mise à jour:  -> IT
+Métrique 3844 mise à jour:  -> IT
+Métrique 3845 mise à jour:  -> IT
+Métrique 3846 mise à jour:  -> IT
+Métrique 3847 mise à jour:  -> IT
+Métrique 3848 mise à jour:  -> IT
+Métrique 3849 mise à jour:  -> IT
+Métrique 3850 mise à jour:  -> IT
+Métrique 3834 mise à jour:  -> IT
+Métrique 3835 mise à jour:  -> IT
+Métrique 3836 mise à jour:  -> IT
+Métrique 3837 mise à jour:  -> IT
+Métrique 3838 mise à jour:  -> IT
+Métrique 3839 mise à jour:  -> IT
+Métrique 3840 mise à jour:  -> IT
+Métrique 3841 mise à jour:  -> IT
+Métrique 3819 mise à jour:  -> IT
+Métrique 3820 mise à jour:  -> IT
+Métrique 3821 mise à jour:  -> IT
+Métrique 3822 mise à jour:  -> IT
+Métrique 3823 mise à jour:  -> IT
+Métrique 3824 mise à jour:  -> IT
+Métrique 3825 mise à jour:  -> IT
+Métrique 3826 mise à jour:  -> IT
+Métrique 3827 mise à jour:  -> IT
+Métrique 3828 mise à jour:  -> IT
+Métrique 3829 mise à jour:  -> IT
+Métrique 3830 mise à jour:  -> IT
+Métrique 3831 mise à jour:  -> IT
+Métrique 3832 mise à jour:  -> IT
+Métrique 3833 mise à jour:  -> IT
+Métrique 3811 mise à jour:  -> IT
+Métrique 3812 mise à jour:  -> IT
+Métrique 3813 mise à jour:  -> IT
+Métrique 3814 mise à jour:  -> IT
+Métrique 3815 mise à jour:  -> IT
+Métrique 3816 mise à jour:  -> IT
+Métrique 3817 mise à jour:  -> IT
+Métrique 3818 mise à jour:  -> IT
+Métrique 3899 mise à jour:  -> UK
+Métrique 3900 mise à jour:  -> UK
+Métrique 3901 mise à jour:  -> UK
+Métrique 3902 mise à jour:  -> UK
+Métrique 3903 mise à jour:  -> UK
+Métrique 3904 mise à jour:  -> UK
+Métrique 3905 mise à jour:  -> UK
+Métrique 3851 mise à jour:  -> IT
+Métrique 3852 mise à jour:  -> IT
+Métrique 3853 mise à jour:  -> IT
+Métrique 3854 mise à jour:  -> IT
+Métrique 3855 mise à jour:  -> IT
+Métrique 3856 mise à jour:  -> IT
+Métrique 3857 mise à jour:  -> IT
+Métrique 3858 mise à jour:  -> IT
+Métrique 3859 mise à jour:  -> IT
+Métrique 3750 mise à jour:  -> FR
+Métrique 3751 mise à jour:  -> FR
+Métrique 3752 mise à jour:  -> FR
+Métrique 3753 mise à jour:  -> FR
+Métrique 3754 mise à jour:  -> FR
+Métrique 3755 mise à jour:  -> FR
+Métrique 3706 mise à jour:  -> FR
+Métrique 3707 mise à jour:  -> FR
+Métrique 3708 mise à jour:  -> FR
+Métrique 3709 mise à jour:  -> FR
+Métrique 3710 mise à jour:  -> FR
+Métrique 3719 mise à jour:  -> FR
+Métrique 3720 mise à jour:  -> FR
+Métrique 3721 mise à jour:  -> FR
+Métrique 3722 mise à jour:  -> FR
+Métrique 3723 mise à jour:  -> FR
+Métrique 3724 mise à jour:  -> FR
+Métrique 3725 mise à jour:  -> FR
+Métrique 3711 mise à jour:  -> FR
+Métrique 3712 mise à jour:  -> FR
+Métrique 3713 mise à jour:  -> FR
+Métrique 3714 mise à jour:  -> FR
+Métrique 3715 mise à jour:  -> FR
+Métrique 3716 mise à jour:  -> FR
+Métrique 3717 mise à jour:  -> FR
+Métrique 3718 mise à jour:  -> FR
+Métrique 3678 mise à jour:  -> FR
+Métrique 3679 mise à jour:  -> FR
+Métrique 3680 mise à jour:  -> FR
+Métrique 3681 mise à jour:  -> FR
+Métrique 3682 mise à jour:  -> FR
+Métrique 3683 mise à jour:  -> FR
+Métrique 3684 mise à jour:  -> FR
+Métrique 3671 mise à jour:  -> BEFR
+Métrique 3672 mise à jour:  -> BEFR
+Métrique 3673 mise à jour:  -> BEFR
+Métrique 3674 mise à jour:  -> BEFR
+Métrique 3675 mise à jour:  -> BEFR
+Métrique 3676 mise à jour:  -> BEFR
+Métrique 3677 mise à jour:  -> BEFR
+Métrique 3654 mise à jour:  -> FR
+Métrique 3655 mise à jour:  -> FR
+Métrique 3656 mise à jour:  -> FR
+Métrique 3657 mise à jour:  -> FR
+Métrique 3658 mise à jour:  -> FR
+Métrique 3659 mise à jour:  -> FR
+Métrique 3660 mise à jour:  -> FR
+Métrique 3661 mise à jour:  -> FR
+Métrique 3685 mise à jour:  -> FR
+Métrique 3686 mise à jour:  -> FR
+Métrique 3687 mise à jour:  -> FR
+Métrique 3662 mise à jour:  -> FR
+Métrique 3663 mise à jour:  -> FR
+Métrique 3664 mise à jour:  -> FR
+Métrique 3665 mise à jour:  -> FR
+Métrique 3666 mise à jour:  -> FR
+Métrique 3667 mise à jour:  -> FR
+Métrique 3668 mise à jour:  -> FR
+Métrique 3669 mise à jour:  -> FR
+Métrique 3670 mise à jour:  -> FR
+Métrique 3688 mise à jour:  -> FR
+Métrique 3689 mise à jour:  -> FR
+Métrique 3690 mise à jour:  -> FR
+Métrique 3691 mise à jour:  -> FR
+Métrique 3692 mise à jour:  -> FR
+Métrique 3693 mise à jour:  -> FR
+Métrique 3694 mise à jour:  -> FR
+Métrique 3695 mise à jour:  -> FR
+Métrique 3696 mise à jour:  -> FR
+Métrique 3697 mise à jour:  -> FR
+Métrique 3635 mise à jour:  -> FR
+Métrique 3636 mise à jour:  -> FR
+Métrique 3637 mise à jour:  -> FR
+Métrique 3638 mise à jour:  -> FR
+Métrique 3639 mise à jour:  -> FR
+Métrique 3640 mise à jour:  -> FR
+Métrique 3641 mise à jour:  -> FR
+Métrique 3642 mise à jour:  -> FR
+Métrique 3643 mise à jour:  -> FR
+Métrique 3644 mise à jour:  -> FR
+Métrique 3645 mise à jour:  -> NL
+Métrique 3646 mise à jour:  -> NL
+Métrique 3647 mise à jour:  -> NL
+Métrique 3648 mise à jour:  -> NL
+Métrique 3649 mise à jour:  -> NL
+Métrique 3650 mise à jour:  -> NL
+Métrique 3651 mise à jour:  -> NL
+Métrique 3652 mise à jour:  -> NL
+Métrique 3653 mise à jour:  -> NL
+Métrique 3625 mise à jour:  -> FR
+Métrique 3626 mise à jour:  -> FR
+Métrique 3627 mise à jour:  -> FR
+Métrique 3628 mise à jour:  -> FR
+Métrique 3629 mise à jour:  -> FR
+Métrique 3630 mise à jour:  -> FR
+Métrique 3631 mise à jour:  -> FR
+Métrique 3632 mise à jour:  -> FR
+Métrique 3633 mise à jour:  -> FR
+Métrique 3634 mise à jour:  -> FR
+Métrique 3618 mise à jour:  -> FR
+Métrique 3619 mise à jour:  -> FR
+Métrique 3620 mise à jour:  -> FR
+Métrique 3621 mise à jour:  -> FR
+Métrique 3622 mise à jour:  -> FR
+Métrique 3623 mise à jour:  -> FR
+Métrique 3624 mise à jour:  -> FR
+Métrique 3585 mise à jour:  -> FR
+Métrique 3586 mise à jour:  -> FR
+Métrique 3587 mise à jour:  -> FR
+Métrique 3588 mise à jour:  -> FR
+Métrique 3589 mise à jour:  -> FR
+Métrique 3590 mise à jour:  -> FR
+Métrique 3591 mise à jour:  -> FR
+Métrique 3592 mise à jour:  -> FR
+Métrique 3601 mise à jour:  -> FR
+Métrique 3602 mise à jour:  -> FR
+Métrique 3603 mise à jour:  -> FR
+Métrique 3604 mise à jour:  -> FR
+Métrique 3605 mise à jour:  -> FR
+Métrique 3606 mise à jour:  -> FR
+Métrique 3607 mise à jour:  -> FR
+Métrique 3608 mise à jour:  -> FR
+Métrique 3609 mise à jour:  -> FR
+Métrique 3593 mise à jour:  -> FR
+Métrique 3594 mise à jour:  -> FR
+Métrique 3595 mise à jour:  -> FR
+Métrique 3596 mise à jour:  -> FR
+Métrique 3597 mise à jour:  -> FR
+Métrique 3598 mise à jour:  -> FR
+Métrique 3599 mise à jour:  -> FR
+Métrique 3600 mise à jour:  -> FR
+Métrique 3610 mise à jour:  -> FR
+Métrique 3611 mise à jour:  -> FR
+Métrique 3612 mise à jour:  -> FR
+Métrique 3613 mise à jour:  -> FR
+Métrique 3614 mise à jour:  -> FR
+Métrique 3615 mise à jour:  -> FR
+Métrique 3616 mise à jour:  -> FR
+Métrique 3617 mise à jour:  -> FR
+Métrique 3570 mise à jour:  -> FR
+Métrique 3571 mise à jour:  -> FR
+Métrique 3572 mise à jour:  -> FR
+Métrique 3573 mise à jour:  -> FR
+Métrique 3574 mise à jour:  -> FR
+Métrique 3575 mise à jour:  -> FR
+Métrique 3576 mise à jour:  -> FR
+Métrique 3584 mise à jour:  -> PL
+Métrique 3534 mise à jour:  -> AU
+Métrique 3535 mise à jour:  -> AU
+Métrique 3536 mise à jour:  -> AU
+Métrique 3537 mise à jour:  -> AU
+Métrique 3538 mise à jour:  -> AU
+Métrique 3539 mise à jour:  -> AU
+Métrique 3540 mise à jour:  -> AU
+Métrique 3541 mise à jour:  -> ES
+Métrique 3542 mise à jour:  -> ES
+Métrique 3543 mise à jour:  -> ES
+Métrique 3544 mise à jour:  -> ES
+Métrique 3545 mise à jour:  -> ES
+Métrique 3577 mise à jour:  -> IT
+Métrique 3578 mise à jour:  -> IT
+Métrique 3579 mise à jour:  -> IT
+Métrique 3580 mise à jour:  -> IT
+Métrique 3581 mise à jour:  -> IT
+Métrique 3582 mise à jour:  -> IT
+Métrique 3583 mise à jour:  -> IT
+Métrique 3555 mise à jour:  -> FR
+Métrique 3556 mise à jour:  -> FR
+Métrique 3557 mise à jour:  -> FR
+Métrique 3558 mise à jour:  -> FR
+Métrique 3559 mise à jour:  -> FR
+Métrique 3560 mise à jour:  -> FR
+Métrique 3561 mise à jour:  -> FR
+Métrique 3562 mise à jour:  -> FR
+Métrique 3563 mise à jour:  -> FR
+Métrique 3564 mise à jour:  -> FR
+Métrique 3565 mise à jour:  -> FR
+Métrique 3566 mise à jour:  -> FR
+Métrique 3567 mise à jour:  -> FR
+Métrique 3568 mise à jour:  -> FR
+Métrique 3569 mise à jour:  -> FR
+Métrique 3525 mise à jour:  -> FR
+Métrique 3526 mise à jour:  -> FR
+Métrique 3527 mise à jour:  -> FR
+Métrique 3528 mise à jour:  -> FR
+Métrique 3529 mise à jour:  -> FR
+Métrique 3530 mise à jour:  -> FR
+Métrique 3531 mise à jour:  -> FR
+Métrique 3532 mise à jour:  -> FR
+Métrique 3533 mise à jour:  -> FR
+Métrique 3546 mise à jour:  -> FR
+Métrique 3547 mise à jour:  -> FR
+Métrique 3548 mise à jour:  -> FR
+Métrique 3549 mise à jour:  -> FR
+Métrique 3550 mise à jour:  -> FR
+Métrique 3551 mise à jour:  -> FR
+Métrique 3552 mise à jour:  -> FR
+Métrique 3553 mise à jour:  -> FR
+Métrique 3554 mise à jour:  -> FR
+Métrique 3486 mise à jour:  -> FR
+Métrique 3487 mise à jour:  -> FR
+Métrique 3488 mise à jour:  -> FR
+Métrique 3489 mise à jour:  -> FR
+Métrique 3490 mise à jour:  -> FR
+Métrique 3491 mise à jour:  -> FR
+Métrique 3414 mise à jour:  -> FR
+Métrique 3415 mise à jour:  -> FR
+Métrique 3416 mise à jour:  -> FR
+Métrique 3417 mise à jour:  -> FR
+Métrique 3418 mise à jour:  -> FR
+Métrique 3419 mise à jour:  -> FR
+Métrique 3420 mise à jour:  -> FR
+Métrique 3507 mise à jour:  -> FR
+Métrique 3508 mise à jour:  -> FR
+Métrique 3509 mise à jour:  -> FR
+Métrique 3510 mise à jour:  -> FR
+Métrique 3511 mise à jour:  -> FR
+Métrique 3512 mise à jour:  -> FR
+Métrique 3513 mise à jour:  -> FR
+Métrique 3514 mise à jour:  -> FR
+Métrique 3515 mise à jour:  -> FR
+Métrique 3478 mise à jour:  -> FR
+Métrique 3479 mise à jour:  -> FR
+Métrique 3480 mise à jour:  -> FR
+Métrique 3481 mise à jour:  -> FR
+Métrique 3482 mise à jour:  -> FR
+Métrique 3483 mise à jour:  -> FR
+Métrique 3484 mise à jour:  -> FR
+Métrique 3485 mise à jour:  -> FR
+Métrique 3402 mise à jour:  -> AU
+Métrique 3403 mise à jour:  -> AU
+Métrique 3404 mise à jour:  -> AU
+Métrique 3405 mise à jour:  -> AU
+Métrique 3406 mise à jour:  -> AU
+Métrique 3401 mise à jour:  -> AU
+Métrique 3441 mise à jour:  -> FR
+Métrique 3442 mise à jour:  -> FR
+Métrique 3443 mise à jour:  -> FR
+Métrique 3444 mise à jour:  -> FR
+Métrique 3445 mise à jour:  -> FR
+Métrique 3446 mise à jour:  -> FR
+Métrique 3429 mise à jour:  -> FR
+Métrique 3430 mise à jour:  -> FR
+Métrique 3431 mise à jour:  -> FR
+Métrique 3432 mise à jour:  -> FR
+Métrique 3433 mise à jour:  -> FR
+Métrique 3434 mise à jour:  -> FR
+Métrique 3455 mise à jour:  -> FR
+Métrique 3463 mise à jour:  -> FR
+Métrique 3464 mise à jour:  -> FR
+Métrique 3465 mise à jour:  -> FR
+Métrique 3466 mise à jour:  -> FR
+Métrique 3467 mise à jour:  -> FR
+Métrique 3468 mise à jour:  -> FR
+Métrique 3469 mise à jour:  -> FR
+Métrique 3470 mise à jour:  -> FR
+Métrique 3435 mise à jour:  -> FR
+Métrique 3436 mise à jour:  -> FR
+Métrique 3437 mise à jour:  -> FR
+Métrique 3438 mise à jour:  -> FR
+Métrique 3439 mise à jour:  -> FR
+Métrique 3440 mise à jour:  -> FR
+Métrique 3392 mise à jour:  -> FR
+Métrique 3393 mise à jour:  -> FR
+Métrique 3394 mise à jour:  -> FR
+Métrique 3395 mise à jour:  -> FR
+Métrique 3396 mise à jour:  -> FR
+Métrique 3397 mise à jour:  -> FR
+Métrique 3398 mise à jour:  -> FR
+Métrique 3399 mise à jour:  -> FR
+Métrique 3400 mise à jour:  -> FR
+Métrique 3447 mise à jour:  -> FR
+Métrique 3448 mise à jour:  -> FR
+Métrique 3449 mise à jour:  -> FR
+Métrique 3450 mise à jour:  -> FR
+Métrique 3451 mise à jour:  -> FR
+Métrique 3452 mise à jour:  -> FR
+Métrique 3453 mise à jour:  -> FR
+Métrique 3454 mise à jour:  -> FR
+Métrique 3407 mise à jour:  -> FR
+Métrique 3408 mise à jour:  -> FR
+Métrique 3409 mise à jour:  -> FR
+Métrique 3410 mise à jour:  -> FR
+Métrique 3411 mise à jour:  -> FR
+Métrique 3412 mise à jour:  -> FR
+Métrique 3413 mise à jour:  -> FR
+Métrique 3492 mise à jour:  -> FR
+Métrique 3493 mise à jour:  -> FR
+Métrique 3494 mise à jour:  -> FR
+Métrique 3495 mise à jour:  -> FR
+Métrique 3496 mise à jour:  -> FR
+Métrique 3497 mise à jour:  -> FR
+Métrique 3498 mise à jour:  -> FR
+Métrique 3499 mise à jour:  -> FR
+Métrique 3421 mise à jour:  -> FR
+Métrique 3422 mise à jour:  -> FR
+Métrique 3423 mise à jour:  -> FR
+Métrique 3424 mise à jour:  -> FR
+Métrique 3425 mise à jour:  -> FR
+Métrique 3426 mise à jour:  -> FR
+Métrique 3427 mise à jour:  -> FR
+Métrique 3428 mise à jour:  -> FR
+Métrique 3456 mise à jour:  -> FR
+Métrique 3457 mise à jour:  -> FR
+Métrique 3458 mise à jour:  -> FR
+Métrique 3459 mise à jour:  -> FR
+Métrique 3460 mise à jour:  -> FR
+Métrique 3461 mise à jour:  -> FR
+Métrique 3462 mise à jour:  -> FR
+Métrique 3471 mise à jour:  -> FR
+Métrique 3472 mise à jour:  -> FR
+Métrique 3473 mise à jour:  -> FR
+Métrique 3474 mise à jour:  -> FR
+Métrique 3475 mise à jour:  -> FR
+Métrique 3476 mise à jour:  -> FR
+Métrique 3477 mise à jour:  -> FR
+Métrique 3505 mise à jour:  -> ES
+Métrique 3500 mise à jour:  -> DE
+Métrique 3501 mise à jour:  -> NO
+Métrique 3502 mise à jour:  -> SE
+Métrique 3506 mise à jour:  -> UK
+Métrique 3503 mise à jour:  -> SG
+Métrique 3504 mise à jour:  -> NZ
+Métrique 3516 mise à jour:  -> MX
+Métrique 3518 mise à jour:  -> MX
+Métrique 3519 mise à jour:  -> MX
+Métrique 3520 mise à jour:  -> MX
+Métrique 3521 mise à jour:  -> MX
+Métrique 3522 mise à jour:  -> MX
+Métrique 3523 mise à jour:  -> MX
+Métrique 3524 mise à jour:  -> MX
+Métrique 3517 mise à jour:  -> MX
+Métrique 3764 mise à jour:  -> MX
+Métrique 3765 mise à jour:  -> UK
+Métrique 3766 mise à jour:  -> UK
+Métrique 3767 mise à jour:  -> UK
+Métrique 3768 mise à jour:  -> UK
+Métrique 3769 mise à jour:  -> UK
+Métrique 3770 mise à jour:  -> UK
+Métrique 3771 mise à jour:  -> IT
+Métrique 3772 mise à jour:  -> IT
+Métrique 3773 mise à jour:  -> IT
+Métrique 3774 mise à jour:  -> IT
+Métrique 3775 mise à jour:  -> IT
+Métrique 3776 mise à jour:  -> IT
+Métrique 3777 mise à jour:  -> FR
+Métrique 3778 mise à jour:  -> FR
+Métrique 3779 mise à jour:  -> FR
+Métrique 3780 mise à jour:  -> FR
+Métrique 3781 mise à jour:  -> FR
+Métrique 3782 mise à jour:  -> FR
+Métrique 3783 mise à jour:  -> ES
+Métrique 3784 mise à jour:  -> ES
+Métrique 3785 mise à jour:  -> ES
+Métrique 3786 mise à jour:  -> ES
+Métrique 3787 mise à jour:  -> ES
+Métrique 3788 mise à jour:  -> ES
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Looking for config file at: D:\Projet_rd\backend\Dashboard_backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+API request failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/Lists?apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+API request failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/Lists?apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=hree6Psjtu3qX7BLcW73&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=hree6Psjtu3qX7BLcW73&grouping=DomainFamily
+Processing account [FR] astucecorner-k.com (90293)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=krE2gG8BmPlnh12Ytg7i&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=krE2gG8BmPlnh12Ytg7i&grouping=DomainFamily
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+Processing account [FR] mesemplettesvip-k.com (90280)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-24&endDate=2025-03-25&apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Not Found: /api/export
+Not Found: /favicon.ico
+Métrique 4088 mise à jour:  -> FR
+Métrique 4089 mise à jour:  -> FR
+Métrique 4087 mise à jour:  -> DE
+Métrique 4086 mise à jour:  -> PL
+Métrique 4085 mise à jour:  -> FR
+Métrique 4084 mise à jour:  -> FR
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Not Found: /api/export/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Looking for config file at: D:\Projet_rd\backend\Dashboard_backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+API request failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/Lists?apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+API request failed: 403 Client Error: Forbidden for url: https://api5.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=c00PehL2j9mfTcIg5Slp&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api5.esv2.com/v2/Api/Lists?apiKey=c00PehL2j9mfTcIg5Slp&grouping=DomainFamily
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+API request failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=h63Z0qQnj0kc4tcVcdUQ&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/Lists?apiKey=h63Z0qQnj0kc4tcVcdUQ&grouping=DomainFamily
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+API request failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/Lists?apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=Dq2ca07i5RkjDQwth5Wc&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=Dq2ca07i5RkjDQwth5Wc&grouping=DomainFamily
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=gHxKgS2zz7ou22Uv1nMc&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=gHxKgS2zz7ou22Uv1nMc&grouping=DomainFamily
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=hree6Psjtu3qX7BLcW73&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=hree6Psjtu3qX7BLcW73&grouping=DomainFamily
+Processing account [FR] astucecorner-k.com (90293)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=krE2gG8BmPlnh12Ytg7i&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=krE2gG8BmPlnh12Ytg7i&grouping=DomainFamily
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+Processing account [FR] mesemplettesvip-k.com (90280)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Métrique 4698 mise à jour:  -> FR
+Métrique 4699 mise à jour:  -> FR
+Métrique 4700 mise à jour:  -> FR
+Métrique 4701 mise à jour:  -> FR
+Métrique 4702 mise à jour:  -> FR
+Métrique 4703 mise à jour:  -> FR
+Métrique 4704 mise à jour:  -> FR
+Métrique 4705 mise à jour:  -> FR
+Métrique 4680 mise à jour:  -> FR
+Métrique 4681 mise à jour:  -> FR
+Métrique 4682 mise à jour:  -> FR
+Métrique 4683 mise à jour:  -> FR
+Métrique 4684 mise à jour:  -> FR
+Métrique 4685 mise à jour:  -> FR
+Métrique 4686 mise à jour:  -> FR
+Métrique 4693 mise à jour:  -> FR
+Métrique 4694 mise à jour:  -> FR
+Métrique 4695 mise à jour:  -> FR
+Métrique 4696 mise à jour:  -> FR
+Métrique 4697 mise à jour:  -> FR
+Métrique 4719 mise à jour:  -> FR
+Métrique 4720 mise à jour:  -> FR
+Métrique 4721 mise à jour:  -> FR
+Métrique 4722 mise à jour:  -> FR
+Métrique 4653 mise à jour:  -> FR
+Métrique 4654 mise à jour:  -> FR
+Métrique 4655 mise à jour:  -> FR
+Métrique 4656 mise à jour:  -> FR
+Métrique 4657 mise à jour:  -> FR
+Métrique 4658 mise à jour:  -> FR
+Métrique 4659 mise à jour:  -> FR
+Métrique 4717 mise à jour:  -> FR
+Métrique 4718 mise à jour:  -> FR
+Métrique 4711 mise à jour:  -> FR
+Métrique 4712 mise à jour:  -> FR
+Métrique 4713 mise à jour:  -> FR
+Métrique 4714 mise à jour:  -> FR
+Métrique 4715 mise à jour:  -> FR
+Métrique 4642 mise à jour:  -> FR
+Métrique 4643 mise à jour:  -> FR
+Métrique 4644 mise à jour:  -> FR
+Métrique 4645 mise à jour:  -> FR
+Métrique 4646 mise à jour:  -> FR
+Métrique 4647 mise à jour:  -> FR
+Métrique 4660 mise à jour:  -> FR
+Métrique 4661 mise à jour:  -> FR
+Métrique 4662 mise à jour:  -> FR
+Métrique 4663 mise à jour:  -> FR
+Métrique 4664 mise à jour:  -> FR
+Métrique 4735 mise à jour:  -> IT
+Métrique 4734 mise à jour:  -> IT
+Métrique 4733 mise à jour:  -> IT
+Métrique 4732 mise à jour:  -> IT
+Métrique 4730 mise à jour:  -> IT
+Métrique 4731 mise à jour:  -> IT
+Métrique 4613 mise à jour:  -> DE
+Métrique 4614 mise à jour:  -> DE
+Métrique 4615 mise à jour:  -> DE
+Métrique 4616 mise à jour:  -> DE
+Métrique 4752 mise à jour:  -> UK
+Métrique 4751 mise à jour:  -> UK
+Métrique 4750 mise à jour:  -> UK
+Métrique 4606 mise à jour:  -> BENL
+Métrique 4607 mise à jour:  -> BENL
+Métrique 4608 mise à jour:  -> BENL
+Métrique 4609 mise à jour:  -> BENL
+Métrique 4610 mise à jour:  -> BENL
+Métrique 4611 mise à jour:  -> BENL
+Métrique 4593 mise à jour:  -> AU
+Métrique 4594 mise à jour:  -> AU
+Métrique 4595 mise à jour:  -> AU
+Métrique 4596 mise à jour:  -> AU
+Métrique 4688 mise à jour:  -> FR
+Métrique 4689 mise à jour:  -> FR
+Métrique 4690 mise à jour:  -> FR
+Métrique 4691 mise à jour:  -> FR
+Métrique 4692 mise à jour:  -> FR
+Métrique 4723 mise à jour:  -> IT
+Métrique 4724 mise à jour:  -> IT
+Métrique 4725 mise à jour:  -> IT
+Métrique 4726 mise à jour:  -> IT
+Métrique 4727 mise à jour:  -> IT
+Métrique 4728 mise à jour:  -> IT
+Métrique 4729 mise à jour:  -> IT
+Métrique 4761 mise à jour:  -> UK
+Métrique 4760 mise à jour:  -> UK
+Métrique 4759 mise à jour:  -> UK
+Métrique 4749 mise à jour:  -> NL
+Métrique 4748 mise à jour:  -> NL
+Métrique 4747 mise à jour:  -> NL
+Métrique 4746 mise à jour:  -> NL
+Métrique 4745 mise à jour:  -> NL
+Métrique 4744 mise à jour:  -> NL
+Métrique 4621 mise à jour:  -> ES
+Métrique 4622 mise à jour:  -> ES
+Métrique 4623 mise à jour:  -> ES
+Métrique 4624 mise à jour:  -> ES
+Métrique 4625 mise à jour:  -> ES
+Métrique 4626 mise à jour:  -> ES
+Métrique 4706 mise à jour:  -> FR
+Métrique 4707 mise à jour:  -> FR
+Métrique 4708 mise à jour:  -> FR
+Métrique 4709 mise à jour:  -> FR
+Métrique 4710 mise à jour:  -> FR
+Métrique 4612 mise à jour:  -> BE NL
+Métrique 4602 mise à jour:  -> CA EN
+Métrique 4603 mise à jour:  -> CA EN
+Métrique 4604 mise à jour:  -> CA EN
+Métrique 4605 mise à jour:  -> CA EN
+Métrique 4617 mise à jour:  -> CA FR
+Métrique 4618 mise à jour:  -> CA FR
+Métrique 4619 mise à jour:  -> CA FR
+Métrique 4620 mise à jour:  -> CA FR
+Métrique 4590 mise à jour:  -> AU
+Métrique 4591 mise à jour:  -> AU
+Métrique 4592 mise à jour:  -> AU
+Métrique 4687 mise à jour:  -> FR
+Métrique 4758 mise à jour:  -> UK
+Métrique 4757 mise à jour:  -> UK
+Métrique 4756 mise à jour:  -> UK
+Métrique 4755 mise à jour:  -> UK
+Métrique 4754 mise à jour:  -> UK
+Métrique 4753 mise à jour:  -> UK
+Métrique 4665 mise à jour:  -> FR
+Métrique 4666 mise à jour:  -> FR
+Métrique 4667 mise à jour:  -> FR
+Métrique 4668 mise à jour:  -> FR
+Métrique 4669 mise à jour:  -> FR
+Métrique 4670 mise à jour:  -> FR
+Métrique 4671 mise à jour:  -> FR
+Métrique 4672 mise à jour:  -> FR
+Métrique 4673 mise à jour:  -> FR
+Métrique 4743 mise à jour:  -> NL
+Métrique 4742 mise à jour:  -> NL
+Métrique 4741 mise à jour:  -> NL
+Métrique 4740 mise à jour:  -> NL
+Métrique 4739 mise à jour:  -> NL
+Métrique 4738 mise à jour:  -> NL
+Métrique 4737 mise à jour:  -> NL
+Métrique 4736 mise à jour:  -> NL
+Métrique 4597 mise à jour:  -> AU
+Métrique 4598 mise à jour:  -> AU
+Métrique 4599 mise à jour:  -> AU
+Métrique 4600 mise à jour:  -> AU
+Métrique 4601 mise à jour:  -> AU
+Métrique 4634 mise à jour:  -> ES
+Métrique 4635 mise à jour:  -> ES
+Métrique 4636 mise à jour:  -> ES
+Métrique 4637 mise à jour:  -> ES
+Métrique 4638 mise à jour:  -> ES
+Métrique 4639 mise à jour:  -> ES
+Métrique 4640 mise à jour:  -> ES
+Métrique 4648 mise à jour:  -> FR
+Métrique 4649 mise à jour:  -> FR
+Métrique 4650 mise à jour:  -> FR
+Métrique 4651 mise à jour:  -> FR
+Métrique 4652 mise à jour:  -> FR
+Métrique 4627 mise à jour:  -> FR
+Métrique 4628 mise à jour:  -> FR
+Métrique 4629 mise à jour:  -> FR
+Métrique 4630 mise à jour:  -> FR
+Métrique 4631 mise à jour:  -> FR
+Métrique 4632 mise à jour:  -> FR
+Métrique 4633 mise à jour:  -> FR
+Métrique 4716 mise à jour:  -> FR
+Métrique 4674 mise à jour:  -> FR
+Métrique 4675 mise à jour:  -> FR
+Métrique 4679 mise à jour:  -> FR
+Métrique 4676 mise à jour:  -> FR
+Métrique 4677 mise à jour:  -> FR
+Métrique 4678 mise à jour:  -> FR
+Métrique 4641 mise à jour:  -> FR
+Métrique 4479 mise à jour:  -> FR
+Métrique 4395 mise à jour:  -> FR
+Métrique 4394 mise à jour:  -> FR
+Métrique 4472 mise à jour:  -> FR
+Métrique 4473 mise à jour:  -> FR
+Métrique 4474 mise à jour:  -> FR
+Métrique 4475 mise à jour:  -> FR
+Métrique 4476 mise à jour:  -> FR
+Métrique 4477 mise à jour:  -> FR
+Métrique 4478 mise à jour:  -> FR
+Métrique 4388 mise à jour:  -> DE
+Métrique 4389 mise à jour:  -> DE
+Métrique 4390 mise à jour:  -> DE
+Métrique 4391 mise à jour:  -> DE
+Métrique 4392 mise à jour:  -> DE
+Métrique 4393 mise à jour:  -> DE
+Métrique 4422 mise à jour:  -> FR
+Métrique 4423 mise à jour:  -> FR
+Métrique 4424 mise à jour:  -> FR
+Métrique 4425 mise à jour:  -> FR
+Métrique 4426 mise à jour:  -> FR
+Métrique 4427 mise à jour:  -> FR
+Métrique 4428 mise à jour:  -> FR
+Métrique 4429 mise à jour:  -> FR
+Métrique 4430 mise à jour:  -> FR
+Métrique 4431 mise à jour:  -> FR
+Métrique 4432 mise à jour:  -> FR
+Métrique 4433 mise à jour:  -> FR
+Métrique 4434 mise à jour:  -> FR
+Métrique 4435 mise à jour:  -> FR
+Métrique 4436 mise à jour:  -> FR
+Métrique 4437 mise à jour:  -> FR
+Métrique 4415 mise à jour:  -> FR
+Métrique 4416 mise à jour:  -> FR
+Métrique 4417 mise à jour:  -> FR
+Métrique 4418 mise à jour:  -> FR
+Métrique 4419 mise à jour:  -> FR
+Métrique 4420 mise à jour:  -> FR
+Métrique 4421 mise à jour:  -> FR
+Métrique 4569 mise à jour:  -> IT
+Métrique 4570 mise à jour:  -> IT
+Métrique 4571 mise à jour:  -> IT
+Métrique 4572 mise à jour:  -> IT
+Métrique 4573 mise à jour:  -> IT
+Métrique 4574 mise à jour:  -> IT
+Métrique 4575 mise à jour:  -> IT
+Métrique 4561 mise à jour:  -> IT
+Métrique 4562 mise à jour:  -> IT
+Métrique 4563 mise à jour:  -> IT
+Métrique 4564 mise à jour:  -> IT
+Métrique 4565 mise à jour:  -> IT
+Métrique 4566 mise à jour:  -> IT
+Métrique 4567 mise à jour:  -> IT
+Métrique 4568 mise à jour:  -> IT
+Métrique 4488 mise à jour:  -> IT
+Métrique 4489 mise à jour:  -> IT
+Métrique 4490 mise à jour:  -> IT
+Métrique 4491 mise à jour:  -> IT
+Métrique 4492 mise à jour:  -> IT
+Métrique 4493 mise à jour:  -> IT
+Métrique 4494 mise à jour:  -> IT
+Métrique 4495 mise à jour:  -> IT
+Métrique 4480 mise à jour:  -> IT
+Métrique 4481 mise à jour:  -> IT
+Métrique 4482 mise à jour:  -> IT
+Métrique 4483 mise à jour:  -> IT
+Métrique 4484 mise à jour:  -> IT
+Métrique 4485 mise à jour:  -> IT
+Métrique 4486 mise à jour:  -> IT
+Métrique 4487 mise à jour:  -> IT
+Métrique 4545 mise à jour:  -> IT
+Métrique 4546 mise à jour:  -> IT
+Métrique 4547 mise à jour:  -> IT
+Métrique 4548 mise à jour:  -> IT
+Métrique 4549 mise à jour:  -> IT
+Métrique 4550 mise à jour:  -> IT
+Métrique 4551 mise à jour:  -> IT
+Métrique 4552 mise à jour:  -> IT
+Métrique 4576 mise à jour:  -> IT
+Métrique 4577 mise à jour:  -> IT
+Métrique 4578 mise à jour:  -> IT
+Métrique 4579 mise à jour:  -> IT
+Métrique 4580 mise à jour:  -> IT
+Métrique 4581 mise à jour:  -> IT
+Métrique 4582 mise à jour:  -> IT
+Métrique 4583 mise à jour:  -> IT
+Métrique 4553 mise à jour:  -> IT
+Métrique 4554 mise à jour:  -> IT
+Métrique 4555 mise à jour:  -> IT
+Métrique 4556 mise à jour:  -> IT
+Métrique 4557 mise à jour:  -> IT
+Métrique 4558 mise à jour:  -> IT
+Métrique 4559 mise à jour:  -> IT
+Métrique 4560 mise à jour:  -> IT
+Métrique 4444 mise à jour:  -> FR
+Métrique 4445 mise à jour:  -> FR
+Métrique 4528 mise à jour:  -> IT
+Métrique 4529 mise à jour:  -> IT
+Métrique 4530 mise à jour:  -> IT
+Métrique 4531 mise à jour:  -> IT
+Métrique 4532 mise à jour:  -> IT
+Métrique 4533 mise à jour:  -> IT
+Métrique 4534 mise à jour:  -> IT
+Métrique 4535 mise à jour:  -> IT
+Métrique 4536 mise à jour:  -> IT
+Métrique 4520 mise à jour:  -> IT
+Métrique 4521 mise à jour:  -> IT
+Métrique 4522 mise à jour:  -> IT
+Métrique 4523 mise à jour:  -> IT
+Métrique 4524 mise à jour:  -> IT
+Métrique 4525 mise à jour:  -> IT
+Métrique 4526 mise à jour:  -> IT
+Métrique 4527 mise à jour:  -> IT
+Métrique 4504 mise à jour:  -> IT
+Métrique 4505 mise à jour:  -> IT
+Métrique 4506 mise à jour:  -> IT
+Métrique 4507 mise à jour:  -> IT
+Métrique 4508 mise à jour:  -> IT
+Métrique 4509 mise à jour:  -> IT
+Métrique 4510 mise à jour:  -> IT
+Métrique 4511 mise à jour:  -> IT
+Métrique 4512 mise à jour:  -> IT
+Métrique 4513 mise à jour:  -> IT
+Métrique 4514 mise à jour:  -> IT
+Métrique 4515 mise à jour:  -> IT
+Métrique 4516 mise à jour:  -> IT
+Métrique 4517 mise à jour:  -> IT
+Métrique 4518 mise à jour:  -> IT
+Métrique 4519 mise à jour:  -> IT
+Métrique 4496 mise à jour:  -> IT
+Métrique 4497 mise à jour:  -> IT
+Métrique 4498 mise à jour:  -> IT
+Métrique 4499 mise à jour:  -> IT
+Métrique 4500 mise à jour:  -> IT
+Métrique 4501 mise à jour:  -> IT
+Métrique 4502 mise à jour:  -> IT
+Métrique 4503 mise à jour:  -> IT
+Métrique 4584 mise à jour:  -> UK
+Métrique 4585 mise à jour:  -> UK
+Métrique 4586 mise à jour:  -> UK
+Métrique 4587 mise à jour:  -> UK
+Métrique 4588 mise à jour:  -> UK
+Métrique 4589 mise à jour:  -> UK
+Métrique 4537 mise à jour:  -> IT
+Métrique 4538 mise à jour:  -> IT
+Métrique 4539 mise à jour:  -> IT
+Métrique 4540 mise à jour:  -> IT
+Métrique 4541 mise à jour:  -> IT
+Métrique 4542 mise à jour:  -> IT
+Métrique 4543 mise à jour:  -> IT
+Métrique 4544 mise à jour:  -> IT
+Métrique 4438 mise à jour:  -> FR
+Métrique 4439 mise à jour:  -> FR
+Métrique 4440 mise à jour:  -> FR
+Métrique 4441 mise à jour:  -> FR
+Métrique 4442 mise à jour:  -> FR
+Métrique 4443 mise à jour:  -> FR
+Métrique 4396 mise à jour:  -> FR
+Métrique 4397 mise à jour:  -> FR
+Métrique 4398 mise à jour:  -> FR
+Métrique 4399 mise à jour:  -> FR
+Métrique 4408 mise à jour:  -> FR
+Métrique 4409 mise à jour:  -> FR
+Métrique 4410 mise à jour:  -> FR
+Métrique 4411 mise à jour:  -> FR
+Métrique 4412 mise à jour:  -> FR
+Métrique 4413 mise à jour:  -> FR
+Métrique 4414 mise à jour:  -> FR
+Métrique 4400 mise à jour:  -> FR
+Métrique 4401 mise à jour:  -> FR
+Métrique 4402 mise à jour:  -> FR
+Métrique 4403 mise à jour:  -> FR
+Métrique 4404 mise à jour:  -> FR
+Métrique 4405 mise à jour:  -> FR
+Métrique 4406 mise à jour:  -> FR
+Métrique 4407 mise à jour:  -> FR
+Métrique 4371 mise à jour:  -> FR
+Métrique 4372 mise à jour:  -> FR
+Métrique 4373 mise à jour:  -> FR
+Métrique 4374 mise à jour:  -> FR
+Métrique 4375 mise à jour:  -> FR
+Métrique 4376 mise à jour:  -> FR
+Métrique 4377 mise à jour:  -> FR
+Métrique 4366 mise à jour:  -> BEFR
+Métrique 4367 mise à jour:  -> BEFR
+Métrique 4368 mise à jour:  -> BEFR
+Métrique 4369 mise à jour:  -> BEFR
+Métrique 4370 mise à jour:  -> BEFR
+Métrique 4349 mise à jour:  -> FR
+Métrique 4350 mise à jour:  -> FR
+Métrique 4351 mise à jour:  -> FR
+Métrique 4352 mise à jour:  -> FR
+Métrique 4353 mise à jour:  -> FR
+Métrique 4354 mise à jour:  -> FR
+Métrique 4355 mise à jour:  -> FR
+Métrique 4356 mise à jour:  -> FR
+Métrique 4357 mise à jour:  -> FR
+Métrique 4358 mise à jour:  -> FR
+Métrique 4359 mise à jour:  -> FR
+Métrique 4360 mise à jour:  -> FR
+Métrique 4361 mise à jour:  -> FR
+Métrique 4362 mise à jour:  -> FR
+Métrique 4363 mise à jour:  -> FR
+Métrique 4364 mise à jour:  -> FR
+Métrique 4365 mise à jour:  -> FR
+Métrique 4378 mise à jour:  -> FR
+Métrique 4379 mise à jour:  -> FR
+Métrique 4380 mise à jour:  -> FR
+Métrique 4381 mise à jour:  -> FR
+Métrique 4382 mise à jour:  -> FR
+Métrique 4383 mise à jour:  -> FR
+Métrique 4384 mise à jour:  -> FR
+Métrique 4385 mise à jour:  -> FR
+Métrique 4386 mise à jour:  -> FR
+Métrique 4387 mise à jour:  -> FR
+Métrique 4331 mise à jour:  -> FR
+Métrique 4332 mise à jour:  -> FR
+Métrique 4333 mise à jour:  -> FR
+Métrique 4334 mise à jour:  -> FR
+Métrique 4335 mise à jour:  -> FR
+Métrique 4336 mise à jour:  -> FR
+Métrique 4337 mise à jour:  -> FR
+Métrique 4338 mise à jour:  -> FR
+Métrique 4339 mise à jour:  -> FR
+Métrique 4340 mise à jour:  -> FR
+Métrique 4341 mise à jour:  -> NL
+Métrique 4342 mise à jour:  -> NL
+Métrique 4343 mise à jour:  -> NL
+Métrique 4344 mise à jour:  -> NL
+Métrique 4345 mise à jour:  -> NL
+Métrique 4346 mise à jour:  -> NL
+Métrique 4347 mise à jour:  -> NL
+Métrique 4348 mise à jour:  -> NL
+Métrique 4321 mise à jour:  -> FR
+Métrique 4322 mise à jour:  -> FR
+Métrique 4323 mise à jour:  -> FR
+Métrique 4324 mise à jour:  -> FR
+Métrique 4325 mise à jour:  -> FR
+Métrique 4326 mise à jour:  -> FR
+Métrique 4327 mise à jour:  -> FR
+Métrique 4328 mise à jour:  -> FR
+Métrique 4329 mise à jour:  -> FR
+Métrique 4330 mise à jour:  -> FR
+Métrique 4314 mise à jour:  -> FR
+Métrique 4315 mise à jour:  -> FR
+Métrique 4316 mise à jour:  -> FR
+Métrique 4317 mise à jour:  -> FR
+Métrique 4318 mise à jour:  -> FR
+Métrique 4319 mise à jour:  -> FR
+Métrique 4320 mise à jour:  -> FR
+Métrique 4283 mise à jour:  -> FR
+Métrique 4284 mise à jour:  -> FR
+Métrique 4285 mise à jour:  -> FR
+Métrique 4286 mise à jour:  -> FR
+Métrique 4287 mise à jour:  -> FR
+Métrique 4288 mise à jour:  -> FR
+Métrique 4289 mise à jour:  -> FR
+Métrique 4290 mise à jour:  -> FR
+Métrique 4299 mise à jour:  -> FR
+Métrique 4300 mise à jour:  -> FR
+Métrique 4301 mise à jour:  -> FR
+Métrique 4302 mise à jour:  -> FR
+Métrique 4303 mise à jour:  -> FR
+Métrique 4304 mise à jour:  -> FR
+Métrique 4305 mise à jour:  -> FR
+Métrique 4306 mise à jour:  -> FR
+Métrique 4307 mise à jour:  -> FR
+Métrique 4291 mise à jour:  -> FR
+Métrique 4292 mise à jour:  -> FR
+Métrique 4293 mise à jour:  -> FR
+Métrique 4294 mise à jour:  -> FR
+Métrique 4295 mise à jour:  -> FR
+Métrique 4296 mise à jour:  -> FR
+Métrique 4297 mise à jour:  -> FR
+Métrique 4298 mise à jour:  -> FR
+Métrique 4308 mise à jour:  -> FR
+Métrique 4309 mise à jour:  -> FR
+Métrique 4310 mise à jour:  -> FR
+Métrique 4311 mise à jour:  -> FR
+Métrique 4312 mise à jour:  -> FR
+Métrique 4313 mise à jour:  -> FR
+Métrique 4268 mise à jour:  -> FR
+Métrique 4269 mise à jour:  -> FR
+Métrique 4270 mise à jour:  -> FR
+Métrique 4271 mise à jour:  -> FR
+Métrique 4272 mise à jour:  -> FR
+Métrique 4273 mise à jour:  -> FR
+Métrique 4274 mise à jour:  -> FR
+Métrique 4282 mise à jour:  -> PL
+Métrique 4236 mise à jour:  -> AU
+Métrique 4237 mise à jour:  -> AU
+Métrique 4238 mise à jour:  -> AU
+Métrique 4239 mise à jour:  -> AU
+Métrique 4240 mise à jour:  -> AU
+Métrique 4241 mise à jour:  -> AU
+Métrique 4242 mise à jour:  -> ES
+Métrique 4243 mise à jour:  -> ES
+Métrique 4244 mise à jour:  -> ES
+Métrique 4245 mise à jour:  -> ES
+Métrique 4246 mise à jour:  -> ES
+Métrique 4275 mise à jour:  -> IT
+Métrique 4276 mise à jour:  -> IT
+Métrique 4277 mise à jour:  -> IT
+Métrique 4278 mise à jour:  -> IT
+Métrique 4279 mise à jour:  -> IT
+Métrique 4280 mise à jour:  -> IT
+Métrique 4281 mise à jour:  -> IT
+Métrique 4255 mise à jour:  -> FR
+Métrique 4256 mise à jour:  -> FR
+Métrique 4257 mise à jour:  -> FR
+Métrique 4258 mise à jour:  -> FR
+Métrique 4259 mise à jour:  -> FR
+Métrique 4260 mise à jour:  -> FR
+Métrique 4261 mise à jour:  -> FR
+Métrique 4262 mise à jour:  -> FR
+Métrique 4263 mise à jour:  -> FR
+Métrique 4264 mise à jour:  -> FR
+Métrique 4265 mise à jour:  -> FR
+Métrique 4266 mise à jour:  -> FR
+Métrique 4267 mise à jour:  -> FR
+Métrique 4227 mise à jour:  -> FR
+Métrique 4228 mise à jour:  -> FR
+Métrique 4229 mise à jour:  -> FR
+Métrique 4230 mise à jour:  -> FR
+Métrique 4231 mise à jour:  -> FR
+Métrique 4232 mise à jour:  -> FR
+Métrique 4233 mise à jour:  -> FR
+Métrique 4234 mise à jour:  -> FR
+Métrique 4235 mise à jour:  -> FR
+Métrique 4247 mise à jour:  -> FR
+Métrique 4248 mise à jour:  -> FR
+Métrique 4249 mise à jour:  -> FR
+Métrique 4250 mise à jour:  -> FR
+Métrique 4251 mise à jour:  -> FR
+Métrique 4252 mise à jour:  -> FR
+Métrique 4253 mise à jour:  -> FR
+Métrique 4254 mise à jour:  -> FR
+Métrique 4185 mise à jour:  -> FR
+Métrique 4186 mise à jour:  -> FR
+Métrique 4187 mise à jour:  -> FR
+Métrique 4188 mise à jour:  -> FR
+Métrique 4189 mise à jour:  -> FR
+Métrique 4190 mise à jour:  -> FR
+Métrique 4191 mise à jour:  -> FR
+Métrique 4192 mise à jour:  -> FR
+Métrique 4112 mise à jour:  -> FR
+Métrique 4113 mise à jour:  -> FR
+Métrique 4114 mise à jour:  -> FR
+Métrique 4115 mise à jour:  -> FR
+Métrique 4116 mise à jour:  -> FR
+Métrique 4117 mise à jour:  -> FR
+Métrique 4118 mise à jour:  -> FR
+Métrique 4209 mise à jour:  -> FR
+Métrique 4210 mise à jour:  -> FR
+Métrique 4211 mise à jour:  -> FR
+Métrique 4212 mise à jour:  -> FR
+Métrique 4213 mise à jour:  -> FR
+Métrique 4214 mise à jour:  -> FR
+Métrique 4215 mise à jour:  -> FR
+Métrique 4216 mise à jour:  -> FR
+Métrique 4217 mise à jour:  -> FR
+Métrique 4177 mise à jour:  -> FR
+Métrique 4178 mise à jour:  -> FR
+Métrique 4179 mise à jour:  -> FR
+Métrique 4180 mise à jour:  -> FR
+Métrique 4181 mise à jour:  -> FR
+Métrique 4182 mise à jour:  -> FR
+Métrique 4183 mise à jour:  -> FR
+Métrique 4184 mise à jour:  -> FR
+Métrique 4100 mise à jour:  -> AU
+Métrique 4101 mise à jour:  -> AU
+Métrique 4102 mise à jour:  -> AU
+Métrique 4103 mise à jour:  -> AU
+Métrique 4104 mise à jour:  -> AU
+Métrique 4099 mise à jour:  -> AU
+Métrique 4138 mise à jour:  -> FR
+Métrique 4139 mise à jour:  -> FR
+Métrique 4140 mise à jour:  -> FR
+Métrique 4141 mise à jour:  -> FR
+Métrique 4142 mise à jour:  -> FR
+Métrique 4143 mise à jour:  -> FR
+Métrique 4144 mise à jour:  -> FR
+Métrique 4127 mise à jour:  -> FR
+Métrique 4128 mise à jour:  -> FR
+Métrique 4129 mise à jour:  -> FR
+Métrique 4130 mise à jour:  -> FR
+Métrique 4161 mise à jour:  -> FR
+Métrique 4162 mise à jour:  -> FR
+Métrique 4163 mise à jour:  -> FR
+Métrique 4164 mise à jour:  -> FR
+Métrique 4165 mise à jour:  -> FR
+Métrique 4166 mise à jour:  -> FR
+Métrique 4167 mise à jour:  -> FR
+Métrique 4168 mise à jour:  -> FR
+Métrique 4169 mise à jour:  -> FR
+Métrique 4131 mise à jour:  -> FR
+Métrique 4132 mise à jour:  -> FR
+Métrique 4133 mise à jour:  -> FR
+Métrique 4134 mise à jour:  -> FR
+Métrique 4135 mise à jour:  -> FR
+Métrique 4136 mise à jour:  -> FR
+Métrique 4137 mise à jour:  -> FR
+Métrique 4090 mise à jour:  -> FR
+Métrique 4091 mise à jour:  -> FR
+Métrique 4092 mise à jour:  -> FR
+Métrique 4093 mise à jour:  -> FR
+Métrique 4094 mise à jour:  -> FR
+Métrique 4095 mise à jour:  -> FR
+Métrique 4096 mise à jour:  -> FR
+Métrique 4097 mise à jour:  -> FR
+Métrique 4098 mise à jour:  -> FR
+Métrique 4149 mise à jour:  -> FR
+Métrique 4145 mise à jour:  -> FR
+Métrique 4146 mise à jour:  -> FR
+Métrique 4147 mise à jour:  -> FR
+Métrique 4148 mise à jour:  -> FR
+Métrique 4150 mise à jour:  -> FR
+Métrique 4151 mise à jour:  -> FR
+Métrique 4152 mise à jour:  -> FR
+Métrique 4105 mise à jour:  -> FR
+Métrique 4106 mise à jour:  -> FR
+Métrique 4107 mise à jour:  -> FR
+Métrique 4108 mise à jour:  -> FR
+Métrique 4109 mise à jour:  -> FR
+Métrique 4110 mise à jour:  -> FR
+Métrique 4111 mise à jour:  -> FR
+Métrique 4193 mise à jour:  -> FR
+Métrique 4194 mise à jour:  -> FR
+Métrique 4195 mise à jour:  -> FR
+Métrique 4196 mise à jour:  -> FR
+Métrique 4197 mise à jour:  -> FR
+Métrique 4198 mise à jour:  -> FR
+Métrique 4199 mise à jour:  -> FR
+Métrique 4200 mise à jour:  -> FR
+Métrique 4201 mise à jour:  -> FR
+Métrique 4119 mise à jour:  -> FR
+Métrique 4120 mise à jour:  -> FR
+Métrique 4121 mise à jour:  -> FR
+Métrique 4122 mise à jour:  -> FR
+Métrique 4123 mise à jour:  -> FR
+Métrique 4124 mise à jour:  -> FR
+Métrique 4125 mise à jour:  -> FR
+Métrique 4126 mise à jour:  -> FR
+Métrique 4153 mise à jour:  -> FR
+Métrique 4154 mise à jour:  -> FR
+Métrique 4155 mise à jour:  -> FR
+Métrique 4156 mise à jour:  -> FR
+Métrique 4157 mise à jour:  -> FR
+Métrique 4158 mise à jour:  -> FR
+Métrique 4159 mise à jour:  -> FR
+Métrique 4160 mise à jour:  -> FR
+Métrique 4176 mise à jour:  -> FR
+Métrique 4170 mise à jour:  -> FR
+Métrique 4171 mise à jour:  -> FR
+Métrique 4172 mise à jour:  -> FR
+Métrique 4173 mise à jour:  -> FR
+Métrique 4174 mise à jour:  -> FR
+Métrique 4175 mise à jour:  -> FR
+Métrique 4207 mise à jour:  -> ES
+Métrique 4202 mise à jour:  -> DE
+Métrique 4203 mise à jour:  -> NO
+Métrique 4204 mise à jour:  -> SE
+Métrique 4208 mise à jour:  -> UK
+Métrique 4205 mise à jour:  -> SG
+Métrique 4206 mise à jour:  -> NZ
+Métrique 4218 mise à jour:  -> MX
+Métrique 4220 mise à jour:  -> MX
+Métrique 4221 mise à jour:  -> MX
+Métrique 4222 mise à jour:  -> MX
+Métrique 4223 mise à jour:  -> MX
+Métrique 4224 mise à jour:  -> MX
+Métrique 4225 mise à jour:  -> MX
+Métrique 4226 mise à jour:  -> MX
+Métrique 4219 mise à jour:  -> MX
+Métrique 4451 mise à jour:  -> MX
+Métrique 4452 mise à jour:  -> UK
+Métrique 4453 mise à jour:  -> UK
+Métrique 4454 mise à jour:  -> UK
+Métrique 4455 mise à jour:  -> UK
+Métrique 4456 mise à jour:  -> UK
+Métrique 4457 mise à jour:  -> IT
+Métrique 4458 mise à jour:  -> IT
+Métrique 4459 mise à jour:  -> IT
+Métrique 4460 mise à jour:  -> IT
+Métrique 4461 mise à jour:  -> IT
+Métrique 4462 mise à jour:  -> FR
+Métrique 4463 mise à jour:  -> FR
+Métrique 4464 mise à jour:  -> FR
+Métrique 4465 mise à jour:  -> FR
+Métrique 4466 mise à jour:  -> FR
+Métrique 4467 mise à jour:  -> ES
+Métrique 4468 mise à jour:  -> ES
+Métrique 4469 mise à jour:  -> ES
+Métrique 4470 mise à jour:  -> ES
+Métrique 4471 mise à jour:  -> ES
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /api/export
+Not Found: /favicon.ico
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Bad Request: /api/metrics/
+Looking for config file at: D:\Projet_rd\backend\Dashboard_backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] lagazettedesbonsplans.com (11072)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] lesbonkdo.com (10826)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] shoprivileges.com (10837)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [FR] ideemaline.com (30385)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] promodechoc.com (30797)
+Processing account [FR] reducsweekend.com (30554)
+API request failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/Lists?apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [PL] poradadnia.com (30867)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [BE] voordeelpakkers.be (50716)
+API request failed: 403 Client Error: Forbidden for url: https://api5.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=c00PehL2j9mfTcIg5Slp&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api5.esv2.com/v2/Api/Lists?apiKey=c00PehL2j9mfTcIg5Slp&grouping=DomainFamily
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [FR] dealexceptionnel.com (50353)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] debonmatin.com (70089)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] ideedujour.com (80718)
+Processing account [FR] clubdesbonsplans.fr (80719)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] alertediscount.com (80021)
+API request failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=h63Z0qQnj0kc4tcVcdUQ&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/Lists?apiKey=h63Z0qQnj0kc4tcVcdUQ&grouping=DomainFamily
+Processing account [FR] pandaguideconso.com (80054)
+Processing account [FR] vipaffaire.com (80632)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+API request failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/Lists?apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] privilegienkauf.com (90303)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=Dq2ca07i5RkjDQwth5Wc&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=Dq2ca07i5RkjDQwth5Wc&grouping=DomainFamily
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [ES] lasbuenasofertas.com (90042)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=gHxKgS2zz7ou22Uv1nMc&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=gHxKgS2zz7ou22Uv1nMc&grouping=DomainFamily
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] alerteshoppingmalin-k.com (90277)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=hree6Psjtu3qX7BLcW73&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=hree6Psjtu3qX7BLcW73&grouping=DomainFamily
+Processing account [FR] astucecorner-k.com (90293)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=krE2gG8BmPlnh12Ytg7i&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=krE2gG8BmPlnh12Ytg7i&grouping=DomainFamily
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+Processing account [FR] consomieux-k.com (90276)
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] gyfp-k.com (90283)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4H8Bln1cyLlqR3yT2gww&grouping=DomainFamily
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lafoliedesmarques-k.com (90279)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=v2HvJ1equ9Snh4aVcN5w&grouping=DomainFamily
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] lesmalices-k.com (90273)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=zS8Xg4omTe4iiPdHg02g&grouping=DomainFamily
+Processing account [FR] mesemplettesvip-k.com (90280)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=e170Xbpr3oyQ2yaHMrNn&grouping=DomainFamily
+Processing account [FR] myventesprivees-k.com (90295)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] santeserenite-k.com (90288)
+Processing account [FR] tendanceauquotidien-k.com (90292)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] topsantebeaute-k.com (90291)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] vosdenicheurs.com (90016)
+Processing account [FR] votreselection.com (90289)
+Processing account [FR] votreselectionshopping.com (90294)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] bestpricecuts.com (90262)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=ShdbE1Ey00ccbyqPj9L4&grouping=DomainFamily
+Processing account [UK] blessmyshopping.com (90263)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
+Looking for config file at: D:\Projet_rd\backend\Dashboard_backend\src\api\config\api_config.json
+Processing account [FR] clubdesreducs.com (10822)
+Processing account [AU] daily-promo.net (10910)
+Processing account [AU] ozripperdeal.com (10911)
+Processing account [FR] comptoirdesreducs.com (10690)
+Processing account [FR] fandebonsplans.com (11055)
+Processing account [FR] consommermoinscher.com (10452)
+Processing account [FR] desirsbrulant.com (10841)
+Processing account [FR] enviedbonsplans.com (10823)
+Processing account [FR] lapepitedunet.com (10894)
+Processing account [FR] lesprivileges.net (10794)
+Processing account [FR] promoenexclu.com (10429)
+Processing account [FR] madestine.com (10824)
+Processing account [FR] tempsprivilege.com (10319)
+Processing account [FR] lesdenicheursdunet.com (10913)
+Processing account [FR] votrentreprise.com (11056)
+Processing account [FR] lastucieux.com (10662)
+Processing account [DE] daily-promo.net (37)
+Processing account [NO] daily-promo.net (23)
+Processing account [SE] daily-promo.net (22)
+Processing account [SG] daily-promo.net (11)
+Processing account [NZ] daily-promo.net (10)
+Processing account [ES] daily-promo.net (43)
+Processing account [UK] daily-promo.net (13)
+Processing account [FR] cornerpromo.com (11008)
+Processing account [BEFR] cornerpromo.com (5)
+Processing account [FR] jeuxgagne.fr (30794)
+Processing account [AU] bestoztips.com (30860)
+Processing account [ES] propuestadeldia.com (30859)
+Processing account [FR] lafoireauxaffaires.com (30546)
+Processing account [FR] selectiondastuce.com (30428)
+Processing account [FR] reducsweekend.com (30554)
+API request failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api3.esv2.com/v2/Api/Lists?apiKey=jKmdNzG6hSw2UMSlylJq&grouping=DomainFamily
+Processing account [FR] unepepiteparjour.com (30806)
+Processing account [FR] vivelesreducs.com (30798)
+Processing account [FR] unmaxdepromos.com (30861)
+Processing account [FR] lecourrierdesentrepreneurs.com (30892)
+Processing account [IT] unoccasione.com (30858)
+Processing account [FR] comptoirshopping.com (40201)
+Processing account [FR] conso-club.com (40720)
+Processing account [FR] lagendadesventesprivees.com (40018)
+Processing account [FR] mestrucsetastuces.com (40466)
+Processing account [FR] lepetitfinaud.com (40273)
+Processing account [FR] supermalin.com (40006)
+Processing account [FR] rdvdesbonsplans.com (40721)
+Processing account [FR] laselectiondegedeon.com (50578)
+Processing account [FR] uneproposition.com (50360)
+Processing account [FR] shoptapromo.com (50562)
+Processing account [NL] voordeelpakkers.com (50486)
+Processing account [FR] matendanceshopping.com (70091)
+Processing account [FR] vosreductions.com (70070)
+Processing account [BEFR] debonnesaffaires.com (70098)
+Processing account [FR] lalettredesentrepreneurs.com (70142)
+Processing account [FR] lastucedujour.com (70271)
+Processing account [FR] lamaisonindigoo.com (70069)
+Processing account [DE] sparfinde.de (80704)
+Processing account [FR] alertebonsplans.com (80033)
+Processing account [FR] avisdebonplan.com (80012)
+Processing account [FR] francebonsplans.com (80020)
+Processing account [ES] rebajadeldia.com (80288)
+Processing account [FR] je-conduis.com (80655)
+Processing account [FR] jesuisproprietaire.com (80660)
+Processing account [FR] lebasdelaine.com (80656)
+Processing account [FR] pandaguideconso.com (80054)
+Processing account offeralis.com (80289)
+Processing account [MX] offeralis.com (5)
+Processing account [UK] offeralis.com (4)
+Processing account [IT] offeralis.com (3)
+Processing account [FR] offeralis.com (2)
+Processing account [ES] offeralis.com (1)
+Processing account [FR] vitedeseconomies.com (80711)
+Processing account [FR] zonepromos.com (80725)
+Processing account [IT] buonipiani.com (80647)
+Processing account [IT] miglioripiani.com (80648)
+Processing account [IT] news.curafinanz.eu (80435)
+Processing account [IT] news.elastuto.com (80437)
+Processing account [IT] news.iltuosconto.com (80436)
+Processing account [IT] news.spesefacil.it (80438)
+Processing account [IT] news.vieniasbirciare.com (80439)
+Processing account [IT] risparmialo.com (80374)
+Processing account [IT] risparmicorner.com (80646)
+Processing account [IT] spazipromo.com (80644)
+Processing account [IT] spesatrend.com (80649)
+Processing account [IT] unosguardo.com (80650)
+Processing account [IT] zonesconti.com (80645)
+Processing account [UK] dailypromo.uk (80377)
+Processing account [US] whatdestiny.com (80661)
+API request failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api7.esv2.com/v2/Api/Lists?apiKey=Jjx92yTtKs3uc7hS7Rva&grouping=DomainFamily
+Processing account [AU] aussiedailytip.com (90181)
+Processing account [AU] aussiegoodplans.com (90261)
+Processing account [AU] oznewdeals.com (90039)
+Processing account [CA EN] bestdealopia.com (90183)
+Processing account [BENL] voordeelpakketten.com (90264)
+Processing account [BE NL] koopjesplek.com (90184)
+Processing account [DE] tippshopping.com (90266)
+Processing account [CA FR] planetepromo.com (90182)
+Processing account [ES] aficionadochollo.com (90187)
+Processing account [FR] bonplansurmesure.com (90021)
+Processing account [ES] tuofertadiaria.com (90038)
+Processing account [FR] bontempsprivilege.com (90010)
+Processing account [FR] brandcorner-k.com (90275)
+Processing account [FR] budgetdevis.com  (90302)
+Processing account [FR] comptoirdesentrepreneurs.com (90301)
+Processing account [FR] consochic-k.com (90274)
+API request failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/SummaryStatistics?startDate=2025-03-25&endDate=2025-03-26&apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+API request for multi-geo lists failed: 403 Client Error: Forbidden for url: https://api8.esv2.com/v2/Api/Lists?apiKey=4yPl6dhrcPOHwcccH783&grouping=DomainFamily
+Processing account [FR] consommerfute.com (90012)
+Processing account [FR] desuperpromo.com (90043)
+Processing account [FR] desventesprivees.com (90011)
+Processing account [FR] enviesdepromos.com (90037)
+Processing account [FR] frconcours-k.com (90284)
+Processing account [FR] halleauxaffaires.com (90271)
+Processing account [FR] homme-shopping.com (90041)
+Processing account [FR] lapepiteduweb.com (90015)
+Processing account [FR] nosprivileges.com (90013)
+Processing account [FR] nousgagnons.com (90014)
+Processing account [FR] pandaguide-k.com (90287)
+Processing account [FR] promosexclusives.com (90083)
+Processing account [FR] promosfrancaises.fr (90238)
+Processing account [FR] rdvdespromos.com (90074)
+Processing account [FR] theprizesclub-k.com (90286)
+Processing account [FR] trendshopping.fr (90290)
+Processing account [FR] unbontuyau.com (90185)
+Processing account [FR] vipconcours-k.com (90281)
+Processing account [FR] winclick-k.com (90282)
+Processing account [FR] winnerio-k.com (90285)
+Processing account [IT] promozona.it  (90191)
+Processing account [IT] regaliperte.com (90267)
+Processing account [NL] goededeal.com (90040)
+Processing account [NL] promotioneleideeen.com (90188)
+Processing account [UK] dailybestsales.com (90265)
+Processing account [UK] dailyprivilege.com (90071)
+Processing account [UK] thecheaperdeals.com (90189)
