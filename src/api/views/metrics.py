@@ -37,7 +37,7 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
 
     filterset_fields = {
         'date': ['gte', 'lte', 'exact', 'year', 'month'],
-        'database': ['exact'],
+        'database__name': ['exact'],
         'domain_family': ['exact'],
         'geo_location': ['exact'],
         'geo_variation': ['exact', 'isnull'],
