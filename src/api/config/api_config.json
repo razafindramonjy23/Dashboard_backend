@@ -4,7 +4,6 @@
             "base_url": "https://api2.esv2.com/v2/",
             "accounts": {
                 "10822": {"name": "[FR] clubdesreducs.com", "api_key": "bFegCRbgH8AGTU3yJmc0"},
-                "10910": {"name": "[AU] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
                 "10911": {"name": "[AU] ozripperdeal.com", "api_key": "o36i4OHMgBC35cvnhnmi"},
                 "10690": {"name": "[FR] comptoirdesreducs.com", "api_key": "62t41k5ajMYpwdwBSoE7"},
                 "11055": {"name": "[FR] fandebonsplans.com", "api_key": "YfOnoYw1v9a5cXkpQ45q"},
@@ -18,7 +17,8 @@
                 "10319": {"name": "[FR] tempsprivilege.com", "api_key": "v3QFIGVM4G6EhPdLzjHn"},
                 "10913": {"name": "[FR] lesdenicheursdunet.com", "api_key": "wJmoKb4taLhs3bP9y3Y7"},
                 "11056": {"name": "[FR] votrentreprise.com", "api_key": "z36zb8q3pUJIB1nXqvzi"},
-                "10662": {"name": "[FR] lastucieux.com", "api_key": "jkEsAqengQqYdZiPRmeV"},               
+                "10662": {"name": "[FR] lastucieux.com", "api_key": "jkEsAqengQqYdZiPRmeV"},  
+
                 "37": {"name": "[DE] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
                 "23": {"name": "[NO] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
                 "22": {"name": "[SE] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
@@ -27,7 +27,7 @@
                 "43": {"name": "[ES] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
                 "13": {"name": "[UK] daily-promo.net", "api_key": "kGtvfBH3vrn7Pwx17Et4"},
 
-                "11008": {"name": "[FR] cornerpromo.com", "api_key": "p7q5fll1z7fcWQn7YlAV"},
+                "2": {"name": "[FR] cornerpromo.com", "api_key": "p7q5fll1z7fcWQn7YlAV"},
                 "5": {"name": "[BEFR] cornerpromo.com", "api_key": "p7q5fll1z7fcWQn7YlAV"}
             }
         },
@@ -92,13 +92,6 @@
                 "80660": {"name": "[FR] jesuisproprietaire.com", "api_key": "vo3gXeICa9ccj3oLZ1k9"},
                 "80656": {"name": "[FR] lebasdelaine.com", "api_key": "opGbpzt8mpTpIVl5440G"},
                 "80054": {"name": "[FR] pandaguideconso.com", "api_key": "g8RauBsFyRht16qnB83c"},
-                "80289": {"name":"offeralis.com", "api_key": "noeDu6evKC3bN4Lu4g5u"},
-                "5": {"name":"[MX] offeralis.com", "api_key": "noeDu6evKC3bN4Lu4g5u"},
-                "4": {"name":"[UK] offeralis.com", "api_key": "noeDu6evKC3bN4Lu4g5u"},
-                "3": {"name":"[IT] offeralis.com", "api_key": "noeDu6evKC3bN4Lu4g5u"},
-                "2": {"name":"[FR] offeralis.com", "api_key": "noeDu6evKC3bN4Lu4g5u"},
-                "1": {"name":"[ES] offeralis.com", "api_key": "noeDu6evKC3bN4Lu4g5u"},
-
                 "80711": {"name":"[FR] vitedeseconomies.com", "api_key": "0T6vrp3uHkkXk4vOskN7"},
                 "80725": {"name":"[FR] zonepromos.com", "api_key": "bVz0luyD74ln61QtfnKS"},
                 "80647": {"name":"[IT] buonipiani.com", "api_key": "nidPQ4uAxZzlu0m7z8K6"},
@@ -162,8 +155,9 @@
                 "90040": {"name": "[NL] goededeal.com", "api_key": "teziaH53fj74ZIwf4iXN"},
                 "90188": {"name": "[NL] promotioneleideeen.com", "api_key": "XeomnX9s2o8WelK9D0yc"},         
                 "90265": {"name": "[UK] dailybestsales.com", "api_key": "OBb1eqpy3a6klTdnKY90"},
-                "90071": {"name": "[UK] dailyprivilege.com", "api_key": "5DmH3iAd4qfeUQh2ypa3"},               
-                "90189": {"name": "[UK] thecheaperdeals.com", "api_key": "wRcgpv59YXqXsH6ew1a9"}
+                "90071": {"name": "[UK] dailyprivilege.com", "api_key": "5DmH3iAd4qfeUQh2ypa3"},  
+                "1": {"name": "[UK] thecheaperdeals.com", "api_key": "wRcgpv59YXqXsH6ew1a9"},
+                "13": {"name": "[CH] thecheaperdeals.com", "api_key": "wRcgpv59YXqXsH6ew1a9"}
             }   
         }
     }
