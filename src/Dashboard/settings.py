@@ -1,8 +1,16 @@
 from pathlib import Path
+import os
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-#8b4juk#l2f2r-5mrc0i=&ctw9h6glople-4qox@q=8rop9qzc'
+
+#GEMINI_API_KEY = "AIzaSyAv9QY2qPKoCb3akC5jwocHIHrkdYTQVFc"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 DEBUG = True
 
@@ -13,6 +21,7 @@ ALLOWED_HOSTS = [
     "127.0.0.1"
 ]
 
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Application definition
 

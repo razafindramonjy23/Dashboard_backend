@@ -52,6 +52,42 @@ class ExpertSenderAPI:
             logger.error(f"API request failed: {str(e)}")
             return None
 
+    def get_multi_geo_lists(self, list_id=None, start_date=None, end_date=None):
+        """
+        Fetch statistics by list from the ExpertSender API.
+        """
+        try:
+            if start_date is None or end_date is None:
+                today = datetime.now()
+                start_date = today
+                end_date = today
+                
+            url = f"{self.base_url}/Api/SummaryStatistics"
+            params = {
+                'apiKey': self.api_key,
+                'startDate': start_date.strftime('%Y-%m-%d'),
+                'endDate': end_date.strftime('%Y-%m-%d'),
+                'grouping': 'Date'
+            }
+            
+            if list_id is not None:
+                params['scope'] = 'List'
+                params['scopeValue'] = str(list_id)
+            
+            response = self.session.get(url, params=params)
+            response.raise_for_status()
+
+            data = response.json()
+            logger.debug(f"List Statistics API Response: {data}")
+
+            if 'Data' in data:
+                return data['Data']
+            return None
+
+        except requests.RequestException as e:
+            logger.error(f"API request for list statistics failed: {str(e)}")
+            return None
+
 
 class Command(BaseCommand):
     help = 'Import statistics from ExpertSender API'
@@ -78,7 +114,7 @@ class Command(BaseCommand):
 
     def process_account(self, api_config, account_id, account_data, start_date, end_date):
         """
-        Process a specific account to fetch its statistics from the API.
+        Process a specific account to fetch its statistics and multi-geo data from the API.
         """
         logger.info(f"Processing account {account_data['name']} ({account_id})")
 
@@ -87,23 +123,36 @@ class Command(BaseCommand):
             api_key=account_data['api_key']
         )
 
+        # Fetch the standard statistics
         stats = client.get_statistics(start_date, end_date)
+        
+        # Fetch the multi-geo lists
+        multi_geo_data = client.get_multi_geo_lists()
+
         if stats:
             stats['account_id'] = account_id
             stats['account_name'] = account_data['name']
+            
+            # Attach multi-geo data to the stats
+            if multi_geo_data:
+                stats['multi_geo_data'] = multi_geo_data
+            
             return stats
+
         return None
 
     def save_statistics(self, stats, start_date, end_date):
         """
-        Save the fetched statistics into the database.
+        Save the fetched statistics and multi-geo lists into the database.
         """
         try:
+            # Standard database instance
             database_instance, _ = ExpertSenderDatabase.objects.update_or_create(
                 id=stats['account_id'],
                 defaults={'name': stats['account_name']}
             )
 
+            # Save regular statistics
             if 'Data' in stats and 'SummaryStatistics' in stats['Data']:
                 for stat_data in stats['Data']['SummaryStatistics']:
                     try:
@@ -124,10 +173,17 @@ class Command(BaseCommand):
                                 'goals': stat_data.get('Goals', 0),
                                 'goals_value': stat_data.get('GoalsValue', 0),
                                 'revenue': stat_data.get('Revenue', 0),
-                            }
+                            } 
                         )
                     except Exception as e:
                         logger.error(f"Failed to save statistics for domain_family: {stat_data.get('DomainFamily', '')}, error: {str(e)}")
+
+            # Optionally save multi-geo data (if needed)
+            if 'multi_geo_data' in stats:
+                for geo_entry in stats['multi_geo_data']:
+                    # Process and save multi-geo data, e.g., creating separate models or combining with campaign metrics
+                    pass
+
         except Exception as e:
             logger.error(f"Failed to save statistics for {stats['account_name']} ({stats['account_id']}): {str(e)}")
             raise

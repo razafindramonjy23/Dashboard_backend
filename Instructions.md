@@ -31,3 +31,5 @@ print("Nouveau Token :", new_token.token)
 
 '''
 
+# Nombre de jours entre 2019-01-01 et 2025-04-29 ≃ 2340
+python manage.py expertsender --days=2340

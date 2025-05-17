@@ -52,7 +52,7 @@ class ExpertSenderAPI:
             logger.error(f"API request failed: {str(e)}")
             return None
 
-    def get_multi_geo_lists(self):
+    def get_multi_geo_lists(self, grouping: str = "Date"):
         """
         Fetch multi-geo databases from the ExpertSender API.
         
@@ -61,8 +61,9 @@ class ExpertSenderAPI:
             url = f"{self.base_url}/Api/Lists"
             params = {
                 'apiKey': self.api_key,
-                'grouping': 'DomainFamily'  
+                'grouping': grouping
             }
+            headers = {'Accept': 'application/json'}
             response = self.session.get(url, params=params)
             response.raise_for_status()
 

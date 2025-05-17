@@ -12,6 +12,11 @@ from datetime import datetime
 from django.db.models import Min, Max, Count
 from django.db.models.functions import TruncYear
 
+import requests
+from django.conf import settings
+
+
+
 
 def parse_date(date_str):
     return datetime.strptime(date_str, '%Y-%m-%d').date()
@@ -369,4 +374,162 @@ class CampaignMetricsViewSet(viewsets.ReadOnlyModelViewSet):
             {"value": "date", "label": "Date"},
         ]
         return Response(groupings)
+    
+    
+    
+    @action(detail=False, methods=["POST"])
+    def gemini_predictive_insight(self, request):
+        """
+        Appelle l'API Gemini pour générer un classement prédictif basé sur les données envoyées.
+        Analyse toutes les bases de données fournies pour une prédiction complète.
+        """
+        try:
+            data = request.data.get('metrics')
+            if not data:
+                return Response({"error": "No metrics data provided"}, status=400)
 
+            api_key = settings.GEMINI_API_KEY
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
+
+            # Calcul des taux moyens globaux pour normalisation
+            total_sent = sum(item.get("sent", 0) for item in data)
+            total_opens = sum(item.get("opens", 0) for item in data)
+            total_clicks = sum(item.get("clicks", 0) for item in data)
+            avg_click_rate = round((total_clicks / total_opens) * 100, 2) if total_opens > 0 else 0
+
+            all_data = []
+            for item in data:
+                database = item.get("database", "N/A")
+                sent = item.get("sent", 0)
+                delivered = item.get("delivered", 0)
+                opens = item.get("opens", 0)
+                clicks = item.get("clicks", 0)
+                bounced = item.get("bounced", 0)
+
+                open_rate = round((opens / delivered) * 100, 2) if delivered > 0 else 0
+                click_rate = round((clicks / opens) * 100, 2) if opens > 0 else 0
+                bounce_rate = round((bounced / sent) * 100, 2) if sent > 0 else 0
+
+                engagement_ratio = clicks / opens if opens > 0 else 0
+                delivery_quality = delivered / sent if sent > 0 else 0
+                growth_potential = (click_rate / avg_click_rate) if avg_click_rate > 0 else 0
+
+                potential_score = (
+                    (engagement_ratio * 0.5) +
+                    (delivery_quality * 0.3) +
+                    (growth_potential * 0.2)
+                ) * 100
+
+                all_data.append({
+                    "database": database,
+                    "sent": sent,
+                    "delivered": delivered,
+                    "opens": opens,
+                    "clicks": clicks,
+                    "bounced": bounced,
+                    "open_rate": open_rate,
+                    "click_rate": click_rate,
+                    "bounce_rate": bounce_rate,
+                    "potential_score": round(potential_score, 2)
+                })
+
+            all_data.sort(key=lambda x: (x["open_rate"], x["click_rate"]), reverse=True)
+            potential_data = sorted(all_data, key=lambda x: x["potential_score"], reverse=True)
+            top_10_potential = potential_data[:10]
+
+            simplified_data = [{
+                "database": item["database"],
+                "metrics": {
+                    "sent": item["sent"],
+                    "delivered": item["delivered"],
+                    "opens": item["opens"],
+                    "clicks": item["clicks"],
+                    "bounced": item["bounced"]
+                },
+                "rates": {
+                    "open_rate": f"{item['open_rate']}%",
+                    "click_rate": f"{item['click_rate']}%",
+                    "bounce_rate": f"{item['bounce_rate']}%"
+                },
+                "potential_score": f"{item['potential_score']}%"
+            } for item in all_data]
+
+            top_potential_data = [{
+                "database": item["database"],
+                "potential_score": f"{item['potential_score']}%",
+                "open_rate": f"{item['open_rate']}%",
+                "click_rate": f"{item['click_rate']}%"
+            } for item in top_10_potential]
+
+            total_delivered = sum(item["delivered"] for item in all_data)
+            total_bounced = sum(item["bounced"] for item in all_data)
+            summary_stats = {
+                "nombre_total_bases": len(all_data),
+                "moyenne_taux_ouverture": round((total_opens / total_delivered) * 100, 2) if total_delivered > 0 else 0,
+                "moyenne_taux_clic": avg_click_rate,
+                "moyenne_taux_rebond": round((total_bounced / total_sent) * 100, 2) if total_sent > 0 else 0
+            }
+
+            prompt = f"""
+                Voici les données de performance email marketing pour {len(all_data)} bases de données :
+                {simplified_data}
+
+                Voici les 10 bases ayant le plus fort potentiel futur :
+                {top_potential_data}
+
+                Analyse toutes les bases de données (pas uniquement celles listées ci-dessus) et réponds EXCLUSIVEMENT sous ce format concis :
+
+                1. TOP 3 BASES ACTUELLES (selon NOMBRE d'ouvertures et de clics uniquement, pas de taux) :
+                Format exact : "NomBase = X ouvertures, Y clics"
+
+                2. 3 BASES À FORT POTENTIEL (différentes des bases du TOP 3) :
+                Format exact : "NomBase = Score potentiel X, croissance estimée Y"
+
+                3. 2 BASES À AMÉLIORER (peu d’ouvertures/clics mais potentiel détecté) :
+                Format exact : "NomBase = Performances actuelles X ouvertures/Y clics → Objectif X/Y"
+
+                4. TENDANCES GLOBALES (sur les {len(all_data)} bases analysées) :
+                Format : "Métrique: valeur" (ex. "Total clics: 10423")
+
+                5. RECOMMANDATION : une seule phrase courte pour améliorer l'ensemble des performances
+
+                IMPORTANT : 
+                - Respecte STRICTEMENT ces formats, sans phrases supplémentaires.
+                - Utilise UNIQUEMENT les NOMBRES d'ouvertures et de clics pour le classement, pas de taux ni de métriques envoyées/livrées.
+                - Ne répète AUCUNE base entre les catégories.
+                - L’analyse doit couvrir L’ENSEMBLE des bases disponibles, sans exception.
+"""
+
+
+
+            response = requests.post(
+                url,
+                json={"contents": [{"parts": [{"text": prompt}]}]},
+                headers={"Content-Type": "application/json"}
+            )
+
+            if response.status_code != 200:
+                return Response({"error": "Gemini API error", "details": response.text}, status=500)
+
+            gemini_response = response.json()
+            if "candidates" in gemini_response and gemini_response["candidates"]:
+                content = gemini_response["candidates"][0]["content"]["parts"][0]["text"]
+                result = {
+                    "insight": content,
+                    "top_potential_bases": [
+                        {"database": item["database"], "potential_score": item["potential_score"]}
+                        for item in top_10_potential
+                    ],
+                    "metadata": {
+                        "analyzed_databases": len(all_data),
+                        "global_stats": summary_stats,
+                        "timestamp": datetime.now().isoformat()
+                    }
+                }
+                return Response(result)
+            else:
+                return Response({"error": "Invalid Gemini response format"}, status=500)
+
+        except Exception as e:
+            import traceback
+            return Response({"error": str(e), "trace": traceback.format_exc()}, status=500)
